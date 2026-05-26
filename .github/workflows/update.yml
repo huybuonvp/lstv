@@ -1,4 +1,4 @@
-name: Update M3U FAST
+name: Update
 
 on:
   schedule:
