@@ -2,7 +2,7 @@ name: Update
 
 on:
   schedule:
-    - cron: '*/10 * * * *'   # chạy mỗi 10 phút
+    - cron: '*/8 * * * *'   # chạy mỗi 10 phút
   workflow_dispatch:
 
 permissions:
