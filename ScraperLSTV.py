@@ -7,7 +7,6 @@ import logging
 from dataclasses import dataclass, asdict
 from typing import List, Optional
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from datetime import datetime
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -153,25 +152,104 @@ class CDNOKScraper:
                         )
         logging.info("M3U saved: %s", filename)
 
-    def export_monplayer_json(self, streams: List[StreamInfo], filename="monplayer.json"):
-        data = []
+    def export_monplayer_json(self, streams: List[StreamInfo], filename="mon.json"):
+        data = {
+            "id": "hoiquan",
+            "url": "https://tinyurl.com/thapcam",
+            "name": "Hội Quán TV",
+            "color": "#1cb57a",
+            "grid_number": 3,
+            "image": {
+                "type": "cover",
+                "url": "https://kaytee1012.github.io/hoiquan_logo.png"
+            },
+            "notice": {
+                "closeable": True,
+                "icon": "https://kaytee1012.github.io/pngegg.png",
+                "id": "notice",
+                "link": "https://t.me/dqstore1",
+                "text": "Nhóm Tele"
+            },
+            "groups": [
+                {
+                    "id": "live",
+                    "name": "🔴 Live bóng đá",
+                    "display": "vertical",
+                    "grid_number": 2,
+                    "enable_detail": False,
+                    "channels": []
+                }
+            ]
+        }
+
+        channels = data["groups"][0]["channels"]
+
         for s in streams:
-            for link, suffix in [(s.m3u8, ""), (s.flv, " FLV")]:
-                if link:  # chỉ giữ lại trận có link
-                    kickoff_str = ""
-                    if s.kickoff:
-                        try:
-                            kickoff_str = datetime.fromtimestamp(s.kickoff).strftime("%Y-%m-%d %H:%M")
-                        except Exception:
-                            kickoff_str = str(s.kickoff)
-                    data.append({
-                        "name": f"{s.home_name} vs {s.away_name}{suffix}",
-                        "url": link,
-                        "logo": s.home_logo or "",
-                        "group": s.league or "Football",
-                        "commentator": s.commentator or "N/A",
-                        "kickoff": kickoff_str
-                    })
+            if not s.m3u8 and not s.flv:
+                continue
+            channel = {
+                "id": f"ch-{s.match_id}-{s.commentator_id or '0'}",
+                "name": f"⚽ {s.home_name} vs {s.away_name}",
+                "type": "single",
+                "display": "thumbnail-only",
+                "enable_detail": False,
+                "image": {
+                    "padding": 1,
+                    "background_color": "#ececec",
+                    "display": "contain",
+                    "url": s.home_logo or "",
+                    "width": 1600,
+                    "height": 1200
+                },
+                "labels": [
+                    {
+                        "text": "● Live",
+                        "position": "top-left",
+                        "color": "#00ffffff",
+                        "text_color": "#ff0000"
+                    }
+                ],
+                "sources": [
+                    {
+                        "id": f"src-{s.match_id}",
+                        "name": "Hội Quán",
+                        "contents": [
+                            {
+                                "id": f"cnt-{s.match_id}",
+                                "name": f"{s.home_name} vs {s.away_name}",
+                                "streams": [
+                                    {
+                                        "id": f"str-{s.match_id}",
+                                        "name": "F",
+                                        "stream_links": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+
+            links = channel["sources"][0]["contents"][0]["streams"][0]["stream_links"]
+            if s.m3u8:
+                links.append({
+                    "id": f"lnk-{s.match_id}-m3u8",
+                    "name": "Link 1",
+                    "type": "hls",
+                    "default": True,
+                    "url": s.m3u8
+                })
+            if s.flv:
+                links.append({
+                    "id": f"lnk-{s.match_id}-flv",
+                    "name": "Link 2",
+                    "type": "flv",
+                    "default": False,
+                    "url": s.flv
+                })
+
+            channels.append(channel)
+
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
         logging.info("MonPlayer JSON saved: %s", filename)
@@ -182,9 +260,9 @@ def main():
     scraper = CDNOKScraper(workers=40)
     streams = scraper.get_all_streams()
     logging.info("Total streams: %d", len(streams))
-    scraper.export_json(streams, filename=f"tv.json")
-    scraper.export_m3u(streams, filename=f"tv.m3u")
-    scraper.export_monplayer_json(streams, filename=f"mon.json")
+    scraper.export_json(streams, filename="tv.json")
+    scraper.export_m3u(streams, filename="tv.m3u")
+    scraper.export_monplayer_json(streams, filename="mon.json")
 
     logging.info("Done in %.2fs", time.time() - start)
 
