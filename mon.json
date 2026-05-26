@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-336128921-253",
-          "name": "⚽ Montenegro U17 vs Denmark U17",
+          "id": "ch-466788926-374",
+          "name": "⚽ Nigeria vs Zimbabwe",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/5815_1h436hps1ka.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/682_165018846810.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,26 +47,197 @@
           ],
           "sources": [
             {
-              "id": "src-336128921",
+              "id": "src-466788926",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-336128921",
-                  "name": "Montenegro U17 vs Denmark U17",
+                  "id": "cnt-466788926",
+                  "name": "Nigeria vs Zimbabwe",
                   "streams": [
                     {
-                      "id": "str-336128921",
+                      "id": "str-466788926",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-336128921-m3u8",
+                          "id": "lnk-466788926-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
+                        },
+                        {
+                          "id": "lnk-466788926-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-455388920-300",
+          "name": "⚽ Greuther Furth vs Rot-Weiss Essen",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/417_16487115697.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-455388920",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-455388920",
+                  "name": "Greuther Furth vs Rot-Weiss Essen",
+                  "streams": [
+                    {
+                      "id": "str-455388920",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-455388920-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
+                        },
+                        {
+                          "id": "lnk-455388920-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-339542924-292",
+          "name": "⚽ Stjarnan Gardabaer vs Vikingur Reykjavik",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/3685_165363460165.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-339542924",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-339542924",
+                  "name": "Stjarnan Gardabaer vs Vikingur Reykjavik",
+                  "streams": [
+                    {
+                      "id": "str-339542924",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-339542924-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
+                        },
+                        {
+                          "id": "lnk-339542924-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-320688925-253",
+          "name": "⚽ Saint Etienne vs Nice",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/231_16487117719.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-320688925",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-320688925",
+                  "name": "Saint Etienne vs Nice",
+                  "streams": [
+                    {
+                      "id": "str-320688925",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-320688925-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
                           "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
                         },
                         {
-                          "id": "lnk-336128921-flv",
+                          "id": "lnk-320688925-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
@@ -81,8 +252,8 @@
           ]
         },
         {
-          "id": "ch-214900824-377",
-          "name": "⚽ HSK Zrinjski Mostar vs FK Velez Mostar",
+          "id": "ch-307890824-81",
+          "name": "⚽ Atletico de Madrid (W) vs UD Granadilla Tenerife Sur (W)",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +261,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/2146_1gtqm9z7vc22.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/5801_1gtzdafg2c20.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,30 +275,30 @@
           ],
           "sources": [
             {
-              "id": "src-214900824",
+              "id": "src-307890824",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-214900824",
-                  "name": "HSK Zrinjski Mostar vs FK Velez Mostar",
+                  "id": "cnt-307890824",
+                  "name": "Atletico de Madrid (W) vs UD Granadilla Tenerife Sur (W)",
                   "streams": [
                     {
-                      "id": "str-214900824",
+                      "id": "str-307890824",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-214900824-m3u8",
+                          "id": "lnk-307890824-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
+                          "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
                         },
                         {
-                          "id": "lnk-214900824-flv",
+                          "id": "lnk-307890824-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
+                          "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
                         }
                       ]
                     }
@@ -138,8 +309,8 @@
           ]
         },
         {
-          "id": "ch-474598924-370",
-          "name": "⚽ Gil Vicente U23 vs Santa Clara U23",
+          "id": "ch-250642928-368",
+          "name": "⚽ KR Reykjavik vs Valur Reykjavik",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -147,7 +318,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/58566_1gzq96w3n912.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/1402_165363447390.png",
             "width": 1600,
             "height": 1200
           },
@@ -161,87 +332,30 @@
           ],
           "sources": [
             {
-              "id": "src-474598924",
+              "id": "src-250642928",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-474598924",
-                  "name": "Gil Vicente U23 vs Santa Clara U23",
+                  "id": "cnt-250642928",
+                  "name": "KR Reykjavik vs Valur Reykjavik",
                   "streams": [
                     {
-                      "id": "str-474598924",
+                      "id": "str-250642928",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-474598924-m3u8",
+                          "id": "lnk-250642928-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
+                          "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
                         },
                         {
-                          "id": "lnk-474598924-flv",
+                          "id": "lnk-250642928-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-204900823-269",
-          "name": "⚽ FK Sloga Doboj vs Rudar Prijedor",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/10259_1gskjw3q9tt.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-204900823",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-204900823",
-                  "name": "FK Sloga Doboj vs Rudar Prijedor",
-                  "streams": [
-                    {
-                      "id": "str-204900823",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-204900823-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
-                        },
-                        {
-                          "id": "lnk-204900823-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
+                          "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
                         }
                       ]
                     }
@@ -299,120 +413,6 @@
                           "type": "flv",
                           "default": false,
                           "url": "https://flv.cdnfaster-a.live/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-357604923-372",
-          "name": "⚽ BFC Daugavpils vs FK Auda Riga",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/20253_1h5e49xkhm31.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-357604923",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-357604923",
-                  "name": "BFC Daugavpils vs FK Auda Riga",
-                  "streams": [
-                    {
-                      "id": "str-357604923",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-357604923-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
-                        },
-                        {
-                          "id": "lnk-357604923-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-586998921-339",
-          "name": "⚽ Banik Ostrava vs FK MAS Taborsko",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/615_1hbcqm6fcd13.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-586998921",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-586998921",
-                  "name": "Banik Ostrava vs FK MAS Taborsko",
-                  "streams": [
-                    {
-                      "id": "str-586998921",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-586998921-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
-                        },
-                        {
-                          "id": "lnk-586998921-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
                         }
                       ]
                     }
