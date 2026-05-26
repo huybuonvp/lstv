@@ -1,114 +1,599 @@
-[
-  {
-    "name": "Brisbane Olympic United FC vs Queensland Lions SC",
-    "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-    "logo": "https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png",
-    "group": "A FFA Cup",
-    "commentator": "BLV TÔN LẬP",
-    "kickoff": "2026-05-26 09:00"
+{
+  "id": "hoiquan",
+  "url": "https://tinyurl.com/thapcam",
+  "name": "Hội Quán TV",
+  "color": "#1cb57a",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://kaytee1012.github.io/hoiquan_logo.png"
   },
-  {
-    "name": "Brisbane Olympic United FC vs Queensland Lions SC FLV",
-    "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
-    "logo": "https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png",
-    "group": "A FFA Cup",
-    "commentator": "BLV TÔN LẬP",
-    "kickoff": "2026-05-26 09:00"
+  "notice": {
+    "closeable": true,
+    "icon": "https://kaytee1012.github.io/pngegg.png",
+    "id": "notice",
+    "link": "https://t.me/dqstore1",
+    "text": "Nhóm Tele"
   },
-  {
-    "name": "Italy U17 vs France U17",
-    "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-    "logo": "https://cdn-img.cdnokvip.com/logos/1837_165750303647.png",
-    "group": "UEFA U17",
-    "commentator": "BLV VÕ TÒNG",
-    "kickoff": "2026-05-26 11:30"
-  },
-  {
-    "name": "Italy U17 vs France U17 FLV",
-    "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-    "logo": "https://cdn-img.cdnokvip.com/logos/1837_165750303647.png",
-    "group": "UEFA U17",
-    "commentator": "BLV VÕ TÒNG",
-    "kickoff": "2026-05-26 11:30"
-  },
-  {
-    "name": "North Star vs Gold Coast United",
-    "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
-    "logo": "https://cdn-img.cdnokvip.com/logos/8860_1hx0r83dgcw.png",
-    "group": "A FFA Cup",
-    "commentator": "BLV HÀN TÍN",
-    "kickoff": "2026-05-26 09:30"
-  },
-  {
-    "name": "North Star vs Gold Coast United FLV",
-    "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
-    "logo": "https://cdn-img.cdnokvip.com/logos/8860_1hx0r83dgcw.png",
-    "group": "A FFA Cup",
-    "commentator": "BLV HÀN TÍN",
-    "kickoff": "2026-05-26 09:30"
-  },
-  {
-    "name": "Rochedale Rovers vs Capalaba Bulldogs",
-    "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-    "logo": "https://cdn-img.cdnokvip.com/logos/8801_1gytyt6907x.png",
-    "group": "A FFA Cup",
-    "commentator": "BLV VÕ TÒNG",
-    "kickoff": "2026-05-26 09:00"
-  },
-  {
-    "name": "Rochedale Rovers vs Capalaba Bulldogs FLV",
-    "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
-    "logo": "https://cdn-img.cdnokvip.com/logos/8801_1gytyt6907x.png",
-    "group": "A FFA Cup",
-    "commentator": "BLV VÕ TÒNG",
-    "kickoff": "2026-05-26 09:00"
-  },
-  {
-    "name": "FC Shakhtyor Karagandy vs FK Yelimay Semey B",
-    "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-    "logo": "https://cdn-img.cdnokvip.com/logos/4911_1hyvw30n1h28.png",
-    "group": "KAZ D1",
-    "commentator": "BLV LƯU BỊ",
-    "kickoff": "2026-05-26 10:00"
-  },
-  {
-    "name": "FC Shakhtyor Karagandy vs FK Yelimay Semey B FLV",
-    "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
-    "logo": "https://cdn-img.cdnokvip.com/logos/4911_1hyvw30n1h28.png",
-    "group": "KAZ D1",
-    "commentator": "BLV LƯU BỊ",
-    "kickoff": "2026-05-26 10:00"
-  },
-  {
-    "name": "Logan Lightning (W) vs Palm Beach SC (W)",
-    "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-    "logo": "https://cdn-img.cdnokvip.com/logos/22302_1gvvn5yvzf1d.png",
-    "group": "AUS WQSL",
-    "commentator": "BLV LÝ ỨNG",
-    "kickoff": "2026-05-26 09:30"
-  },
-  {
-    "name": "Logan Lightning (W) vs Palm Beach SC (W) FLV",
-    "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
-    "logo": "https://cdn-img.cdnokvip.com/logos/22302_1gvvn5yvzf1d.png",
-    "group": "AUS WQSL",
-    "commentator": "BLV LÝ ỨNG",
-    "kickoff": "2026-05-26 09:30"
-  },
-  {
-    "name": "Caboolture FC vs AC Carina",
-    "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-    "logo": "https://cdn-img.cdnokvip.com/logos/29983_1gytyt690re.png",
-    "group": "A FFA Cup",
-    "commentator": "BLV LỮ BỐ",
-    "kickoff": "2026-05-26 09:30"
-  },
-  {
-    "name": "Caboolture FC vs AC Carina FLV",
-    "url": "https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
-    "logo": "https://cdn-img.cdnokvip.com/logos/29983_1gytyt690re.png",
-    "group": "A FFA Cup",
-    "commentator": "BLV LỮ BỐ",
-    "kickoff": "2026-05-26 09:30"
-  }
-]
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 Live bóng đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "ch-e61e8b0d-726e-49c7-8328-bd497ba05fc4-246",
+          "name": "⚽ Jas Qyran vs  FC Kaysar Reserve",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1779793571.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e61e8b0d-726e-49c7-8328-bd497ba05fc4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-e61e8b0d-726e-49c7-8328-bd497ba05fc4",
+                  "name": "Jas Qyran vs  FC Kaysar Reserve",
+                  "streams": [
+                    {
+                      "id": "str-e61e8b0d-726e-49c7-8328-bd497ba05fc4",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-e61e8b0d-726e-49c7-8328-bd497ba05fc4-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1"
+                        },
+                        {
+                          "id": "lnk-e61e8b0d-726e-49c7-8328-bd497ba05fc4-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-230216923-374",
+          "name": "⚽ Chengdu Rongcheng B vs Guizhou Guiyang Athletic FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/68909_1jr9hya80k1x.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-230216923",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-230216923",
+                  "name": "Chengdu Rongcheng B vs Guizhou Guiyang Athletic FC",
+                  "streams": [
+                    {
+                      "id": "str-230216923",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-230216923-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
+                        },
+                        {
+                          "id": "lnk-230216923-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-048c0689-7c3c-434f-bdd5-ed80400b272a-328",
+          "name": "⚽ Italy U17 vs France U17",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/1837_165750303647.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-048c0689-7c3c-434f-bdd5-ed80400b272a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-048c0689-7c3c-434f-bdd5-ed80400b272a",
+                  "name": "Italy U17 vs France U17",
+                  "streams": [
+                    {
+                      "id": "str-048c0689-7c3c-434f-bdd5-ed80400b272a",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-048c0689-7c3c-434f-bdd5-ed80400b272a-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+                        },
+                        {
+                          "id": "lnk-048c0689-7c3c-434f-bdd5-ed80400b272a-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-8538b5c5-87b1-4b5d-9bbb-741ceca01574-298",
+          "name": "⚽ Hangzhou Linping Wuyue vs Hubei Istar",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/62261_1hyse2yvqp11.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8538b5c5-87b1-4b5d-9bbb-741ceca01574",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-8538b5c5-87b1-4b5d-9bbb-741ceca01574",
+                  "name": "Hangzhou Linping Wuyue vs Hubei Istar",
+                  "streams": [
+                    {
+                      "id": "str-8538b5c5-87b1-4b5d-9bbb-741ceca01574",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8538b5c5-87b1-4b5d-9bbb-741ceca01574-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
+                        },
+                        {
+                          "id": "lnk-8538b5c5-87b1-4b5d-9bbb-741ceca01574-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-492946921-339",
+          "name": "⚽ Akademiya Ontustik vs FK Kaspiy Aktau B",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/33976_1gxa4ree2a3.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-492946921",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-492946921",
+                  "name": "Akademiya Ontustik vs FK Kaspiy Aktau B",
+                  "streams": [
+                    {
+                      "id": "str-492946921",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-492946921-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
+                        },
+                        {
+                          "id": "lnk-492946921-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-9b0de3c5-f36e-48d8-a604-df9ab4905bd3-300",
+          "name": "⚽ Thimphu City vs RTC FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/24359_167288872055.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9b0de3c5-f36e-48d8-a604-df9ab4905bd3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-9b0de3c5-f36e-48d8-a604-df9ab4905bd3",
+                  "name": "Thimphu City vs RTC FC",
+                  "streams": [
+                    {
+                      "id": "str-9b0de3c5-f36e-48d8-a604-df9ab4905bd3",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9b0de3c5-f36e-48d8-a604-df9ab4905bd3-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
+                        },
+                        {
+                          "id": "lnk-9b0de3c5-f36e-48d8-a604-df9ab4905bd3-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-488558925-135",
+          "name": "⚽ Nasaf Qarshi vs Shurtan Guzor",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/8767_1hdqcw8mtn25.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-488558925",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-488558925",
+                  "name": "Nasaf Qarshi vs Shurtan Guzor",
+                  "streams": [
+                    {
+                      "id": "str-488558925",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-488558925-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1"
+                        },
+                        {
+                          "id": "lnk-488558925-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-336558928-377",
+          "name": "⚽ Neftchi Fargona vs Buxoro University",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/8770_1gtk2wx6bv1v.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-336558928",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-336558928",
+                  "name": "Neftchi Fargona vs Buxoro University",
+                  "streams": [
+                    {
+                      "id": "str-336558928",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-336558928-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
+                        },
+                        {
+                          "id": "lnk-336558928-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-303946923-292",
+          "name": "⚽ FK Arys vs Kairat Almaty II",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/61228_1gwbdfbdzq1k.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-303946923",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-303946923",
+                  "name": "FK Arys vs Kairat Almaty II",
+                  "streams": [
+                    {
+                      "id": "str-303946923",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-303946923-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
+                        },
+                        {
+                          "id": "lnk-303946923-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-fae9efcb-0eaa-49bf-ad5c-d26d9fd1ab47-359",
+          "name": "⚽ FK Arys vs Kairat Almaty II",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/61228_1gwbdfbdzq1k.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-fae9efcb-0eaa-49bf-ad5c-d26d9fd1ab47",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-fae9efcb-0eaa-49bf-ad5c-d26d9fd1ab47",
+                  "name": "FK Arys vs Kairat Almaty II",
+                  "streams": [
+                    {
+                      "id": "str-fae9efcb-0eaa-49bf-ad5c-d26d9fd1ab47",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fae9efcb-0eaa-49bf-ad5c-d26d9fd1ab47-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
+                        },
+                        {
+                          "id": "lnk-fae9efcb-0eaa-49bf-ad5c-d26d9fd1ab47-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

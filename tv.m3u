@@ -1,10 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="228c75f8-3e74-4837-8196-957d8ad193a1" tvg-name="Brisbane Olympic United FC vs Queensland Lions SC" tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png" group-title="A FFA Cup",Brisbane Olympic United FC vs Queensland Lions SC | BLV TÔN LẬP
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-id="e61e8b0d-726e-49c7-8328-bd497ba05fc4" tvg-name="Jas Qyran vs  FC Kaysar Reserve" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779793571.png" group-title="Kazakhstan 2nd",Jas Qyran vs  FC Kaysar Reserve | BLV LỮ BỐ
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
-#EXTINF:-1 tvg-id="228c75f8-3e74-4837-8196-957d8ad193a1_flv" tvg-name="Brisbane Olympic United FC vs Queensland Lions SC" tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png" group-title="A FFA Cup",Brisbane Olympic United FC vs Queensland Lions SC FLV | BLV TÔN LẬP
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-id="e61e8b0d-726e-49c7-8328-bd497ba05fc4_flv" tvg-name="Jas Qyran vs  FC Kaysar Reserve" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779793571.png" group-title="Kazakhstan 2nd",Jas Qyran vs  FC Kaysar Reserve FLV | BLV LỮ BỐ
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 tvg-id="230216923" tvg-name="Chengdu Rongcheng B vs Guizhou Guiyang Athletic FC" tvg-logo="https://cdn-img.cdnokvip.com/logos/68909_1jr9hya80k1x.png" group-title="CHA D2",Chengdu Rongcheng B vs Guizhou Guiyang Athletic FC | BLV NGƯỜI THÉP
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 tvg-id="230216923_flv" tvg-name="Chengdu Rongcheng B vs Guizhou Guiyang Athletic FC" tvg-logo="https://cdn-img.cdnokvip.com/logos/68909_1jr9hya80k1x.png" group-title="CHA D2",Chengdu Rongcheng B vs Guizhou Guiyang Athletic FC FLV | BLV NGƯỜI THÉP
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
 #EXTINF:-1 tvg-id="048c0689-7c3c-434f-bdd5-ed80400b272a" tvg-name="Italy U17 vs France U17" tvg-logo="https://cdn-img.cdnokvip.com/logos/1837_165750303647.png" group-title="UEFA U17",Italy U17 vs France U17 | BLV VÕ TÒNG
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -12,33 +18,45 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:-1 tvg-id="048c0689-7c3c-434f-bdd5-ed80400b272a_flv" tvg-name="Italy U17 vs France U17" tvg-logo="https://cdn-img.cdnokvip.com/logos/1837_165750303647.png" group-title="UEFA U17",Italy U17 vs France U17 FLV | BLV VÕ TÒNG
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="306ceff2-570f-4552-8761-f7f4df5265fb" tvg-name="North Star vs Gold Coast United" tvg-logo="https://cdn-img.cdnokvip.com/logos/8860_1hx0r83dgcw.png" group-title="A FFA Cup",North Star vs Gold Coast United | BLV HÀN TÍN
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-id="8538b5c5-87b1-4b5d-9bbb-741ceca01574" tvg-name="Hangzhou Linping Wuyue vs Hubei Istar" tvg-logo="https://cdn-img.cdnokvip.com/logos/62261_1hyse2yvqp11.png" group-title="CHA D2",Hangzhou Linping Wuyue vs Hubei Istar | BLV TÂY MÔN KHÁNH
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 tvg-id="306ceff2-570f-4552-8761-f7f4df5265fb_flv" tvg-name="North Star vs Gold Coast United" tvg-logo="https://cdn-img.cdnokvip.com/logos/8860_1hx0r83dgcw.png" group-title="A FFA Cup",North Star vs Gold Coast United FLV | BLV HÀN TÍN
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-id="8538b5c5-87b1-4b5d-9bbb-741ceca01574_flv" tvg-name="Hangzhou Linping Wuyue vs Hubei Istar" tvg-logo="https://cdn-img.cdnokvip.com/logos/62261_1hyse2yvqp11.png" group-title="CHA D2",Hangzhou Linping Wuyue vs Hubei Istar FLV | BLV TÂY MÔN KHÁNH
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 tvg-id="2a53094e-9737-459f-9af0-d54d3cd8380d" tvg-name="Rochedale Rovers vs Capalaba Bulldogs" tvg-logo="https://cdn-img.cdnokvip.com/logos/8801_1gytyt6907x.png" group-title="A FFA Cup",Rochedale Rovers vs Capalaba Bulldogs | BLV VÕ TÒNG
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-id="492946921" tvg-name="Akademiya Ontustik vs FK Kaspiy Aktau B" tvg-logo="https://cdn-img.cdnokvip.com/logos/33976_1gxa4ree2a3.png" group-title="KAZ D1",Akademiya Ontustik vs FK Kaspiy Aktau B | BLV SHIN
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 tvg-id="2a53094e-9737-459f-9af0-d54d3cd8380d_flv" tvg-name="Rochedale Rovers vs Capalaba Bulldogs" tvg-logo="https://cdn-img.cdnokvip.com/logos/8801_1gytyt6907x.png" group-title="A FFA Cup",Rochedale Rovers vs Capalaba Bulldogs FLV | BLV VÕ TÒNG
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-id="492946921_flv" tvg-name="Akademiya Ontustik vs FK Kaspiy Aktau B" tvg-logo="https://cdn-img.cdnokvip.com/logos/33976_1gxa4ree2a3.png" group-title="KAZ D1",Akademiya Ontustik vs FK Kaspiy Aktau B FLV | BLV SHIN
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 tvg-id="e110f1d6-1d46-40df-8ee6-8ac390dc0d3f" tvg-name="FC Shakhtyor Karagandy vs FK Yelimay Semey B" tvg-logo="https://cdn-img.cdnokvip.com/logos/4911_1hyvw30n1h28.png" group-title="KAZ D1",FC Shakhtyor Karagandy vs FK Yelimay Semey B | BLV LƯU BỊ
+#EXTINF:-1 tvg-id="9b0de3c5-f36e-48d8-a604-df9ab4905bd3" tvg-name="Thimphu City vs RTC FC" tvg-logo="https://cdn-img.cdnokvip.com/logos/24359_167288872055.png" group-title="BHU TL",Thimphu City vs RTC FC | BLV TÔN LẬP
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 tvg-id="9b0de3c5-f36e-48d8-a604-df9ab4905bd3_flv" tvg-name="Thimphu City vs RTC FC" tvg-logo="https://cdn-img.cdnokvip.com/logos/24359_167288872055.png" group-title="BHU TL",Thimphu City vs RTC FC FLV | BLV TÔN LẬP
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 tvg-id="488558925" tvg-name="Nasaf Qarshi vs Shurtan Guzor" tvg-logo="https://cdn-img.cdnokvip.com/logos/8767_1hdqcw8mtn25.png" group-title="UzbC",Nasaf Qarshi vs Shurtan Guzor | BLV LƯU BỊ
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 tvg-id="e110f1d6-1d46-40df-8ee6-8ac390dc0d3f_flv" tvg-name="FC Shakhtyor Karagandy vs FK Yelimay Semey B" tvg-logo="https://cdn-img.cdnokvip.com/logos/4911_1hyvw30n1h28.png" group-title="KAZ D1",FC Shakhtyor Karagandy vs FK Yelimay Semey B FLV | BLV LƯU BỊ
+#EXTINF:-1 tvg-id="488558925_flv" tvg-name="Nasaf Qarshi vs Shurtan Guzor" tvg-logo="https://cdn-img.cdnokvip.com/logos/8767_1hdqcw8mtn25.png" group-title="UzbC",Nasaf Qarshi vs Shurtan Guzor FLV | BLV LƯU BỊ
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 tvg-id="326609924" tvg-name="Logan Lightning (W) vs Palm Beach SC (W)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22302_1gvvn5yvzf1d.png" group-title="AUS WQSL",Logan Lightning (W) vs Palm Beach SC (W) | BLV LÝ ỨNG
+#EXTINF:-1 tvg-id="336558928" tvg-name="Neftchi Fargona vs Buxoro University" tvg-logo="https://cdn-img.cdnokvip.com/logos/8770_1gtk2wx6bv1v.png" group-title="UzbC",Neftchi Fargona vs Buxoro University | BLV PHI HỔ
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+
+#EXTINF:-1 tvg-id="336558928_flv" tvg-name="Neftchi Fargona vs Buxoro University" tvg-logo="https://cdn-img.cdnokvip.com/logos/8770_1gtk2wx6bv1v.png" group-title="UzbC",Neftchi Fargona vs Buxoro University FLV | BLV PHI HỔ
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+
+#EXTINF:-1 tvg-id="303946923" tvg-name="FK Arys vs Kairat Almaty II" tvg-logo="https://cdn-img.cdnokvip.com/logos/61228_1gwbdfbdzq1k.png" group-title="KAZ D1",FK Arys vs Kairat Almaty II | BLV LÝ ỨNG
 https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 tvg-id="326609924_flv" tvg-name="Logan Lightning (W) vs Palm Beach SC (W)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22302_1gvvn5yvzf1d.png" group-title="AUS WQSL",Logan Lightning (W) vs Palm Beach SC (W) FLV | BLV LÝ ỨNG
+#EXTINF:-1 tvg-id="303946923_flv" tvg-name="FK Arys vs Kairat Almaty II" tvg-logo="https://cdn-img.cdnokvip.com/logos/61228_1gwbdfbdzq1k.png" group-title="KAZ D1",FK Arys vs Kairat Almaty II FLV | BLV LÝ ỨNG
 https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 tvg-id="312588925" tvg-name="Caboolture FC vs AC Carina" tvg-logo="https://cdn-img.cdnokvip.com/logos/29983_1gytyt690re.png" group-title="A FFA Cup",Caboolture FC vs AC Carina | BLV LỮ BỐ
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-id="fae9efcb-0eaa-49bf-ad5c-d26d9fd1ab47" tvg-name="FK Arys vs Kairat Almaty II" tvg-logo="https://cdn-img.cdnokvip.com/logos/61228_1gwbdfbdzq1k.png" group-title="KAZ D1",FK Arys vs Kairat Almaty II | BLV LEO
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 tvg-id="312588925_flv" tvg-name="Caboolture FC vs AC Carina" tvg-logo="https://cdn-img.cdnokvip.com/logos/29983_1gytyt690re.png" group-title="A FFA Cup",Caboolture FC vs AC Carina FLV | BLV LỮ BỐ
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-id="fae9efcb-0eaa-49bf-ad5c-d26d9fd1ab47_flv" tvg-name="FK Arys vs Kairat Almaty II" tvg-logo="https://cdn-img.cdnokvip.com/logos/61228_1gwbdfbdzq1k.png" group-title="KAZ D1",FK Arys vs Kairat Almaty II FLV | BLV LEO
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
