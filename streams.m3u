@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="481588921" tvg-name="Brisbane Olympic United FC vs Queensland Lions SC" tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png" group-title="A FFA Cup",Brisbane Olympic United FC vs Queensland Lions SC | BLV KAKA
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 tvg-id="481588921_flv" tvg-name="Brisbane Olympic United FC vs Queensland Lions SC" tvg-logo="https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png" group-title="A FFA Cup",Brisbane Olympic United FC vs Queensland Lions SC FLV | BLV KAKA
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 tvg-id="330188921" tvg-name="North Star vs Gold Coast United" tvg-logo="https://cdn-img.cdnokvip.com/logos/8860_1hx0r83dgcw.png" group-title="A FFA Cup",North Star vs Gold Coast United | BLV YẾN THANH
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-id="330188921_flv" tvg-name="North Star vs Gold Coast United" tvg-logo="https://cdn-img.cdnokvip.com/logos/8860_1hx0r83dgcw.png" group-title="A FFA Cup",North Star vs Gold Coast United FLV | BLV YẾN THANH
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-id="048c0689-7c3c-434f-bdd5-ed80400b272a" tvg-name="Italy U17 vs France U17" tvg-logo="https://cdn-img.cdnokvip.com/logos/1837_165750303647.png" group-title="UEFA U17",Italy U17 vs France U17 | BLV VÕ TÒNG
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="048c0689-7c3c-434f-bdd5-ed80400b272a_flv" tvg-name="Italy U17 vs France U17" tvg-logo="https://cdn-img.cdnokvip.com/logos/1837_165750303647.png" group-title="UEFA U17",Italy U17 vs France U17 FLV | BLV VÕ TÒNG
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="e110f1d6-1d46-40df-8ee6-8ac390dc0d3f" tvg-name="FC Shakhtyor Karagandy vs FK Yelimay Semey B" tvg-logo="https://cdn-img.cdnokvip.com/logos/4911_1hyvw30n1h28.png" group-title="KAZ D1",FC Shakhtyor Karagandy vs FK Yelimay Semey B | BLV LƯU BỊ
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 tvg-id="e110f1d6-1d46-40df-8ee6-8ac390dc0d3f_flv" tvg-name="FC Shakhtyor Karagandy vs FK Yelimay Semey B" tvg-logo="https://cdn-img.cdnokvip.com/logos/4911_1hyvw30n1h28.png" group-title="KAZ D1",FC Shakhtyor Karagandy vs FK Yelimay Semey B FLV | BLV LƯU BỊ
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 tvg-id="326609924" tvg-name="Logan Lightning (W) vs Palm Beach SC (W)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22302_1gvvn5yvzf1d.png" group-title="AUS WQSL",Logan Lightning (W) vs Palm Beach SC (W) | BLV LÝ ỨNG
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+
+#EXTINF:-1 tvg-id="326609924_flv" tvg-name="Logan Lightning (W) vs Palm Beach SC (W)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22302_1gvvn5yvzf1d.png" group-title="AUS WQSL",Logan Lightning (W) vs Palm Beach SC (W) FLV | BLV LÝ ỨNG
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+
+#EXTINF:-1 tvg-id="312588925" tvg-name="Caboolture FC vs AC Carina" tvg-logo="https://cdn-img.cdnokvip.com/logos/29983_1gytyt690re.png" group-title="A FFA Cup",Caboolture FC vs AC Carina | BLV LỮ BỐ
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 tvg-id="312588925_flv" tvg-name="Caboolture FC vs AC Carina" tvg-logo="https://cdn-img.cdnokvip.com/logos/29983_1gytyt690re.png" group-title="A FFA Cup",Caboolture FC vs AC Carina FLV | BLV LỮ BỐ
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 tvg-id="214309928" tvg-name="Rochedale Rovers vs Capalaba Bulldogs" tvg-logo="https://cdn-img.cdnokvip.com/logos/8801_1gytyt6907x.png" group-title="A FFA Cup",Rochedale Rovers vs Capalaba Bulldogs | BLV MỘT CHÂN
+https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="214309928_flv" tvg-name="Rochedale Rovers vs Capalaba Bulldogs" tvg-logo="https://cdn-img.cdnokvip.com/logos/8801_1gytyt6907x.png" group-title="A FFA Cup",Rochedale Rovers vs Capalaba Bulldogs FLV | BLV MỘT CHÂN
+https://flv.cdnfaster-a.live/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
+
