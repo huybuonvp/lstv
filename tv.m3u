@@ -1,15 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="458788927" tvg-name="Midlakes United vs Bigfoot" tvg-logo="https://cdn-img.cdnokvip.com/logos/65539_1hy78knmk92.png" group-title="USA-ULT",Midlakes United vs Bigfoot | BLV VÕ TÒNG
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 tvg-id="458788927_flv" tvg-name="Midlakes United vs Bigfoot" tvg-logo="https://cdn-img.cdnokvip.com/logos/65539_1hy78knmk92.png" group-title="USA-ULT",Midlakes United vs Bigfoot FLV | BLV VÕ TÒNG
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
 #EXTINF:-1 tvg-id="329636927" tvg-name="Sao Paulo vs Boston River" tvg-logo="https://cdn-img.cdnokvip.com/logos/413_1hxqrprbs1c.png" group-title="CON CSA",Sao Paulo vs Boston River | BLV VÕ TÒNG
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 #EXTINF:-1 tvg-id="329636927_flv" tvg-name="Sao Paulo vs Boston River" tvg-logo="https://cdn-img.cdnokvip.com/logos/413_1hxqrprbs1c.png" group-title="CON CSA",Sao Paulo vs Boston River FLV | BLV VÕ TÒNG
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="339636928" tvg-name="Millonarios vs O.Higgins" tvg-logo="https://cdn-img.cdnokvip.com/logos/2226_1gtzctyqwt2n.png" group-title="CON CSA",Millonarios vs O.Higgins | BLV YẾN THANH
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-id="339636928_flv" tvg-name="Millonarios vs O.Higgins" tvg-logo="https://cdn-img.cdnokvip.com/logos/2226_1gtzctyqwt2n.png" group-title="CON CSA",Millonarios vs O.Higgins FLV | BLV YẾN THANH
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-id="458788927" tvg-name="Midlakes United vs Bigfoot" tvg-logo="https://cdn-img.cdnokvip.com/logos/65539_1hy78knmk92.png" group-title="USA-ULT",Midlakes United vs Bigfoot | BLV VÕ TÒNG
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="458788927_flv" tvg-name="Midlakes United vs Bigfoot" tvg-logo="https://cdn-img.cdnokvip.com/logos/65539_1hy78knmk92.png" group-title="USA-ULT",Midlakes United vs Bigfoot FLV | BLV VÕ TÒNG
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 #EXTINF:-1 tvg-id="495788928" tvg-name="Delaware vs Philadelphia Lone Star" tvg-logo="https://cdn-img.cdnokvip.com/logos/69319_1jwa6pbewk8.png" group-title="USA-ULT",Delaware vs Philadelphia Lone Star | BLV LEO
@@ -17,10 +23,4 @@ https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a13
 
 #EXTINF:-1 tvg-id="495788928_flv" tvg-name="Delaware vs Philadelphia Lone Star" tvg-logo="https://cdn-img.cdnokvip.com/logos/69319_1jwa6pbewk8.png" group-title="USA-ULT",Delaware vs Philadelphia Lone Star FLV | BLV LEO
 https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 tvg-id="339636928" tvg-name="Millonarios vs O.Higgins" tvg-logo="https://cdn-img.cdnokvip.com/logos/2226_1gtzctyqwt2n.png" group-title="CON CSA",Millonarios vs O.Higgins | BLV YẾN THANH
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 tvg-id="339636928_flv" tvg-name="Millonarios vs O.Higgins" tvg-logo="https://cdn-img.cdnokvip.com/logos/2226_1gtzctyqwt2n.png" group-title="CON CSA",Millonarios vs O.Higgins FLV | BLV YẾN THANH
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
