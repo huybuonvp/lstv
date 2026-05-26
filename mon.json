@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-466788926-374",
-          "name": "⚽ Nigeria vs Zimbabwe",
+          "id": "ch-346348926-358",
+          "name": "⚽ Deportivo Pereira vs Jaguares de Cordoba",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/682_165018846810.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/2222_1gzj3wzmx21k.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,30 +47,30 @@
           ],
           "sources": [
             {
-              "id": "src-466788926",
+              "id": "src-346348926",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-466788926",
-                  "name": "Nigeria vs Zimbabwe",
+                  "id": "cnt-346348926",
+                  "name": "Deportivo Pereira vs Jaguares de Cordoba",
                   "streams": [
                     {
-                      "id": "str-466788926",
+                      "id": "str-346348926",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-466788926-m3u8",
+                          "id": "lnk-346348926-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
+                          "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
                         },
                         {
-                          "id": "lnk-466788926-flv",
+                          "id": "lnk-346348926-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
+                          "url": "https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
                         }
                       ]
                     }
@@ -81,8 +81,8 @@
           ]
         },
         {
-          "id": "ch-455388920-300",
-          "name": "⚽ Greuther Furth vs Rot-Weiss Essen",
+          "id": "ch-356348927-298",
+          "name": "⚽ Real Soacha Cundinamarca vs Aguilas Doradas",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/417_16487115697.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/6884_1hrr4bq4s61k.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,315 +104,30 @@
           ],
           "sources": [
             {
-              "id": "src-455388920",
+              "id": "src-356348927",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-455388920",
-                  "name": "Greuther Furth vs Rot-Weiss Essen",
+                  "id": "cnt-356348927",
+                  "name": "Real Soacha Cundinamarca vs Aguilas Doradas",
                   "streams": [
                     {
-                      "id": "str-455388920",
+                      "id": "str-356348927",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-455388920-m3u8",
+                          "id": "lnk-356348927-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
+                          "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
                         },
                         {
-                          "id": "lnk-455388920-flv",
+                          "id": "lnk-356348927-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-339542924-292",
-          "name": "⚽ Stjarnan Gardabaer vs Vikingur Reykjavik",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/3685_165363460165.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-339542924",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-339542924",
-                  "name": "Stjarnan Gardabaer vs Vikingur Reykjavik",
-                  "streams": [
-                    {
-                      "id": "str-339542924",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-339542924-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
-                        },
-                        {
-                          "id": "lnk-339542924-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-320688925-253",
-          "name": "⚽ Saint Etienne vs Nice",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/231_16487117719.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-320688925",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-320688925",
-                  "name": "Saint Etienne vs Nice",
-                  "streams": [
-                    {
-                      "id": "str-320688925",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-320688925-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
-                        },
-                        {
-                          "id": "lnk-320688925-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-307890824-81",
-          "name": "⚽ Atletico de Madrid (W) vs UD Granadilla Tenerife Sur (W)",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/5801_1gtzdafg2c20.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-307890824",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-307890824",
-                  "name": "Atletico de Madrid (W) vs UD Granadilla Tenerife Sur (W)",
-                  "streams": [
-                    {
-                      "id": "str-307890824",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-307890824-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
-                        },
-                        {
-                          "id": "lnk-307890824-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-250642928-368",
-          "name": "⚽ KR Reykjavik vs Valur Reykjavik",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/1402_165363447390.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-250642928",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-250642928",
-                  "name": "KR Reykjavik vs Valur Reykjavik",
-                  "streams": [
-                    {
-                      "id": "str-250642928",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-250642928-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
-                        },
-                        {
-                          "id": "lnk-250642928-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-457788926-369",
-          "name": "⚽ Hapoel Beer Sheva vs Maccabi Tel Aviv",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/825_1jz4aremqv30.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-457788926",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-457788926",
-                  "name": "Hapoel Beer Sheva vs Maccabi Tel Aviv",
-                  "streams": [
-                    {
-                      "id": "str-457788926",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-457788926-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
-                        },
-                        {
-                          "id": "lnk-457788926-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21"
+                          "url": "https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
                         }
                       ]
                     }
