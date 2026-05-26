@@ -182,9 +182,9 @@ def main():
     scraper = CDNOKScraper(workers=40)
     streams = scraper.get_all_streams()
     logging.info("Total streams: %d", len(streams))
-    scraper.export_json(streams, filename=f"streams.json")
-    scraper.export_m3u(streams, filename=f"streams.m3u")
-    scraper.export_monplayer_json(streams, filename=f"monplayer.json")
+    scraper.export_json(streams, filename=f"tv.json")
+    scraper.export_m3u(streams, filename=f"tv.m3u")
+    scraper.export_monplayer_json(streams, filename=f"mon.json")
 
     logging.info("Done in %.2fs", time.time() - start)
 
