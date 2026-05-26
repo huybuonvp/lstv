@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "name": "Brisbane Olympic United FC vs Queensland Lions SC",
+    "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
+    "logo": "https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png",
+    "group": "A FFA Cup",
+    "commentator": "BLV TÔN LẬP",
+    "kickoff": "2026-05-26 09:00"
+  },
+  {
+    "name": "Brisbane Olympic United FC vs Queensland Lions SC FLV",
+    "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df",
+    "logo": "https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png",
+    "group": "A FFA Cup",
+    "commentator": "BLV TÔN LẬP",
+    "kickoff": "2026-05-26 09:00"
+  },
+  {
+    "name": "Italy U17 vs France U17",
+    "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+    "logo": "https://cdn-img.cdnokvip.com/logos/1837_165750303647.png",
+    "group": "UEFA U17",
+    "commentator": "BLV VÕ TÒNG",
+    "kickoff": "2026-05-26 11:30"
+  },
+  {
+    "name": "Italy U17 vs France U17 FLV",
+    "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+    "logo": "https://cdn-img.cdnokvip.com/logos/1837_165750303647.png",
+    "group": "UEFA U17",
+    "commentator": "BLV VÕ TÒNG",
+    "kickoff": "2026-05-26 11:30"
+  },
+  {
+    "name": "North Star vs Gold Coast United",
+    "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
+    "logo": "https://cdn-img.cdnokvip.com/logos/8860_1hx0r83dgcw.png",
+    "group": "A FFA Cup",
+    "commentator": "BLV HÀN TÍN",
+    "kickoff": "2026-05-26 09:30"
+  },
+  {
+    "name": "North Star vs Gold Coast United FLV",
+    "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df",
+    "logo": "https://cdn-img.cdnokvip.com/logos/8860_1hx0r83dgcw.png",
+    "group": "A FFA Cup",
+    "commentator": "BLV HÀN TÍN",
+    "kickoff": "2026-05-26 09:30"
+  },
+  {
+    "name": "Rochedale Rovers vs Capalaba Bulldogs",
+    "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+    "logo": "https://cdn-img.cdnokvip.com/logos/8801_1gytyt6907x.png",
+    "group": "A FFA Cup",
+    "commentator": "BLV VÕ TÒNG",
+    "kickoff": "2026-05-26 09:00"
+  },
+  {
+    "name": "Rochedale Rovers vs Capalaba Bulldogs FLV",
+    "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299",
+    "logo": "https://cdn-img.cdnokvip.com/logos/8801_1gytyt6907x.png",
+    "group": "A FFA Cup",
+    "commentator": "BLV VÕ TÒNG",
+    "kickoff": "2026-05-26 09:00"
+  },
+  {
+    "name": "FC Shakhtyor Karagandy vs FK Yelimay Semey B",
+    "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+    "logo": "https://cdn-img.cdnokvip.com/logos/4911_1hyvw30n1h28.png",
+    "group": "KAZ D1",
+    "commentator": "BLV LƯU BỊ",
+    "kickoff": "2026-05-26 10:00"
+  },
+  {
+    "name": "FC Shakhtyor Karagandy vs FK Yelimay Semey B FLV",
+    "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1",
+    "logo": "https://cdn-img.cdnokvip.com/logos/4911_1hyvw30n1h28.png",
+    "group": "KAZ D1",
+    "commentator": "BLV LƯU BỊ",
+    "kickoff": "2026-05-26 10:00"
+  },
+  {
+    "name": "Logan Lightning (W) vs Palm Beach SC (W)",
+    "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+    "logo": "https://cdn-img.cdnokvip.com/logos/22302_1gvvn5yvzf1d.png",
+    "group": "AUS WQSL",
+    "commentator": "BLV LÝ ỨNG",
+    "kickoff": "2026-05-26 09:30"
+  },
+  {
+    "name": "Logan Lightning (W) vs Palm Beach SC (W) FLV",
+    "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d",
+    "logo": "https://cdn-img.cdnokvip.com/logos/22302_1gvvn5yvzf1d.png",
+    "group": "AUS WQSL",
+    "commentator": "BLV LÝ ỨNG",
+    "kickoff": "2026-05-26 09:30"
+  },
+  {
+    "name": "Caboolture FC vs AC Carina",
+    "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+    "logo": "https://cdn-img.cdnokvip.com/logos/29983_1gytyt690re.png",
+    "group": "A FFA Cup",
+    "commentator": "BLV LỮ BỐ",
+    "kickoff": "2026-05-26 09:30"
+  },
+  {
+    "name": "Caboolture FC vs AC Carina FLV",
+    "url": "https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1",
+    "logo": "https://cdn-img.cdnokvip.com/logos/29983_1gytyt690re.png",
+    "group": "A FFA Cup",
+    "commentator": "BLV LỮ BỐ",
+    "kickoff": "2026-05-26 09:30"
+  }
+]
