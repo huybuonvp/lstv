@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-346348926-358",
-          "name": "⚽ Deportivo Pereira vs Jaguares de Cordoba",
+          "id": "ch-458788927-328",
+          "name": "⚽ Midlakes United vs Bigfoot",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/2222_1gzj3wzmx21k.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/65539_1hy78knmk92.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,30 +47,30 @@
           ],
           "sources": [
             {
-              "id": "src-346348926",
+              "id": "src-458788927",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-346348926",
-                  "name": "Deportivo Pereira vs Jaguares de Cordoba",
+                  "id": "cnt-458788927",
+                  "name": "Midlakes United vs Bigfoot",
                   "streams": [
                     {
-                      "id": "str-346348926",
+                      "id": "str-458788927",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-346348926-m3u8",
+                          "id": "lnk-458788927-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
+                          "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
                         },
                         {
-                          "id": "lnk-346348926-flv",
+                          "id": "lnk-458788927-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
+                          "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
                         }
                       ]
                     }
@@ -81,8 +81,8 @@
           ]
         },
         {
-          "id": "ch-356348927-298",
-          "name": "⚽ Real Soacha Cundinamarca vs Aguilas Doradas",
+          "id": "ch-329636927-328",
+          "name": "⚽ Sao Paulo vs Boston River",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/6884_1hrr4bq4s61k.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/413_1hxqrprbs1c.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,30 +104,144 @@
           ],
           "sources": [
             {
-              "id": "src-356348927",
+              "id": "src-329636927",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-356348927",
-                  "name": "Real Soacha Cundinamarca vs Aguilas Doradas",
+                  "id": "cnt-329636927",
+                  "name": "Sao Paulo vs Boston River",
                   "streams": [
                     {
-                      "id": "str-356348927",
+                      "id": "str-329636927",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-356348927-m3u8",
+                          "id": "lnk-329636927-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
+                          "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
                         },
                         {
-                          "id": "lnk-356348927-flv",
+                          "id": "lnk-329636927-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
+                          "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-495788928-359",
+          "name": "⚽ Delaware vs Philadelphia Lone Star",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/69319_1jwa6pbewk8.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-495788928",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-495788928",
+                  "name": "Delaware vs Philadelphia Lone Star",
+                  "streams": [
+                    {
+                      "id": "str-495788928",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-495788928-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
+                        },
+                        {
+                          "id": "lnk-495788928-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-339636928-320",
+          "name": "⚽ Millonarios vs O.Higgins",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/2226_1gtzctyqwt2n.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-339636928",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-339636928",
+                  "name": "Millonarios vs O.Higgins",
+                  "streams": [
+                    {
+                      "id": "str-339636928",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-339636928-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
+                        },
+                        {
+                          "id": "lnk-339636928-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
                         }
                       ]
                     }
