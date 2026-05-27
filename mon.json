@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-329636927-328",
-          "name": "⚽ Sao Paulo vs Boston River",
+          "id": "ch-c28ab493-3afb-4546-bf24-750a97da22d3-320",
+          "name": "⚽ Oklahoma City Thunder vs San Antonio Spurs",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/413_1hxqrprbs1c.png",
+            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1779819924.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,83 +47,26 @@
           ],
           "sources": [
             {
-              "id": "src-329636927",
+              "id": "src-c28ab493-3afb-4546-bf24-750a97da22d3",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-329636927",
-                  "name": "Sao Paulo vs Boston River",
+                  "id": "cnt-c28ab493-3afb-4546-bf24-750a97da22d3",
+                  "name": "Oklahoma City Thunder vs San Antonio Spurs",
                   "streams": [
                     {
-                      "id": "str-329636927",
+                      "id": "str-c28ab493-3afb-4546-bf24-750a97da22d3",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-329636927-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
-                        },
-                        {
-                          "id": "lnk-329636927-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-339636928-320",
-          "name": "⚽ Millonarios vs O.Higgins",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/2226_1gtzctyqwt2n.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-339636928",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-339636928",
-                  "name": "Millonarios vs O.Higgins",
-                  "streams": [
-                    {
-                      "id": "str-339636928",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-339636928-m3u8",
+                          "id": "lnk-c28ab493-3afb-4546-bf24-750a97da22d3-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
                           "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
                         },
                         {
-                          "id": "lnk-339636928-flv",
+                          "id": "lnk-c28ab493-3afb-4546-bf24-750a97da22d3-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
@@ -185,63 +128,6 @@
                           "type": "flv",
                           "default": false,
                           "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-495788928-359",
-          "name": "⚽ Delaware vs Philadelphia Lone Star",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/69319_1jwa6pbewk8.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-495788928",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-495788928",
-                  "name": "Delaware vs Philadelphia Lone Star",
-                  "streams": [
-                    {
-                      "id": "str-495788928",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-495788928-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
-                        },
-                        {
-                          "id": "lnk-495788928-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
                         }
                       ]
                     }
