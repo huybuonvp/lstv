@@ -7,7 +7,7 @@ import logging
 from dataclasses import dataclass, asdict
 from typing import List, Optional
 from concurrent.futures import ThreadPoolExecutor, as_completed
-
+from datetime import datetime, timezone, timedelta
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
@@ -136,21 +136,28 @@ class CDNOKScraper:
             json.dump([asdict(s) for s in streams], f, indent=2, ensure_ascii=False)
         logging.info("JSON saved: %s", filename)
 
-    def export_m3u(self, streams: List[StreamInfo], filename="streams.m3u"):
-        with open(filename, "w", encoding="utf-8") as f:
-            f.write("#EXTM3U\n\n")
-            for s in streams:
-                title = f"{s.home_name} vs {s.away_name}"
-                logo = s.home_logo or ""
-                group = s.league or "Football"
-                for link, suffix in [(s.m3u8, ""), (s.flv, " FLV")]:
-                    if link:
-                        f.write(
-                            f'#EXTINF:-1 tvg-id="{s.match_id}{ "_flv" if suffix else ""}" '
-                            f'tvg-name="{title}" tvg-logo="{logo}" '
-                            f'group-title="{group}",{title}{suffix} | {s.commentator}\n{link}\n\n'
-                        )
-        logging.info("M3U saved: %s", filename)
+def export_m3u(self, streams: List[StreamInfo], filename="streams.m3u"):
+    ict = timezone(timedelta(hours=7))  # GMT+7
+
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write("#EXTM3U\n\n")
+        for s in streams:
+            # kickoff theo GMT+7
+            kickoff_dt = datetime.fromtimestamp(s.kickoff, tz=ict)
+            kickoff_str = kickoff_dt.strftime("%Y-%m-%d %H:%M")
+
+            title = f"{s.home_name} vs {s.away_name} ({kickoff_str})"
+            logo = s.home_logo or ""
+            group = s.league or "Football"
+
+            for link, suffix in [(s.m3u8, ""), (s.flv, " FLV")]:
+                if link:
+                    f.write(
+                        f'#EXTINF:-1 tvg-id="{s.match_id}{ "_flv" if suffix else ""}" '
+                        f'tvg-name="{title}" tvg-logo="{logo}" '
+                        f'group-title="{group}",{title}{suffix} | {s.commentator}\n{link}\n\n'
+                    )
+    logging.info("M3U saved: %s", filename)
 
     def export_monplayer_json(self, streams: List[StreamInfo], filename="mon.json"):
         data = {
