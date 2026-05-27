@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-588888921-374",
-          "name": "⚽ BGU Minsk vs Osipovichy",
+          "id": "ch-ea6fc3de-05ec-4463-9fb9-d3832426ea5a-337",
+          "name": "⚽ Jamaica vs India",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/44673_20200425224545.jpg",
+            "url": "https://cdn-img.cdnokvip.com/logos/692_165018931758.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,144 +47,87 @@
           ],
           "sources": [
             {
-              "id": "src-588888921",
+              "id": "src-ea6fc3de-05ec-4463-9fb9-d3832426ea5a",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-588888921",
-                  "name": "BGU Minsk vs Osipovichy",
+                  "id": "cnt-ea6fc3de-05ec-4463-9fb9-d3832426ea5a",
+                  "name": "Jamaica vs India",
                   "streams": [
                     {
-                      "id": "str-588888921",
+                      "id": "str-ea6fc3de-05ec-4463-9fb9-d3832426ea5a",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-588888921-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
-                        },
-                        {
-                          "id": "lnk-588888921-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-596998922-359",
-          "name": "⚽ Artis Brno vs Synot Slovacko",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/5746_1k0n85g5b011.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-596998922",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-596998922",
-                  "name": "Artis Brno vs Synot Slovacko",
-                  "streams": [
-                    {
-                      "id": "str-596998922",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-596998922-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
-                        },
-                        {
-                          "id": "lnk-596998922-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-57c23922-cdf0-4543-81fd-307cf2321f45-337",
-          "name": "⚽ Neman Mosty vs Niva Dolbizno",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1779896868.jpg",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-57c23922-cdf0-4543-81fd-307cf2321f45",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-57c23922-cdf0-4543-81fd-307cf2321f45",
-                  "name": "Neman Mosty vs Niva Dolbizno",
-                  "streams": [
-                    {
-                      "id": "str-57c23922-cdf0-4543-81fd-307cf2321f45",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-57c23922-cdf0-4543-81fd-307cf2321f45-m3u8",
+                          "id": "lnk-ea6fc3de-05ec-4463-9fb9-d3832426ea5a-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
                           "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33"
                         },
                         {
-                          "id": "lnk-57c23922-cdf0-4543-81fd-307cf2321f45-flv",
+                          "id": "lnk-ea6fc3de-05ec-4463-9fb9-d3832426ea5a-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
                           "url": "https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-3ff4b4cb-28e3-4bfd-8f95-548c47f0f9ca-135",
+          "name": "⚽ Crystal Palace vs Rayo Vallecano",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/29_164577426766.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3ff4b4cb-28e3-4bfd-8f95-548c47f0f9ca",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-3ff4b4cb-28e3-4bfd-8f95-548c47f0f9ca",
+                  "name": "Crystal Palace vs Rayo Vallecano",
+                  "streams": [
+                    {
+                      "id": "str-3ff4b4cb-28e3-4bfd-8f95-548c47f0f9ca",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-3ff4b4cb-28e3-4bfd-8f95-548c47f0f9ca-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1"
+                        },
+                        {
+                          "id": "lnk-3ff4b4cb-28e3-4bfd-8f95-548c47f0f9ca-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1"
                         }
                       ]
                     }
@@ -252,120 +195,6 @@
           ]
         },
         {
-          "id": "ch-216211922-370",
-          "name": "⚽ Eskilstuna United (W) vs Hammarby (W)",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/5229_1j5hhnrxbez.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-216211922",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-216211922",
-                  "name": "Eskilstuna United (W) vs Hammarby (W)",
-                  "streams": [
-                    {
-                      "id": "str-216211922",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-216211922-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
-                        },
-                        {
-                          "id": "lnk-216211922-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-295211929-358",
-          "name": "⚽ AIK Solna (W) vs BK Hacken (W)",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/4672_1gs1ke9fmf2p.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-295211929",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-295211929",
-                  "name": "AIK Solna (W) vs BK Hacken (W)",
-                  "streams": [
-                    {
-                      "id": "str-295211929",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-295211929-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
-                        },
-                        {
-                          "id": "lnk-295211929-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "ch-59c29ad1-bfe0-4e25-9335-cde8e0a6c3f1-372",
           "name": "⚽ HK Kopavogs vs Volsungur husavik",
           "type": "single",
@@ -413,63 +242,6 @@
                           "type": "flv",
                           "default": false,
                           "url": "https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-1b61357a-495a-4156-b0ed-b75323e49d3c-253",
-          "name": "⚽ NK Primorje vs NK Nafta",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/1119_1gxmbn3zr7w.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-1b61357a-495a-4156-b0ed-b75323e49d3c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-1b61357a-495a-4156-b0ed-b75323e49d3c",
-                  "name": "NK Primorje vs NK Nafta",
-                  "streams": [
-                    {
-                      "id": "str-1b61357a-495a-4156-b0ed-b75323e49d3c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1b61357a-495a-4156-b0ed-b75323e49d3c-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
-                        },
-                        {
-                          "id": "lnk-1b61357a-495a-4156-b0ed-b75323e49d3c-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
                         }
                       ]
                     }

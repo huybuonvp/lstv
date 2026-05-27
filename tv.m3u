@@ -1,22 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="588888921" tvg-name="BGU Minsk vs Osipovichy (2026-05-27 23:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/44673_20200425224545.jpg" group-title="BLR CUP",BGU Minsk vs Osipovichy (2026-05-27 23:00) | BLV NGƯỜI THÉP
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 tvg-id="588888921_flv" tvg-name="BGU Minsk vs Osipovichy (2026-05-27 23:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/44673_20200425224545.jpg" group-title="BLR CUP",BGU Minsk vs Osipovichy (2026-05-27 23:00) FLV | BLV NGƯỜI THÉP
-https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 tvg-id="596998922" tvg-name="Artis Brno vs Synot Slovacko (2026-05-27 23:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5746_1k0n85g5b011.png" group-title="CZE D1",Artis Brno vs Synot Slovacko (2026-05-27 23:00) | BLV LEO
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 tvg-id="596998922_flv" tvg-name="Artis Brno vs Synot Slovacko (2026-05-27 23:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5746_1k0n85g5b011.png" group-title="CZE D1",Artis Brno vs Synot Slovacko (2026-05-27 23:00) FLV | BLV LEO
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 tvg-id="57c23922-cdf0-4543-81fd-307cf2321f45" tvg-name="Neman Mosty vs Niva Dolbizno (2026-05-27 23:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779896868.jpg" group-title="BLR CUP",Neman Mosty vs Niva Dolbizno (2026-05-27 23:00) | BLV DƯƠNG CHÍ
+#EXTINF:-1 tvg-id="ea6fc3de-05ec-4463-9fb9-d3832426ea5a" tvg-name="Jamaica vs India (2026-05-28 01:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/692_165018931758.png" group-title="INT FRL",Jamaica vs India (2026-05-28 01:30) | BLV DƯƠNG CHÍ
 https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
-#EXTINF:-1 tvg-id="57c23922-cdf0-4543-81fd-307cf2321f45_flv" tvg-name="Neman Mosty vs Niva Dolbizno (2026-05-27 23:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779896868.jpg" group-title="BLR CUP",Neman Mosty vs Niva Dolbizno (2026-05-27 23:00) FLV | BLV DƯƠNG CHÍ
+#EXTINF:-1 tvg-id="ea6fc3de-05ec-4463-9fb9-d3832426ea5a_flv" tvg-name="Jamaica vs India (2026-05-28 01:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/692_165018931758.png" group-title="INT FRL",Jamaica vs India (2026-05-28 01:30) FLV | BLV DƯƠNG CHÍ
 https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
+#EXTINF:-1 tvg-id="3ff4b4cb-28e3-4bfd-8f95-548c47f0f9ca" tvg-name="Crystal Palace vs Rayo Vallecano (2026-05-28 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/29_164577426766.png" group-title="UEFA ECL",Crystal Palace vs Rayo Vallecano (2026-05-28 02:00) | BLV LƯU BỊ
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 tvg-id="3ff4b4cb-28e3-4bfd-8f95-548c47f0f9ca_flv" tvg-name="Crystal Palace vs Rayo Vallecano (2026-05-28 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/29_164577426766.png" group-title="UEFA ECL",Crystal Palace vs Rayo Vallecano (2026-05-28 02:00) FLV | BLV LƯU BỊ
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
 #EXTINF:-1 tvg-id="120213929" tvg-name="Vestri vs UMF Njardvik (2026-05-28 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23953_1gt88qdnp22y.png" group-title="ICE D1",Vestri vs UMF Njardvik (2026-05-28 01:00) | BLV FERNANDO
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
@@ -24,27 +18,9 @@ https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab
 #EXTINF:-1 tvg-id="120213929_flv" tvg-name="Vestri vs UMF Njardvik (2026-05-28 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23953_1gt88qdnp22y.png" group-title="ICE D1",Vestri vs UMF Njardvik (2026-05-28 01:00) FLV | BLV FERNANDO
 https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 tvg-id="216211922" tvg-name="Eskilstuna United (W) vs Hammarby (W) (2026-05-28 00:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5229_1j5hhnrxbez.png" group-title="SWE WD1",Eskilstuna United (W) vs Hammarby (W) (2026-05-28 00:00) | BLV HÀN TÍN
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 tvg-id="216211922_flv" tvg-name="Eskilstuna United (W) vs Hammarby (W) (2026-05-28 00:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5229_1j5hhnrxbez.png" group-title="SWE WD1",Eskilstuna United (W) vs Hammarby (W) (2026-05-28 00:00) FLV | BLV HÀN TÍN
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 tvg-id="295211929" tvg-name="AIK Solna (W) vs BK Hacken (W) (2026-05-28 00:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4672_1gs1ke9fmf2p.png" group-title="SWE WD1",AIK Solna (W) vs BK Hacken (W) (2026-05-28 00:00) | BLV MAYBACH
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-
-#EXTINF:-1 tvg-id="295211929_flv" tvg-name="AIK Solna (W) vs BK Hacken (W) (2026-05-28 00:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4672_1gs1ke9fmf2p.png" group-title="SWE WD1",AIK Solna (W) vs BK Hacken (W) (2026-05-28 00:00) FLV | BLV MAYBACH
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-
 #EXTINF:-1 tvg-id="59c29ad1-bfe0-4e25-9335-cde8e0a6c3f1" tvg-name="HK Kopavogs vs Volsungur husavik (2026-05-28 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2168_1gxmbq0bec1f.png" group-title="ICE D1",HK Kopavogs vs Volsungur husavik (2026-05-28 01:00) | BLV LÃO HẠC
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
 #EXTINF:-1 tvg-id="59c29ad1-bfe0-4e25-9335-cde8e0a6c3f1_flv" tvg-name="HK Kopavogs vs Volsungur husavik (2026-05-28 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2168_1gxmbq0bec1f.png" group-title="ICE D1",HK Kopavogs vs Volsungur husavik (2026-05-28 01:00) FLV | BLV LÃO HẠC
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 tvg-id="1b61357a-495a-4156-b0ed-b75323e49d3c" tvg-name="NK Primorje vs NK Nafta (2026-05-27 23:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1119_1gxmbn3zr7w.png" group-title="SLO D1",NK Primorje vs NK Nafta (2026-05-27 23:00) | BLV PELE
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 tvg-id="1b61357a-495a-4156-b0ed-b75323e49d3c_flv" tvg-name="NK Primorje vs NK Nafta (2026-05-27 23:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1119_1gxmbn3zr7w.png" group-title="SLO D1",NK Primorje vs NK Nafta (2026-05-27 23:00) FLV | BLV PELE
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
