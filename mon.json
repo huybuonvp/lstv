@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-c28ab493-3afb-4546-bf24-750a97da22d3-320",
-          "name": "⚽ Oklahoma City Thunder vs San Antonio Spurs",
+          "id": "ch-363316920-253",
+          "name": "⚽ Yan An Ronghai vs Qingdao Red Lions",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1779819924.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/60083_1jrcx9hjze2z.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,30 +47,30 @@
           ],
           "sources": [
             {
-              "id": "src-c28ab493-3afb-4546-bf24-750a97da22d3",
+              "id": "src-363316920",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-c28ab493-3afb-4546-bf24-750a97da22d3",
-                  "name": "Oklahoma City Thunder vs San Antonio Spurs",
+                  "id": "cnt-363316920",
+                  "name": "Yan An Ronghai vs Qingdao Red Lions",
                   "streams": [
                     {
-                      "id": "str-c28ab493-3afb-4546-bf24-750a97da22d3",
+                      "id": "str-363316920",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c28ab493-3afb-4546-bf24-750a97da22d3-m3u8",
+                          "id": "lnk-363316920-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
+                          "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
                         },
                         {
-                          "id": "lnk-c28ab493-3afb-4546-bf24-750a97da22d3-flv",
+                          "id": "lnk-363316920-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
+                          "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
                         }
                       ]
                     }
@@ -81,8 +81,8 @@
           ]
         },
         {
-          "id": "ch-458788927-328",
-          "name": "⚽ Midlakes United vs Bigfoot",
+          "id": "ch-351809924-300",
+          "name": "⚽ Geoje Citizen vs Jecheon Citizen FC",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/65539_1hy78knmk92.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/48810_1gtqmdp51n2k.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,30 +104,201 @@
           ],
           "sources": [
             {
-              "id": "src-458788927",
+              "id": "src-351809924",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-458788927",
-                  "name": "Midlakes United vs Bigfoot",
+                  "id": "cnt-351809924",
+                  "name": "Geoje Citizen vs Jecheon Citizen FC",
                   "streams": [
                     {
-                      "id": "str-458788927",
+                      "id": "str-351809924",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-458788927-m3u8",
+                          "id": "lnk-351809924-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+                          "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
                         },
                         {
-                          "id": "lnk-458788927-flv",
+                          "id": "lnk-351809924-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+                          "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-311809920-369",
+          "name": "⚽ Gijang United vs Busan Transportation Corporation",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/68761_1jmnq13czm1p.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-311809920",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-311809920",
+                  "name": "Gijang United vs Busan Transportation Corporation",
+                  "streams": [
+                    {
+                      "id": "str-311809920",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-311809920-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+                        },
+                        {
+                          "id": "lnk-311809920-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-253316929-339",
+          "name": "⚽ Dalian Yingbo B vs Shandong Taishan B",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1779846131.webp",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-253316929",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-253316929",
+                  "name": "Dalian Yingbo B vs Shandong Taishan B",
+                  "streams": [
+                    {
+                      "id": "str-253316929",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-253316929-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
+                        },
+                        {
+                          "id": "lnk-253316929-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-719439c6-ff27-4949-9c17-b110586e944a-345",
+          "name": "⚽ Liverpool vs Chelsea",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1779863719.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-719439c6-ff27-4949-9c17-b110586e944a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-719439c6-ff27-4949-9c17-b110586e944a",
+                  "name": "Liverpool vs Chelsea",
+                  "streams": [
+                    {
+                      "id": "str-719439c6-ff27-4949-9c17-b110586e944a",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-719439c6-ff27-4949-9c17-b110586e944a-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1"
+                        },
+                        {
+                          "id": "lnk-719439c6-ff27-4949-9c17-b110586e944a-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1"
                         }
                       ]
                     }

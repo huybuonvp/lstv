@@ -1,14 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="c28ab493-3afb-4546-bf24-750a97da22d3" tvg-name="Oklahoma City Thunder vs San Antonio Spurs" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779819924.png" group-title="NBA - Play Offs - Bán kết",Oklahoma City Thunder vs San Antonio Spurs | BLV YẾN THANH
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-id="363316920" tvg-name="Yan An Ronghai vs Qingdao Red Lions" tvg-logo="https://cdn-img.cdnokvip.com/logos/60083_1jrcx9hjze2z.png" group-title="CHA D2",Yan An Ronghai vs Qingdao Red Lions | BLV PELE
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
-#EXTINF:-1 tvg-id="c28ab493-3afb-4546-bf24-750a97da22d3_flv" tvg-name="Oklahoma City Thunder vs San Antonio Spurs" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779819924.png" group-title="NBA - Play Offs - Bán kết",Oklahoma City Thunder vs San Antonio Spurs FLV | BLV YẾN THANH
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-id="363316920_flv" tvg-name="Yan An Ronghai vs Qingdao Red Lions" tvg-logo="https://cdn-img.cdnokvip.com/logos/60083_1jrcx9hjze2z.png" group-title="CHA D2",Yan An Ronghai vs Qingdao Red Lions FLV | BLV PELE
+https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
-#EXTINF:-1 tvg-id="458788927" tvg-name="Midlakes United vs Bigfoot" tvg-logo="https://cdn-img.cdnokvip.com/logos/65539_1hy78knmk92.png" group-title="USA-ULT",Midlakes United vs Bigfoot | BLV VÕ TÒNG
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-id="351809924" tvg-name="Geoje Citizen vs Jecheon Citizen FC" tvg-logo="https://cdn-img.cdnokvip.com/logos/48810_1gtqmdp51n2k.png" group-title="K3-K4 Championship",Geoje Citizen vs Jecheon Citizen FC | BLV TÔN LẬP
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 tvg-id="458788927_flv" tvg-name="Midlakes United vs Bigfoot" tvg-logo="https://cdn-img.cdnokvip.com/logos/65539_1hy78knmk92.png" group-title="USA-ULT",Midlakes United vs Bigfoot FLV | BLV VÕ TÒNG
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-id="351809924_flv" tvg-name="Geoje Citizen vs Jecheon Citizen FC" tvg-logo="https://cdn-img.cdnokvip.com/logos/48810_1gtqmdp51n2k.png" group-title="K3-K4 Championship",Geoje Citizen vs Jecheon Citizen FC FLV | BLV TÔN LẬP
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 tvg-id="311809920" tvg-name="Gijang United vs Busan Transportation Corporation" tvg-logo="https://cdn-img.cdnokvip.com/logos/68761_1jmnq13czm1p.png" group-title="K3-K4 Championship",Gijang United vs Busan Transportation Corporation | BLV MỘT CHÂN
+https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="311809920_flv" tvg-name="Gijang United vs Busan Transportation Corporation" tvg-logo="https://cdn-img.cdnokvip.com/logos/68761_1jmnq13czm1p.png" group-title="K3-K4 Championship",Gijang United vs Busan Transportation Corporation FLV | BLV MỘT CHÂN
+https://flv.cdnfaster-a.live/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
+
+#EXTINF:-1 tvg-id="253316929" tvg-name="Dalian Yingbo B vs Shandong Taishan B" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779846131.webp" group-title="CHA D2",Dalian Yingbo B vs Shandong Taishan B | BLV SHIN
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+
+#EXTINF:-1 tvg-id="253316929_flv" tvg-name="Dalian Yingbo B vs Shandong Taishan B" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779846131.webp" group-title="CHA D2",Dalian Yingbo B vs Shandong Taishan B FLV | BLV SHIN
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+
+#EXTINF:-1 tvg-id="719439c6-ff27-4949-9c17-b110586e944a" tvg-name="Liverpool vs Chelsea" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779863719.png" group-title="English Premier League",Liverpool vs Chelsea | BLV KEVILL REPLAY
+https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+
+#EXTINF:-1 tvg-id="719439c6-ff27-4949-9c17-b110586e944a_flv" tvg-name="Liverpool vs Chelsea" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779863719.png" group-title="English Premier League",Liverpool vs Chelsea FLV | BLV KEVILL REPLAY
+https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 
