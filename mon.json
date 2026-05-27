@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-418888924-300",
-          "name": "⚽ Vertical vs Smorgon FC",
+          "id": "ch-588888921-374",
+          "name": "⚽ BGU Minsk vs Osipovichy",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "",
+            "url": "https://cdn-img.cdnokvip.com/logos/44673_20200425224545.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -47,30 +47,30 @@
           ],
           "sources": [
             {
-              "id": "src-418888924",
+              "id": "src-588888921",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-418888924",
-                  "name": "Vertical vs Smorgon FC",
+                  "id": "cnt-588888921",
+                  "name": "BGU Minsk vs Osipovichy",
                   "streams": [
                     {
-                      "id": "str-418888924",
+                      "id": "str-588888921",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-418888924-m3u8",
+                          "id": "lnk-588888921-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
+                          "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
                         },
                         {
-                          "id": "lnk-418888924-flv",
+                          "id": "lnk-588888921-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
+                          "url": "https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
                         }
                       ]
                     }
@@ -81,8 +81,8 @@
           ]
         },
         {
-          "id": "ch-4812325a-2fec-4ffb-a0bd-c55dccfd12aa-377",
-          "name": "⚽ Irtysh Pavlodar vs Ulytau Zhezkazgan",
+          "id": "ch-596998922-359",
+          "name": "⚽ Artis Brno vs Synot Slovacko",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/4912_20130804165930.gif",
+            "url": "https://cdn-img.cdnokvip.com/logos/5746_1k0n85g5b011.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,30 +104,30 @@
           ],
           "sources": [
             {
-              "id": "src-4812325a-2fec-4ffb-a0bd-c55dccfd12aa",
+              "id": "src-596998922",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-4812325a-2fec-4ffb-a0bd-c55dccfd12aa",
-                  "name": "Irtysh Pavlodar vs Ulytau Zhezkazgan",
+                  "id": "cnt-596998922",
+                  "name": "Artis Brno vs Synot Slovacko",
                   "streams": [
                     {
-                      "id": "str-4812325a-2fec-4ffb-a0bd-c55dccfd12aa",
+                      "id": "str-596998922",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4812325a-2fec-4ffb-a0bd-c55dccfd12aa-m3u8",
+                          "id": "lnk-596998922-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
+                          "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
                         },
                         {
-                          "id": "lnk-4812325a-2fec-4ffb-a0bd-c55dccfd12aa-flv",
+                          "id": "lnk-596998922-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
+                          "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
                         }
                       ]
                     }
@@ -138,8 +138,8 @@
           ]
         },
         {
-          "id": "ch-323946925-358",
-          "name": "⚽ Jaiyq vs FK Aktobe II",
+          "id": "ch-57c23922-cdf0-4543-81fd-307cf2321f45-337",
+          "name": "⚽ Neman Mosty vs Niva Dolbizno",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -147,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1779883880.jpg",
+            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1779896868.jpg",
             "width": 1600,
             "height": 1200
           },
@@ -161,26 +161,197 @@
           ],
           "sources": [
             {
-              "id": "src-323946925",
+              "id": "src-57c23922-cdf0-4543-81fd-307cf2321f45",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-323946925",
-                  "name": "Jaiyq vs FK Aktobe II",
+                  "id": "cnt-57c23922-cdf0-4543-81fd-307cf2321f45",
+                  "name": "Neman Mosty vs Niva Dolbizno",
                   "streams": [
                     {
-                      "id": "str-323946925",
+                      "id": "str-57c23922-cdf0-4543-81fd-307cf2321f45",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-323946925-m3u8",
+                          "id": "lnk-57c23922-cdf0-4543-81fd-307cf2321f45-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33"
+                        },
+                        {
+                          "id": "lnk-57c23922-cdf0-4543-81fd-307cf2321f45-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-120213929-368",
+          "name": "⚽ Vestri vs UMF Njardvik",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/23953_1gt88qdnp22y.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-120213929",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-120213929",
+                  "name": "Vestri vs UMF Njardvik",
+                  "streams": [
+                    {
+                      "id": "str-120213929",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-120213929-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
+                        },
+                        {
+                          "id": "lnk-120213929-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-216211922-370",
+          "name": "⚽ Eskilstuna United (W) vs Hammarby (W)",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/5229_1j5hhnrxbez.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-216211922",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-216211922",
+                  "name": "Eskilstuna United (W) vs Hammarby (W)",
+                  "streams": [
+                    {
+                      "id": "str-216211922",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-216211922-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
+                        },
+                        {
+                          "id": "lnk-216211922-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-295211929-358",
+          "name": "⚽ AIK Solna (W) vs BK Hacken (W)",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/4672_1gs1ke9fmf2p.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-295211929",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-295211929",
+                  "name": "AIK Solna (W) vs BK Hacken (W)",
+                  "streams": [
+                    {
+                      "id": "str-295211929",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-295211929-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
                           "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
                         },
                         {
-                          "id": "lnk-323946925-flv",
+                          "id": "lnk-295211929-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
@@ -195,8 +366,8 @@
           ]
         },
         {
-          "id": "ch-328558929-372",
-          "name": "⚽ Yaypan FK vs Termez Surkhon",
+          "id": "ch-59c29ad1-bfe0-4e25-9335-cde8e0a6c3f1-372",
+          "name": "⚽ HK Kopavogs vs Volsungur husavik",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -204,7 +375,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "",
+            "url": "https://cdn-img.cdnokvip.com/logos/2168_1gxmbq0bec1f.png",
             "width": 1600,
             "height": 1200
           },
@@ -218,26 +389,26 @@
           ],
           "sources": [
             {
-              "id": "src-328558929",
+              "id": "src-59c29ad1-bfe0-4e25-9335-cde8e0a6c3f1",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-328558929",
-                  "name": "Yaypan FK vs Termez Surkhon",
+                  "id": "cnt-59c29ad1-bfe0-4e25-9335-cde8e0a6c3f1",
+                  "name": "HK Kopavogs vs Volsungur husavik",
                   "streams": [
                     {
-                      "id": "str-328558929",
+                      "id": "str-59c29ad1-bfe0-4e25-9335-cde8e0a6c3f1",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-328558929-m3u8",
+                          "id": "lnk-59c29ad1-bfe0-4e25-9335-cde8e0a6c3f1-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
                           "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
                         },
                         {
-                          "id": "lnk-328558929-flv",
+                          "id": "lnk-59c29ad1-bfe0-4e25-9335-cde8e0a6c3f1-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
@@ -252,8 +423,8 @@
           ]
         },
         {
-          "id": "ch-318558928-370",
-          "name": "⚽ Pakhtakor vs Kattaqurgon",
+          "id": "ch-1b61357a-495a-4156-b0ed-b75323e49d3c-253",
+          "name": "⚽ NK Primorje vs NK Nafta",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -261,7 +432,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/3402_1gpyst1m7129.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/1119_1gxmbn3zr7w.png",
             "width": 1600,
             "height": 1200
           },
@@ -275,30 +446,30 @@
           ],
           "sources": [
             {
-              "id": "src-318558928",
+              "id": "src-1b61357a-495a-4156-b0ed-b75323e49d3c",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-318558928",
-                  "name": "Pakhtakor vs Kattaqurgon",
+                  "id": "cnt-1b61357a-495a-4156-b0ed-b75323e49d3c",
+                  "name": "NK Primorje vs NK Nafta",
                   "streams": [
                     {
-                      "id": "str-318558928",
+                      "id": "str-1b61357a-495a-4156-b0ed-b75323e49d3c",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-318558928-m3u8",
+                          "id": "lnk-1b61357a-495a-4156-b0ed-b75323e49d3c-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
+                          "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
                         },
                         {
-                          "id": "lnk-318558928-flv",
+                          "id": "lnk-1b61357a-495a-4156-b0ed-b75323e49d3c-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
+                          "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
                         }
                       ]
                     }
