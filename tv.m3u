@@ -1,74 +1,56 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="415888921" tvg-name="Fraser Park FC vs Sydney Olympic" tvg-logo="https://cdn-img.cdnokvip.com/logos/8641_1gshy62eyt2f.png" group-title="A FFA Cup",Fraser Park FC vs Sydney Olympic | BLV FERNANDO
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 tvg-id="415888921_flv" tvg-name="Fraser Park FC vs Sydney Olympic" tvg-logo="https://cdn-img.cdnokvip.com/logos/8641_1gshy62eyt2f.png" group-title="A FFA Cup",Fraser Park FC vs Sydney Olympic FLV | BLV FERNANDO
-https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 tvg-id="343946927" tvg-name="Tobol Kostanai B vs FK Taraz" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779846164.webp" group-title="KAZ D1",Tobol Kostanai B vs FK Taraz | BLV LÝ ỨNG
+#EXTINF:-1 tvg-id="343946927" tvg-name="Tobol Kostanai B vs FK Taraz (2026-05-27 18:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779846164.webp" group-title="KAZ D1",Tobol Kostanai B vs FK Taraz (2026-05-27 18:00) | BLV LÝ ỨNG
 https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 tvg-id="343946927_flv" tvg-name="Tobol Kostanai B vs FK Taraz" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779846164.webp" group-title="KAZ D1",Tobol Kostanai B vs FK Taraz FLV | BLV LÝ ỨNG
+#EXTINF:-1 tvg-id="343946927_flv" tvg-name="Tobol Kostanai B vs FK Taraz (2026-05-27 18:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779846164.webp" group-title="KAZ D1",Tobol Kostanai B vs FK Taraz (2026-05-27 18:00) FLV | BLV LÝ ỨNG
 https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 tvg-id="5da29f33-ad88-4a8a-b437-28d81e62ba43" tvg-name="Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779820591.png" group-title="PBA Commissioner's Cup - Play Offs - Bán kết",Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel | BLV YẾN THANH
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 tvg-id="5da29f33-ad88-4a8a-b437-28d81e62ba43_flv" tvg-name="Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779820591.png" group-title="PBA Commissioner's Cup - Play Offs - Bán kết",Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel FLV | BLV YẾN THANH
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 tvg-id="425888922" tvg-name="A.P.I.A. Leichhardt Tigers vs Rockdale City Suns" tvg-logo="https://cdn-img.cdnokvip.com/logos/6671_1h6fp5245p22.png" group-title="A FFA Cup",A.P.I.A. Leichhardt Tigers vs Rockdale City Suns | BLV LÃO HẠC
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 tvg-id="425888922_flv" tvg-name="A.P.I.A. Leichhardt Tigers vs Rockdale City Suns" tvg-logo="https://cdn-img.cdnokvip.com/logos/6671_1h6fp5245p22.png" group-title="A FFA Cup",A.P.I.A. Leichhardt Tigers vs Rockdale City Suns FLV | BLV LÃO HẠC
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 tvg-id="309098927" tvg-name="Davao Aguilas vs Taguig" tvg-logo="https://cdn-img.cdnokvip.com/logos/29639_1hc6f275ca2j.png" group-title="PH UFL",Davao Aguilas vs Taguig | BLV TÂY MÔN KHÁNH
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 tvg-id="309098927_flv" tvg-name="Davao Aguilas vs Taguig" tvg-logo="https://cdn-img.cdnokvip.com/logos/29639_1hc6f275ca2j.png" group-title="PH UFL",Davao Aguilas vs Taguig FLV | BLV TÂY MÔN KHÁNH
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 tvg-id="939ce50b-06ee-4846-ab3e-277672ebd28c" tvg-name="Preston Lions vs Caroline Springs George Cross" tvg-logo="https://cdn-img.cdnokvip.com/logos/4467_1htp6esmkg27.png" group-title="A FFA Cup",Preston Lions vs Caroline Springs George Cross | BLV LỮ BỐ
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 tvg-id="939ce50b-06ee-4846-ab3e-277672ebd28c_flv" tvg-name="Preston Lions vs Caroline Springs George Cross" tvg-logo="https://cdn-img.cdnokvip.com/logos/4467_1htp6esmkg27.png" group-title="A FFA Cup",Preston Lions vs Caroline Springs George Cross FLV | BLV LỮ BỐ
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 tvg-id="345235920" tvg-name="Altay FK vs FC Astana" tvg-logo="https://cdn-img.cdnokvip.com/logos/23792_1j1gsjr55t2z.png" group-title="KAZ PR",Altay FK vs FC Astana | BLV HÀN TÍN
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 tvg-id="345235920_flv" tvg-name="Altay FK vs FC Astana" tvg-logo="https://cdn-img.cdnokvip.com/logos/23792_1j1gsjr55t2z.png" group-title="KAZ PR",Altay FK vs FC Astana FLV | BLV HÀN TÍN
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 tvg-id="619b0ba6-7a7d-4e77-a3de-dc942e508525" tvg-name="TNT Tropang 5G vs Meralco Bolts" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779820979.png" group-title="PBA Commissioner's Cup - Play Offs - Bán kết",TNT Tropang 5G vs Meralco Bolts | BLV VÕ TÒNG
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 tvg-id="619b0ba6-7a7d-4e77-a3de-dc942e508525_flv" tvg-name="TNT Tropang 5G vs Meralco Bolts" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779820979.png" group-title="PBA Commissioner's Cup - Play Offs - Bán kết",TNT Tropang 5G vs Meralco Bolts FLV | BLV VÕ TÒNG
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 tvg-id="261306927" tvg-name="Seoul Amazones (W) vs Hyundai Steel Red Angels (W)" tvg-logo="https://cdn-img.cdnokvip.com/logos/9399_1gwbdv1r94c.png" group-title="KOR WD1",Seoul Amazones (W) vs Hyundai Steel Red Angels (W) | BLV PHI HỔ
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 tvg-id="261306927_flv" tvg-name="Seoul Amazones (W) vs Hyundai Steel Red Angels (W)" tvg-logo="https://cdn-img.cdnokvip.com/logos/9399_1gwbdv1r94c.png" group-title="KOR WD1",Seoul Amazones (W) vs Hyundai Steel Red Angels (W) FLV | BLV PHI HỔ
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-
-#EXTINF:-1 tvg-id="330488924" tvg-name="Shirak Gjumri B vs BKMA II" tvg-logo="https://cdn-img.cdnokvip.com/logos/12633_20200319150655.png" group-title="ARM D2",Shirak Gjumri B vs BKMA II | BLV TRIỆU TỬ LONG
+#EXTINF:-1 tvg-id="330488924" tvg-name="Shirak Gjumri B vs BKMA II (2026-05-27 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12633_20200319150655.png" group-title="ARM D2",Shirak Gjumri B vs BKMA II (2026-05-27 19:00) | BLV TRIỆU TỬ LONG
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 tvg-id="330488924_flv" tvg-name="Shirak Gjumri B vs BKMA II" tvg-logo="https://cdn-img.cdnokvip.com/logos/12633_20200319150655.png" group-title="ARM D2",Shirak Gjumri B vs BKMA II FLV | BLV TRIỆU TỬ LONG
+#EXTINF:-1 tvg-id="330488924_flv" tvg-name="Shirak Gjumri B vs BKMA II (2026-05-27 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12633_20200319150655.png" group-title="ARM D2",Shirak Gjumri B vs BKMA II (2026-05-27 19:00) FLV | BLV TRIỆU TỬ LONG
 https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 tvg-id="405888920" tvg-name="Blacktown City Demons vs Sydney United" tvg-logo="https://cdn-img.cdnokvip.com/logos/6664_1hw9fx4graq.png" group-title="A FFA Cup",Blacktown City Demons vs Sydney United | BLV MAYBACH
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 tvg-id="f87df77b-3d43-444c-9804-bb8f53453a17" tvg-name="A.P.I.A. Leichhardt Tigers vs Rockdale City Suns (2026-05-27 16:45)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6671_1h6fp5245p22.png" group-title="A FFA Cup",A.P.I.A. Leichhardt Tigers vs Rockdale City Suns (2026-05-27 16:45) | BLV MỘT CHÂN
+https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="405888920_flv" tvg-name="Blacktown City Demons vs Sydney United" tvg-logo="https://cdn-img.cdnokvip.com/logos/6664_1hw9fx4graq.png" group-title="A FFA Cup",Blacktown City Demons vs Sydney United FLV | BLV MAYBACH
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 tvg-id="f87df77b-3d43-444c-9804-bb8f53453a17_flv" tvg-name="A.P.I.A. Leichhardt Tigers vs Rockdale City Suns (2026-05-27 16:45)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6671_1h6fp5245p22.png" group-title="A FFA Cup",A.P.I.A. Leichhardt Tigers vs Rockdale City Suns (2026-05-27 16:45) FLV | BLV MỘT CHÂN
+https://flv.cdnfaster-a.live/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
 
-#EXTINF:-1 tvg-id="498809925" tvg-name="Ulsan Citizens vs Daejeon Korail" tvg-logo="https://cdn-img.cdnokvip.com/logos/38935_1j0g84r1jvs.png" group-title="K3-K4 Championship",Ulsan Citizens vs Daejeon Korail | BLV MÃ SIÊU
+#EXTINF:-1 tvg-id="b9cab05c-316c-4c69-bba5-4d102bf59e0e" tvg-name="Seoul Amazones (W) vs Hyundai Steel Red Angels (W) (2026-05-27 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/9399_1gwbdv1r94c.png" group-title="KOR WD1",Seoul Amazones (W) vs Hyundai Steel Red Angels (W) (2026-05-27 17:00) | BLV PELE
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+
+#EXTINF:-1 tvg-id="b9cab05c-316c-4c69-bba5-4d102bf59e0e_flv" tvg-name="Seoul Amazones (W) vs Hyundai Steel Red Angels (W) (2026-05-27 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/9399_1gwbdv1r94c.png" group-title="KOR WD1",Seoul Amazones (W) vs Hyundai Steel Red Angels (W) (2026-05-27 17:00) FLV | BLV PELE
+https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+
+#EXTINF:-1 tvg-id="309098927" tvg-name="Davao Aguilas vs Taguig (2026-05-27 17:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/29639_1hc6f275ca2j.png" group-title="PH UFL",Davao Aguilas vs Taguig (2026-05-27 17:15) | BLV TÂY MÔN KHÁNH
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 tvg-id="309098927_flv" tvg-name="Davao Aguilas vs Taguig (2026-05-27 17:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/29639_1hc6f275ca2j.png" group-title="PH UFL",Davao Aguilas vs Taguig (2026-05-27 17:15) FLV | BLV TÂY MÔN KHÁNH
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 tvg-id="345235920" tvg-name="Altay FK vs FC Astana (2026-05-27 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23792_1j1gsjr55t2z.png" group-title="KAZ PR",Altay FK vs FC Astana (2026-05-27 18:00) | BLV HÀN TÍN
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 tvg-id="345235920_flv" tvg-name="Altay FK vs FC Astana (2026-05-27 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23792_1j1gsjr55t2z.png" group-title="KAZ PR",Altay FK vs FC Astana (2026-05-27 18:00) FLV | BLV HÀN TÍN
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+
+#EXTINF:-1 tvg-id="498809925" tvg-name="Ulsan Citizens vs Daejeon Korail (2026-05-27 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/38935_1j0g84r1jvs.png" group-title="K3-K4 Championship",Ulsan Citizens vs Daejeon Korail (2026-05-27 17:00) | BLV MÃ SIÊU
 https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
-#EXTINF:-1 tvg-id="498809925_flv" tvg-name="Ulsan Citizens vs Daejeon Korail" tvg-logo="https://cdn-img.cdnokvip.com/logos/38935_1j0g84r1jvs.png" group-title="K3-K4 Championship",Ulsan Citizens vs Daejeon Korail FLV | BLV MÃ SIÊU
+#EXTINF:-1 tvg-id="498809925_flv" tvg-name="Ulsan Citizens vs Daejeon Korail (2026-05-27 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/38935_1j0g84r1jvs.png" group-title="K3-K4 Championship",Ulsan Citizens vs Daejeon Korail (2026-05-27 17:00) FLV | BLV MÃ SIÊU
 https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 tvg-id="619b0ba6-7a7d-4e77-a3de-dc942e508525" tvg-name="TNT Tropang 5G vs Meralco Bolts (2026-05-27 18:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779820979.png" group-title="PBA Commissioner's Cup - Play Offs - Bán kết",TNT Tropang 5G vs Meralco Bolts (2026-05-27 18:30) | BLV VÕ TÒNG
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="619b0ba6-7a7d-4e77-a3de-dc942e508525_flv" tvg-name="TNT Tropang 5G vs Meralco Bolts (2026-05-27 18:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779820979.png" group-title="PBA Commissioner's Cup - Play Offs - Bán kết",TNT Tropang 5G vs Meralco Bolts (2026-05-27 18:30) FLV | BLV VÕ TÒNG
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="5da29f33-ad88-4a8a-b437-28d81e62ba43" tvg-name="Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel (2026-05-27 16:15)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779820591.png" group-title="PBA Commissioner's Cup - Play Offs - Bán kết",Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel (2026-05-27 16:15) | BLV YẾN THANH
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-id="5da29f33-ad88-4a8a-b437-28d81e62ba43_flv" tvg-name="Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel (2026-05-27 16:15)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779820591.png" group-title="PBA Commissioner's Cup - Play Offs - Bán kết",Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel (2026-05-27 16:15) FLV | BLV YẾN THANH
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
