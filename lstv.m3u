@@ -1,41 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="362827926" tvg-name="Zakho vs Arbil (2026-05-29 00:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3244_1jn51py1vm18.png" group-title="IRQ D1",Zakho vs Arbil (2026-05-29 00:30) | BLV TRIỆU TỬ LONG
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 tvg-id="362827926_flv" tvg-name="Zakho vs Arbil (2026-05-29 00:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3244_1jn51py1vm18.png" group-title="IRQ D1",Zakho vs Arbil (2026-05-29 00:30) FLV | BLV TRIỆU TỬ LONG
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 tvg-id="309809927" tvg-name="Fiorentina U20 vs Parma U20 (2026-05-29 01:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6594_1gxmbrmwn326.png" group-title="ITA YTHL",Fiorentina U20 vs Parma U20 (2026-05-29 01:30) | BLV MAYBACH
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-
-#EXTINF:-1 tvg-id="309809927_flv" tvg-name="Fiorentina U20 vs Parma U20 (2026-05-29 01:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6594_1gxmbrmwn326.png" group-title="ITA YTHL",Fiorentina U20 vs Parma U20 (2026-05-29 01:30) FLV | BLV MAYBACH
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-
-#EXTINF:-1 tvg-id="b5807f50-a88c-4ff0-ba04-05e569bc5f66" tvg-name="Ireland vs Qatar (2026-05-29 01:45)" tvg-logo="https://cdn-img.cdnokvip.com/logos/543_164984027618.png" group-title="INT FRL",Ireland vs Qatar (2026-05-29 01:45) | BLV LEO
- https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 tvg-id="b5807f50-a88c-4ff0-ba04-05e569bc5f66_flv" tvg-name="Ireland vs Qatar (2026-05-29 01:45)" tvg-logo="https://cdn-img.cdnokvip.com/logos/543_164984027618.png" group-title="INT FRL",Ireland vs Qatar (2026-05-29 01:45) FLV | BLV LEO
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 tvg-id="457188920" tvg-name="Casa Pia AC vs SCU Torreense (2026-05-29 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4208_1gpyrknv762x.png" group-title="POR D2",Casa Pia AC vs SCU Torreense (2026-05-29 02:00) | BLV HÀN TÍN
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 tvg-id="457188920_flv" tvg-name="Casa Pia AC vs SCU Torreense (2026-05-29 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4208_1gpyrknv762x.png" group-title="POR D2",Casa Pia AC vs SCU Torreense (2026-05-29 02:00) FLV | BLV HÀN TÍN
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 tvg-id="48f00506-8cc8-4503-b992-681d56df9bc8" tvg-name="Al Qasim Sport Club vs AL Najaf (2026-05-29 00:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/42101_1hpqr1be931p.png" group-title="IRQ D1",Al Qasim Sport Club vs AL Najaf (2026-05-29 00:30) | BLV FERNANDO
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 tvg-id="48f00506-8cc8-4503-b992-681d56df9bc8_flv" tvg-name="Al Qasim Sport Club vs AL Najaf (2026-05-29 00:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/42101_1hpqr1be931p.png" group-title="IRQ D1",Al Qasim Sport Club vs AL Najaf (2026-05-29 00:30) FLV | BLV FERNANDO
-https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 tvg-id="ecdffc53-02ab-4e1e-935a-7fc51548540f" tvg-name="Egypt vs Russia (2026-05-29 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/631_165018770975.png" group-title="INT FRL",Egypt vs Russia (2026-05-29 01:00) | BLV MỘT CHÂN
-https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 tvg-id="ecdffc53-02ab-4e1e-935a-7fc51548540f_flv" tvg-name="Egypt vs Russia (2026-05-29 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/631_165018770975.png" group-title="INT FRL",Egypt vs Russia (2026-05-29 01:00) FLV | BLV MỘT CHÂN
-https://flv.cdnfaster-a.live/live/MOTCHAN1.flv?expire=2556072660&sign=4b991d1cc92d0eb9bddfcb0b1b372a21
-
 #EXTINF:-1 tvg-id="336709926" tvg-name="Morocco U17 vs Senegal U17 (2026-05-29 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12000_1h5hcsxfy116.png" group-title="AYC U17",Morocco U17 vs Senegal U17 (2026-05-29 02:00) | BLV VƯƠNG LUÂN
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
