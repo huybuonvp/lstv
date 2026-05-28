@@ -1,14 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="336709926" tvg-name="Morocco U17 vs Senegal U17 (2026-05-29 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12000_1h5hcsxfy116.png" group-title="AYC U17",Morocco U17 vs Senegal U17 (2026-05-29 02:00) | BLV VƯƠNG LUÂN
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-id="343558926" tvg-name="CD El Nacional vs Universidad Catolica (2026-05-29 06:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2300_1j8kbqtwec23.png" group-title="ECU CUP",CD El Nacional vs Universidad Catolica (2026-05-29 06:00) | BLV VÕ TÒNG
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="336709926_flv" tvg-name="Morocco U17 vs Senegal U17 (2026-05-29 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12000_1h5hcsxfy116.png" group-title="AYC U17",Morocco U17 vs Senegal U17 (2026-05-29 02:00) FLV | BLV VƯƠNG LUÂN
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-id="343558926_flv" tvg-name="CD El Nacional vs Universidad Catolica (2026-05-29 06:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2300_1j8kbqtwec23.png" group-title="ECU CUP",CD El Nacional vs Universidad Catolica (2026-05-29 06:00) FLV | BLV VÕ TÒNG
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="b12fde54-5be4-4d38-82dd-02255eed41a5" tvg-name="Morocco U17 vs Senegal U17 (2026-05-29 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12000_1h5hcsxfy116.png" group-title="AYC U17",Morocco U17 vs Senegal U17 (2026-05-29 02:00) | BLV LÝ ỨNG
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-id="200636926" tvg-name="Palmeiras vs Atletico Junior Barranquilla (2026-05-29 05:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/424_1gxsf3fvqe1p.png" group-title="CON CLA",Palmeiras vs Atletico Junior Barranquilla (2026-05-29 05:00) | BLV LEO
+ https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 tvg-id="b12fde54-5be4-4d38-82dd-02255eed41a5_flv" tvg-name="Morocco U17 vs Senegal U17 (2026-05-29 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12000_1h5hcsxfy116.png" group-title="AYC U17",Morocco U17 vs Senegal U17 (2026-05-29 02:00) FLV | BLV LÝ ỨNG
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-id="200636926_flv" tvg-name="Palmeiras vs Atletico Junior Barranquilla (2026-05-29 05:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/424_1gxsf3fvqe1p.png" group-title="CON CLA",Palmeiras vs Atletico Junior Barranquilla (2026-05-29 05:00) FLV | BLV LEO
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+
+#EXTINF:-1 tvg-id="210636927" tvg-name="Cerro Porteno vs Sporting Cristal (2026-05-29 05:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/896_1gv1yf76pez.png" group-title="CON CLA",Cerro Porteno vs Sporting Cristal (2026-05-29 05:00) | BLV LƯU BỊ
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 tvg-id="210636927_flv" tvg-name="Cerro Porteno vs Sporting Cristal (2026-05-29 05:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/896_1gv1yf76pez.png" group-title="CON CLA",Cerro Porteno vs Sporting Cristal (2026-05-29 05:00) FLV | BLV LƯU BỊ
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 

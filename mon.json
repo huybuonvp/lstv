@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-336709926-315",
-          "name": "⚽ Morocco U17 vs Senegal U17",
+          "id": "ch-343558926-328",
+          "name": "⚽ CD El Nacional vs Universidad Catolica",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/12000_1h5hcsxfy116.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/2300_1j8kbqtwec23.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,30 +47,30 @@
           ],
           "sources": [
             {
-              "id": "src-336709926",
+              "id": "src-343558926",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-336709926",
-                  "name": "Morocco U17 vs Senegal U17",
+                  "id": "cnt-343558926",
+                  "name": "CD El Nacional vs Universidad Catolica",
                   "streams": [
                     {
-                      "id": "str-336709926",
+                      "id": "str-343558926",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-336709926-m3u8",
+                          "id": "lnk-343558926-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645"
+                          "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
                         },
                         {
-                          "id": "lnk-336709926-flv",
+                          "id": "lnk-343558926-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645"
+                          "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
                         }
                       ]
                     }
@@ -81,8 +81,8 @@
           ]
         },
         {
-          "id": "ch-b12fde54-5be4-4d38-82dd-02255eed41a5-292",
-          "name": "⚽ Morocco U17 vs Senegal U17",
+          "id": "ch-200636926-359",
+          "name": "⚽ Palmeiras vs Atletico Junior Barranquilla",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/12000_1h5hcsxfy116.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/424_1gxsf3fvqe1p.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,30 +104,87 @@
           ],
           "sources": [
             {
-              "id": "src-b12fde54-5be4-4d38-82dd-02255eed41a5",
+              "id": "src-200636926",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-b12fde54-5be4-4d38-82dd-02255eed41a5",
-                  "name": "Morocco U17 vs Senegal U17",
+                  "id": "cnt-200636926",
+                  "name": "Palmeiras vs Atletico Junior Barranquilla",
                   "streams": [
                     {
-                      "id": "str-b12fde54-5be4-4d38-82dd-02255eed41a5",
+                      "id": "str-200636926",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b12fde54-5be4-4d38-82dd-02255eed41a5-m3u8",
+                          "id": "lnk-200636926-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
+                          "url": " https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
                         },
                         {
-                          "id": "lnk-b12fde54-5be4-4d38-82dd-02255eed41a5-flv",
+                          "id": "lnk-200636926-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
+                          "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-210636927-135",
+          "name": "⚽ Cerro Porteno vs Sporting Cristal",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/896_1gv1yf76pez.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-210636927",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-210636927",
+                  "name": "Cerro Porteno vs Sporting Cristal",
+                  "streams": [
+                    {
+                      "id": "str-210636927",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-210636927-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1"
+                        },
+                        {
+                          "id": "lnk-210636927-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1"
                         }
                       ]
                     }
