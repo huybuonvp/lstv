@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-319536925-328",
-          "name": "⚽ Bolivar vs Independiente Rivadavia",
+          "id": "ch-203409927-331",
+          "name": "⚽ Septemvri Sofia vs Yantra Gabrovo",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/914_1h51a813012f.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/10703_1gq924y2y017.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,30 +47,23 @@
           ],
           "sources": [
             {
-              "id": "src-319536925",
+              "id": "src-203409927",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-319536925",
-                  "name": "Bolivar vs Independiente Rivadavia",
+                  "id": "cnt-203409927",
+                  "name": "Septemvri Sofia vs Yantra Gabrovo",
                   "streams": [
                     {
-                      "id": "str-319536925",
+                      "id": "str-203409927",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-319536925-m3u8",
+                          "id": "lnk-203409927-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
-                        },
-                        {
-                          "id": "lnk-319536925-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+                          "url": "https://auto.cdnfaster.live/live/sd-6Mwe5WeQnfbcWDUogY/playlist.m3u8"
                         }
                       ]
                     }
@@ -81,8 +74,8 @@
           ]
         },
         {
-          "id": "ch-329536926-218",
-          "name": "⚽ CA Penarol vs Independiente Santa Fe",
+          "id": "ch-446598923-331",
+          "name": "⚽ Bangladesh (W) vs Maldives (W)",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +83,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/1584_1htkbf6ndy1h.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/14745_1h56hy844p1b.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,30 +97,23 @@
           ],
           "sources": [
             {
-              "id": "src-329536926",
+              "id": "src-446598923",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-329536926",
-                  "name": "CA Penarol vs Independiente Santa Fe",
+                  "id": "cnt-446598923",
+                  "name": "Bangladesh (W) vs Maldives (W)",
                   "streams": [
                     {
-                      "id": "str-329536926",
+                      "id": "str-446598923",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-329536926-m3u8",
+                          "id": "lnk-446598923-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6"
-                        },
-                        {
-                          "id": "lnk-329536926-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6"
+                          "url": "https://auto.cdnfaster.live/live/sd-6Mwe5WYW4sj4FMUioW/playlist.m3u8"
                         }
                       ]
                     }
@@ -195,8 +181,8 @@
           ]
         },
         {
-          "id": "ch-85f0a715-c12e-4356-9db8-d24f95a39249-320",
-          "name": "⚽ New York Liberty W vs Phoenix Mercury W",
+          "id": "ch-426598921-331",
+          "name": "⚽ Sri Lanka (W) vs Bhutan  (W)",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -204,7 +190,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1779901731.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/16117_1h5hbtf6wp11.png",
             "width": 1600,
             "height": 1200
           },
@@ -218,30 +204,123 @@
           ],
           "sources": [
             {
-              "id": "src-85f0a715-c12e-4356-9db8-d24f95a39249",
+              "id": "src-426598921",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-85f0a715-c12e-4356-9db8-d24f95a39249",
-                  "name": "New York Liberty W vs Phoenix Mercury W",
+                  "id": "cnt-426598921",
+                  "name": "Sri Lanka (W) vs Bhutan  (W)",
                   "streams": [
                     {
-                      "id": "str-85f0a715-c12e-4356-9db8-d24f95a39249",
+                      "id": "str-426598921",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-85f0a715-c12e-4356-9db8-d24f95a39249-m3u8",
+                          "id": "lnk-426598921-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
-                        },
+                          "url": "https://auto.cdnfaster.live/live/sd-6Mwe5WYW4uvY7qJdxQ/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-486909923-331",
+          "name": "⚽ FC Ilbirs vs FC Abdish-Ata Kant",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/35169_1gxsjf6arwt.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-486909923",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-486909923",
+                  "name": "FC Ilbirs vs FC Abdish-Ata Kant",
+                  "streams": [
+                    {
+                      "id": "str-486909923",
+                      "name": "F",
+                      "stream_links": [
                         {
-                          "id": "lnk-85f0a715-c12e-4356-9db8-d24f95a39249-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
+                          "id": "lnk-486909923-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://auto.cdnfaster.live/live/sd-6Mwe5TJxwvUkKNBbme/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-495709921-331",
+          "name": "⚽ North Macedonia U19 vs Slovenia U18",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/3587_1h4380tz541s.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-495709921",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-495709921",
+                  "name": "North Macedonia U19 vs Slovenia U18",
+                  "streams": [
+                    {
+                      "id": "str-495709921",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-495709921-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://auto.cdnfaster.live/live/sd-6Mwe5THV9dnNf44fN4/playlist.m3u8"
                         }
                       ]
                     }
