@@ -67,7 +67,7 @@ jobs:
         with:
           name: m3u-json-files
           path: |
-            tv.m3u
-            tv.json
+            lstv.m3u
+            lstv.json
             mon.json
           if-no-files-found: ignore
