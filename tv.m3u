@@ -1,10 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="203409927" tvg-name="Septemvri Sofia vs Yantra Gabrovo (2026-05-28 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/10703_1gq924y2y017.png" group-title="BUL D1",Septemvri Sofia vs Yantra Gabrovo (2026-05-28 21:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WeQnfbcWDUogY/playlist.m3u8
+#EXTINF:-1 tvg-id="426598921" tvg-name="Sri Lanka (W) vs Bhutan  (W) (2026-05-28 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/16117_1h5hbtf6wp11.png" group-title="Asia SAFF Club Women Championship",Sri Lanka (W) vs Bhutan  (W) (2026-05-28 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5WYW4uvY7qJdxQ/playlist.m3u8
 
-#EXTINF:-1 tvg-id="446598923" tvg-name="Bangladesh (W) vs Maldives (W) (2026-05-28 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/14745_1h56hy844p1b.png" group-title="Asia SAFF Club Women Championship",Bangladesh (W) vs Maldives (W) (2026-05-28 21:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WYW4sj4FMUioW/playlist.m3u8
+#EXTINF:-1 tvg-id="491778923" tvg-name="Birkenhead United vs East Coast Bays (2026-05-28 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/24956_1h5bjn0wc430.png" group-title="NOR NZL",Birkenhead United vs East Coast Bays (2026-05-28 14:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5Zsw4YWeLuv95N/playlist.m3u8
+
+#EXTINF:-1 tvg-id="302778925" tvg-name="Auckland FC Reserves vs Auckland United (2026-05-28 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/68941_1jrj4svr4m0.png" group-title="NOR NZL",Auckland FC Reserves vs Auckland United (2026-05-28 14:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5Zsw4f75xMPtY4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="270119929" tvg-name="Ha Noi FC II vs Da Nang II (2026-05-28 15:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17345_1hvdtv3b7q0.png" group-title="VIE D3",Ha Noi FC II vs Da Nang II (2026-05-28 15:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5TLSbRFe4NdvbE/playlist.m3u8
 
 #EXTINF:-1 tvg-id="68fe80e0-3f79-4345-9d9e-7697c847f2fa" tvg-name="Shanghai vs Zhejiang Guangsha (2026-05-28 18:35)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779901986.png" group-title="CBA",Shanghai vs Zhejiang Guangsha (2026-05-28 18:35) | BLV VÕ TÒNG
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -12,12 +18,42 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:-1 tvg-id="68fe80e0-3f79-4345-9d9e-7697c847f2fa_flv" tvg-name="Shanghai vs Zhejiang Guangsha (2026-05-28 18:35)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779901986.png" group-title="CBA",Shanghai vs Zhejiang Guangsha (2026-05-28 18:35) FLV | BLV VÕ TÒNG
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="426598921" tvg-name="Sri Lanka (W) vs Bhutan  (W) (2026-05-28 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/16117_1h5hbtf6wp11.png" group-title="Asia SAFF Club Women Championship",Sri Lanka (W) vs Bhutan  (W) (2026-05-28 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WYW4uvY7qJdxQ/playlist.m3u8
+#EXTINF:-1 tvg-id="204319928" tvg-name="Jinan Quansheng United vs Shaanxi United Soaring (2026-05-28 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/69535_1jx6hgn4p9a.png" group-title="CHN CH",Jinan Quansheng United vs Shaanxi United Soaring (2026-05-28 14:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5WZysabiUwgjtx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="486909923" tvg-name="FC Ilbirs vs FC Abdish-Ata Kant (2026-05-28 21:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/35169_1gxsjf6arwt.png" group-title="Kyr TL",FC Ilbirs vs FC Abdish-Ata Kant (2026-05-28 21:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5TJxwvUkKNBbme/playlist.m3u8
+#EXTINF:-1 tvg-id="481778922" tvg-name="Melville United vs Tauranga City United (2026-05-28 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/25173_1h8dcbhrk7b.png" group-title="NOR NZL",Melville United vs Tauranga City United (2026-05-28 14:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5Zsw4ai8DPk4EG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="250119927" tvg-name="Quang Ngai vs XM Fico Tay Ninh (2026-05-28 15:30)" tvg-logo="" group-title="VIE D3",Quang Ngai vs XM Fico Tay Ninh (2026-05-28 15:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5TLSbJfCSwAB8Y/playlist.m3u8
+
+#EXTINF:-1 tvg-id="240119926" tvg-name="Truong Giang Gia Dinh vs Dak Lak (2026-05-28 15:00)" tvg-logo="" group-title="VIE D3",Truong Giang Gia Dinh vs Dak Lak (2026-05-28 15:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5TLSbLrgKQz6HS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1a0634d1-103a-49f4-8c55-6b9b827f4d9c" tvg-name="Beijing Smart Sky Football Club vs Shandong Qiutan (2026-05-28 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/62262_1h4jp8h8e11c.png" group-title="CHN CH",Beijing Smart Sky Football Club vs Shandong Qiutan (2026-05-28 14:00) | BLV LƯU BỊ
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 tvg-id="1a0634d1-103a-49f4-8c55-6b9b827f4d9c_flv" tvg-name="Beijing Smart Sky Football Club vs Shandong Qiutan (2026-05-28 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/62262_1h4jp8h8e11c.png" group-title="CHN CH",Beijing Smart Sky Football Club vs Shandong Qiutan (2026-05-28 14:00) FLV | BLV LƯU BỊ
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 tvg-id="475598925" tvg-name="Slovakia (W) U16 vs Turkey (W) U16 (2026-05-28 15:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/18877_1h407eq7vq2j.png" group-title="INT FRL",Slovakia (W) U16 vs Turkey (W) U16 (2026-05-28 15:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5TGnApyxtSDgpL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="55843794-fd2f-482e-bd2c-c37e465abd53" tvg-name="Barcelona vs Real Madrid (2026-05-28 12:31)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779946559.png" group-title="LaLiga",Barcelona vs Real Madrid (2026-05-28 12:31) | BLV KEVILL REPLAY
+https://hls.cdnfaster-a.live/live/TO1A/index.m3u8?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
+
+#EXTINF:-1 tvg-id="55843794-fd2f-482e-bd2c-c37e465abd53_flv" tvg-name="Barcelona vs Real Madrid (2026-05-28 12:31)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779946559.png" group-title="LaLiga",Barcelona vs Real Madrid (2026-05-28 12:31) FLV | BLV KEVILL REPLAY
+https://flv.cdnfaster-a.live/live/TO1A.flv?expire=1891408380&sign=1a95dc0ba619a6c97d9caf1000577cd1
 
 #EXTINF:-1 tvg-id="495709921" tvg-name="North Macedonia U19 vs Slovenia U18 (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3587_1h4380tz541s.png" group-title="INT FRL",North Macedonia U19 vs Slovenia U18 (2026-05-28 17:00) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6Mwe5THV9dnNf44fN4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="203409927" tvg-name="Septemvri Sofia vs Yantra Gabrovo (2026-05-28 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/10703_1gq924y2y017.png" group-title="BUL D1",Septemvri Sofia vs Yantra Gabrovo (2026-05-28 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5WeQnfbcWDUogY/playlist.m3u8
+
+#EXTINF:-1 tvg-id="446598923" tvg-name="Bangladesh (W) vs Maldives (W) (2026-05-28 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/14745_1h56hy844p1b.png" group-title="Asia SAFF Club Women Championship",Bangladesh (W) vs Maldives (W) (2026-05-28 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5WYW4sj4FMUioW/playlist.m3u8
+
+#EXTINF:-1 tvg-id="486909923" tvg-name="FC Ilbirs vs FC Abdish-Ata Kant (2026-05-28 21:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/35169_1gxsjf6arwt.png" group-title="Kyr TL",FC Ilbirs vs FC Abdish-Ata Kant (2026-05-28 21:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5TJxwvUkKNBbme/playlist.m3u8
 
