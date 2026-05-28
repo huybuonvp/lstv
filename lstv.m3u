@@ -1,19 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="f1d8b0aa-b151-4ff9-8046-78e65a992543" tvg-name="Okzhetpes vs FK Aktobe Lento (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4920_1gtqmd3b4nt.png" group-title="KAZ PR",Okzhetpes vs FK Aktobe Lento (2026-05-28 17:00) | BLV KAKA
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-id="ad708792-f3a2-424f-935a-623475fa20ae" tvg-name="Hawassa City FC vs Ethiopia Bunna (2026-05-28 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/28905_1grwpzvvfj1x.png" group-title="ETH PR",Hawassa City FC vs Ethiopia Bunna (2026-05-28 19:00) | BLV NGƯỜI THÉP
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 tvg-id="f1d8b0aa-b151-4ff9-8046-78e65a992543_flv" tvg-name="Okzhetpes vs FK Aktobe Lento (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4920_1gtqmd3b4nt.png" group-title="KAZ PR",Okzhetpes vs FK Aktobe Lento (2026-05-28 17:00) FLV | BLV KAKA
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-id="ad708792-f3a2-424f-935a-623475fa20ae_flv" tvg-name="Hawassa City FC vs Ethiopia Bunna (2026-05-28 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/28905_1grwpzvvfj1x.png" group-title="ETH PR",Hawassa City FC vs Ethiopia Bunna (2026-05-28 19:00) FLV | BLV NGƯỜI THÉP
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
-#EXTINF:-1 tvg-id="495709921" tvg-name="North Macedonia U19 vs Slovenia U18 (2026-05-28 16:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3587_1h4380tz541s.png" group-title="INT FRL",North Macedonia U19 vs Slovenia U18 (2026-05-28 16:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5THV9dnNf44fN4/playlist.m3u8
+#EXTINF:-1 tvg-id="385128925" tvg-name="Belgium U17 vs Spain U17 (2026-05-28 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3573_165750403496.png" group-title="UEFA U17",Belgium U17 vs Spain U17 (2026-05-28 18:30) | BLV PELE
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
-#EXTINF:-1 tvg-id="270119929" tvg-name="Ha Noi FC II vs Da Nang II (2026-05-28 16:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17345_1hvdtv3b7q0.png" group-title="VIE D3",Ha Noi FC II vs Da Nang II (2026-05-28 16:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5TLSbRFe4NdvbE/playlist.m3u8
-
-#EXTINF:-1 tvg-id="486909923" tvg-name="FC Ilbirs vs FC Abdish-Ata Kant (2026-05-28 21:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/35169_1gxsjf6arwt.png" group-title="Kyr TL",FC Ilbirs vs FC Abdish-Ata Kant (2026-05-28 21:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5TJxwvUkKNBbme/playlist.m3u8
+#EXTINF:-1 tvg-id="385128925_flv" tvg-name="Belgium U17 vs Spain U17 (2026-05-28 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3573_165750403496.png" group-title="UEFA U17",Belgium U17 vs Spain U17 (2026-05-28 18:30) FLV | BLV PELE
+https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
 #EXTINF:-1 tvg-id="68fe80e0-3f79-4345-9d9e-7697c847f2fa" tvg-name="Shanghai vs Zhejiang Guangsha (2026-05-28 18:35)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779901986.png" group-title="CBA",Shanghai vs Zhejiang Guangsha (2026-05-28 18:35) | BLV VÕ TÒNG
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -21,24 +18,27 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:-1 tvg-id="68fe80e0-3f79-4345-9d9e-7697c847f2fa_flv" tvg-name="Shanghai vs Zhejiang Guangsha (2026-05-28 18:35)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779901986.png" group-title="CBA",Shanghai vs Zhejiang Guangsha (2026-05-28 18:35) FLV | BLV VÕ TÒNG
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="446598923" tvg-name="Bangladesh (W) vs Maldives (W) (2026-05-28 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/14745_1h56hy844p1b.png" group-title="Asia SAFF Club Women Championship",Bangladesh (W) vs Maldives (W) (2026-05-28 21:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WYW4sj4FMUioW/playlist.m3u8
+#EXTINF:-1 tvg-id="342909925" tvg-name="Mwatate United vs Naivas FC (2026-05-28 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/35804_167098998031.png" group-title="Ken-SL",Mwatate United vs Naivas FC (2026-05-28 19:00) | BLV TÔN LẬP
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 tvg-id="203409927" tvg-name="Septemvri Sofia vs Yantra Gabrovo (2026-05-28 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/10703_1gq924y2y017.png" group-title="BUL D1",Septemvri Sofia vs Yantra Gabrovo (2026-05-28 21:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WeQnfbcWDUogY/playlist.m3u8
+#EXTINF:-1 tvg-id="342909925_flv" tvg-name="Mwatate United vs Naivas FC (2026-05-28 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/35804_167098998031.png" group-title="Ken-SL",Mwatate United vs Naivas FC (2026-05-28 19:00) FLV | BLV TÔN LẬP
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 tvg-id="426598921" tvg-name="Sri Lanka (W) vs Bhutan  (W) (2026-05-28 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/16117_1h5hbtf6wp11.png" group-title="Asia SAFF Club Women Championship",Sri Lanka (W) vs Bhutan  (W) (2026-05-28 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WYW4uvY7qJdxQ/playlist.m3u8
+#EXTINF:-1 tvg-id="1d6de2ed-5f04-4e5f-aa03-0bc2bdd4a5d9" tvg-name="Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan (2026-05-28 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4918_1grmmxhty619.png" group-title="KAZ PR",Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan (2026-05-28 18:00) | BLV SHIN
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 tvg-id="326398929" tvg-name="Paro FC vs Transport United FC (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39632_167288870485.png" group-title="BHU TL",Paro FC vs Transport United FC (2026-05-28 17:00) | BLV LÝ ỨNG
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-id="1d6de2ed-5f04-4e5f-aa03-0bc2bdd4a5d9_flv" tvg-name="Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan (2026-05-28 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4918_1grmmxhty619.png" group-title="KAZ PR",Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan (2026-05-28 18:00) FLV | BLV SHIN
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 tvg-id="326398929_flv" tvg-name="Paro FC vs Transport United FC (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39632_167288870485.png" group-title="BHU TL",Paro FC vs Transport United FC (2026-05-28 17:00) FLV | BLV LÝ ỨNG
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 tvg-id="343618923" tvg-name="Dire Dawa vs Kedus Giorgis (2026-05-28 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/28101_1grszbtmwt2p.png" group-title="ETH PR",Dire Dawa vs Kedus Giorgis (2026-05-28 19:00) | BLV FERNANDO
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 tvg-id="e31151fc-7c57-4eb6-978f-b52d87c96900" tvg-name="Paro FC vs Transport United FC (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39632_167288870485.png" group-title="BHU TL",Paro FC vs Transport United FC (2026-05-28 17:00) | BLV MÃ SIÊU
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="343618923_flv" tvg-name="Dire Dawa vs Kedus Giorgis (2026-05-28 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/28101_1grszbtmwt2p.png" group-title="ETH PR",Dire Dawa vs Kedus Giorgis (2026-05-28 19:00) FLV | BLV FERNANDO
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 tvg-id="e31151fc-7c57-4eb6-978f-b52d87c96900_flv" tvg-name="Paro FC vs Transport United FC (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39632_167288870485.png" group-title="BHU TL",Paro FC vs Transport United FC (2026-05-28 17:00) FLV | BLV MÃ SIÊU
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="56a2dee1-157b-4664-9638-79e852446f62" tvg-name="KS Perparimi Kukesi vs Butrinti Sarande (2026-05-28 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/16225_1gqbt5sv1g2a.png" group-title="ALB D2",KS Perparimi Kukesi vs Butrinti Sarande (2026-05-28 20:00) | BLV PHI HỔ
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+
+#EXTINF:-1 tvg-id="56a2dee1-157b-4664-9638-79e852446f62_flv" tvg-name="KS Perparimi Kukesi vs Butrinti Sarande (2026-05-28 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/16225_1gqbt5sv1g2a.png" group-title="ALB D2",KS Perparimi Kukesi vs Butrinti Sarande (2026-05-28 20:00) FLV | BLV PHI HỔ
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 

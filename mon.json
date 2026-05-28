@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-f1d8b0aa-b151-4ff9-8046-78e65a992543-218",
-          "name": "⚽ Okzhetpes vs FK Aktobe Lento",
+          "id": "ch-ad708792-f3a2-424f-935a-623475fa20ae-374",
+          "name": "⚽ Hawassa City FC vs Ethiopia Bunna",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/4920_1gtqmd3b4nt.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/28905_1grwpzvvfj1x.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,30 +47,30 @@
           ],
           "sources": [
             {
-              "id": "src-f1d8b0aa-b151-4ff9-8046-78e65a992543",
+              "id": "src-ad708792-f3a2-424f-935a-623475fa20ae",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-f1d8b0aa-b151-4ff9-8046-78e65a992543",
-                  "name": "Okzhetpes vs FK Aktobe Lento",
+                  "id": "cnt-ad708792-f3a2-424f-935a-623475fa20ae",
+                  "name": "Hawassa City FC vs Ethiopia Bunna",
                   "streams": [
                     {
-                      "id": "str-f1d8b0aa-b151-4ff9-8046-78e65a992543",
+                      "id": "str-ad708792-f3a2-424f-935a-623475fa20ae",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f1d8b0aa-b151-4ff9-8046-78e65a992543-m3u8",
+                          "id": "lnk-ad708792-f3a2-424f-935a-623475fa20ae-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6"
+                          "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
                         },
                         {
-                          "id": "lnk-f1d8b0aa-b151-4ff9-8046-78e65a992543-flv",
+                          "id": "lnk-ad708792-f3a2-424f-935a-623475fa20ae-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6"
+                          "url": "https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
                         }
                       ]
                     }
@@ -81,8 +81,8 @@
           ]
         },
         {
-          "id": "ch-495709921-331",
-          "name": "⚽ North Macedonia U19 vs Slovenia U18",
+          "id": "ch-385128925-253",
+          "name": "⚽ Belgium U17 vs Spain U17",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/3587_1h4380tz541s.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/3573_165750403496.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,123 +104,30 @@
           ],
           "sources": [
             {
-              "id": "src-495709921",
+              "id": "src-385128925",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-495709921",
-                  "name": "North Macedonia U19 vs Slovenia U18",
+                  "id": "cnt-385128925",
+                  "name": "Belgium U17 vs Spain U17",
                   "streams": [
                     {
-                      "id": "str-495709921",
+                      "id": "str-385128925",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-495709921-m3u8",
+                          "id": "lnk-385128925-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://auto.cdnfaster.live/live/sd-6Mwe5THV9dnNf44fN4/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-270119929-331",
-          "name": "⚽ Ha Noi FC II vs Da Nang II",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/17345_1hvdtv3b7q0.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-270119929",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-270119929",
-                  "name": "Ha Noi FC II vs Da Nang II",
-                  "streams": [
-                    {
-                      "id": "str-270119929",
-                      "name": "F",
-                      "stream_links": [
+                          "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
+                        },
                         {
-                          "id": "lnk-270119929-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://auto.cdnfaster.live/live/sd-6Mwe5TLSbRFe4NdvbE/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-486909923-331",
-          "name": "⚽ FC Ilbirs vs FC Abdish-Ata Kant",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/35169_1gxsjf6arwt.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-486909923",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-486909923",
-                  "name": "FC Ilbirs vs FC Abdish-Ata Kant",
-                  "streams": [
-                    {
-                      "id": "str-486909923",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-486909923-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://auto.cdnfaster.live/live/sd-6Mwe5TJxwvUkKNBbme/playlist.m3u8"
+                          "id": "lnk-385128925-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
                         }
                       ]
                     }
@@ -288,8 +195,8 @@
           ]
         },
         {
-          "id": "ch-446598923-331",
-          "name": "⚽ Bangladesh (W) vs Maldives (W)",
+          "id": "ch-342909925-300",
+          "name": "⚽ Mwatate United vs Naivas FC",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -297,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/14745_1h56hy844p1b.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/35804_167098998031.png",
             "width": 1600,
             "height": 1200
           },
@@ -311,180 +218,30 @@
           ],
           "sources": [
             {
-              "id": "src-446598923",
+              "id": "src-342909925",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-446598923",
-                  "name": "Bangladesh (W) vs Maldives (W)",
+                  "id": "cnt-342909925",
+                  "name": "Mwatate United vs Naivas FC",
                   "streams": [
                     {
-                      "id": "str-446598923",
+                      "id": "str-342909925",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-446598923-m3u8",
+                          "id": "lnk-342909925-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://auto.cdnfaster.live/live/sd-6Mwe5WYW4sj4FMUioW/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-203409927-331",
-          "name": "⚽ Septemvri Sofia vs Yantra Gabrovo",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/10703_1gq924y2y017.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-203409927",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-203409927",
-                  "name": "Septemvri Sofia vs Yantra Gabrovo",
-                  "streams": [
-                    {
-                      "id": "str-203409927",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-203409927-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://auto.cdnfaster.live/live/sd-6Mwe5WeQnfbcWDUogY/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-426598921-331",
-          "name": "⚽ Sri Lanka (W) vs Bhutan  (W)",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/16117_1h5hbtf6wp11.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-426598921",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-426598921",
-                  "name": "Sri Lanka (W) vs Bhutan  (W)",
-                  "streams": [
-                    {
-                      "id": "str-426598921",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-426598921-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://auto.cdnfaster.live/live/sd-6Mwe5WYW4uvY7qJdxQ/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-326398929-292",
-          "name": "⚽ Paro FC vs Transport United FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/39632_167288870485.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-326398929",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-326398929",
-                  "name": "Paro FC vs Transport United FC",
-                  "streams": [
-                    {
-                      "id": "str-326398929",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-326398929-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
+                          "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
                         },
                         {
-                          "id": "lnk-326398929-flv",
+                          "id": "lnk-342909925-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
+                          "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
                         }
                       ]
                     }
@@ -495,8 +252,8 @@
           ]
         },
         {
-          "id": "ch-e31151fc-7c57-4eb6-978f-b52d87c96900-269",
-          "name": "⚽ Paro FC vs Transport United FC",
+          "id": "ch-1d6de2ed-5f04-4e5f-aa03-0bc2bdd4a5d9-339",
+          "name": "⚽ Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -504,7 +261,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/39632_167288870485.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/4918_1grmmxhty619.png",
             "width": 1600,
             "height": 1200
           },
@@ -518,30 +275,144 @@
           ],
           "sources": [
             {
-              "id": "src-e31151fc-7c57-4eb6-978f-b52d87c96900",
+              "id": "src-1d6de2ed-5f04-4e5f-aa03-0bc2bdd4a5d9",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-e31151fc-7c57-4eb6-978f-b52d87c96900",
-                  "name": "Paro FC vs Transport United FC",
+                  "id": "cnt-1d6de2ed-5f04-4e5f-aa03-0bc2bdd4a5d9",
+                  "name": "Kyzylzhar Petropavlovsk vs FC Zhetysu Taldykorgan",
                   "streams": [
                     {
-                      "id": "str-e31151fc-7c57-4eb6-978f-b52d87c96900",
+                      "id": "str-1d6de2ed-5f04-4e5f-aa03-0bc2bdd4a5d9",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e31151fc-7c57-4eb6-978f-b52d87c96900-m3u8",
+                          "id": "lnk-1d6de2ed-5f04-4e5f-aa03-0bc2bdd4a5d9-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
+                          "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
                         },
                         {
-                          "id": "lnk-e31151fc-7c57-4eb6-978f-b52d87c96900-flv",
+                          "id": "lnk-1d6de2ed-5f04-4e5f-aa03-0bc2bdd4a5d9-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
+                          "url": "https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-343618923-368",
+          "name": "⚽ Dire Dawa vs Kedus Giorgis",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/28101_1grszbtmwt2p.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-343618923",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-343618923",
+                  "name": "Dire Dawa vs Kedus Giorgis",
+                  "streams": [
+                    {
+                      "id": "str-343618923",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-343618923-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
+                        },
+                        {
+                          "id": "lnk-343618923-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-56a2dee1-157b-4664-9638-79e852446f62-377",
+          "name": "⚽ KS Perparimi Kukesi vs Butrinti Sarande",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/16225_1gqbt5sv1g2a.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-56a2dee1-157b-4664-9638-79e852446f62",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-56a2dee1-157b-4664-9638-79e852446f62",
+                  "name": "KS Perparimi Kukesi vs Butrinti Sarande",
+                  "streams": [
+                    {
+                      "id": "str-56a2dee1-157b-4664-9638-79e852446f62",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-56a2dee1-157b-4664-9638-79e852446f62-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
+                        },
+                        {
+                          "id": "lnk-56a2dee1-157b-4664-9638-79e852446f62-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
                         }
                       ]
                     }
