@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="f1d8b0aa-b151-4ff9-8046-78e65a992543" tvg-name="Okzhetpes vs FK Aktobe Lento (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4920_1gtqmd3b4nt.png" group-title="KAZ PR",Okzhetpes vs FK Aktobe Lento (2026-05-28 17:00) | BLV KAKA
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 tvg-id="f1d8b0aa-b151-4ff9-8046-78e65a992543_flv" tvg-name="Okzhetpes vs FK Aktobe Lento (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4920_1gtqmd3b4nt.png" group-title="KAZ PR",Okzhetpes vs FK Aktobe Lento (2026-05-28 17:00) FLV | BLV KAKA
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 tvg-id="495709921" tvg-name="North Macedonia U19 vs Slovenia U18 (2026-05-28 16:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3587_1h4380tz541s.png" group-title="INT FRL",North Macedonia U19 vs Slovenia U18 (2026-05-28 16:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5THV9dnNf44fN4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="270119929" tvg-name="Ha Noi FC II vs Da Nang II (2026-05-28 16:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17345_1hvdtv3b7q0.png" group-title="VIE D3",Ha Noi FC II vs Da Nang II (2026-05-28 16:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5TLSbRFe4NdvbE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="486909923" tvg-name="FC Ilbirs vs FC Abdish-Ata Kant (2026-05-28 21:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/35169_1gxsjf6arwt.png" group-title="Kyr TL",FC Ilbirs vs FC Abdish-Ata Kant (2026-05-28 21:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5TJxwvUkKNBbme/playlist.m3u8
+
+#EXTINF:-1 tvg-id="68fe80e0-3f79-4345-9d9e-7697c847f2fa" tvg-name="Shanghai vs Zhejiang Guangsha (2026-05-28 18:35)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779901986.png" group-title="CBA",Shanghai vs Zhejiang Guangsha (2026-05-28 18:35) | BLV VÕ TÒNG
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="68fe80e0-3f79-4345-9d9e-7697c847f2fa_flv" tvg-name="Shanghai vs Zhejiang Guangsha (2026-05-28 18:35)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779901986.png" group-title="CBA",Shanghai vs Zhejiang Guangsha (2026-05-28 18:35) FLV | BLV VÕ TÒNG
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="446598923" tvg-name="Bangladesh (W) vs Maldives (W) (2026-05-28 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/14745_1h56hy844p1b.png" group-title="Asia SAFF Club Women Championship",Bangladesh (W) vs Maldives (W) (2026-05-28 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5WYW4sj4FMUioW/playlist.m3u8
+
+#EXTINF:-1 tvg-id="203409927" tvg-name="Septemvri Sofia vs Yantra Gabrovo (2026-05-28 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/10703_1gq924y2y017.png" group-title="BUL D1",Septemvri Sofia vs Yantra Gabrovo (2026-05-28 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5WeQnfbcWDUogY/playlist.m3u8
+
+#EXTINF:-1 tvg-id="426598921" tvg-name="Sri Lanka (W) vs Bhutan  (W) (2026-05-28 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/16117_1h5hbtf6wp11.png" group-title="Asia SAFF Club Women Championship",Sri Lanka (W) vs Bhutan  (W) (2026-05-28 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5WYW4uvY7qJdxQ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="326398929" tvg-name="Paro FC vs Transport United FC (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39632_167288870485.png" group-title="BHU TL",Paro FC vs Transport United FC (2026-05-28 17:00) | BLV LÝ ỨNG
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+
+#EXTINF:-1 tvg-id="326398929_flv" tvg-name="Paro FC vs Transport United FC (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39632_167288870485.png" group-title="BHU TL",Paro FC vs Transport United FC (2026-05-28 17:00) FLV | BLV LÝ ỨNG
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+
+#EXTINF:-1 tvg-id="e31151fc-7c57-4eb6-978f-b52d87c96900" tvg-name="Paro FC vs Transport United FC (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39632_167288870485.png" group-title="BHU TL",Paro FC vs Transport United FC (2026-05-28 17:00) | BLV MÃ SIÊU
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 tvg-id="e31151fc-7c57-4eb6-978f-b52d87c96900_flv" tvg-name="Paro FC vs Transport United FC (2026-05-28 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39632_167288870485.png" group-title="BHU TL",Paro FC vs Transport United FC (2026-05-28 17:00) FLV | BLV MÃ SIÊU
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
