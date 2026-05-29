@@ -1,14 +1,47 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="589598920" tvg-name="Lyon (W) vs Paris FC (W) (2026-05-30 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4549_1h8qpaa8861j.png" group-title="FRA WD1",Lyon (W) vs Paris FC (W) (2026-05-30 02:00) | BLV VƯƠNG LUÂN
+#EXTINF:-1 tvg-id="272022924" tvg-name="HB Torshavn vs Vikingur Gota (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2191_1gtqmft1ab19.png" group-title="FAR D1",HB Torshavn vs Vikingur Gota (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqrErgRiGatUWkk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="391255923" tvg-name="Knoxville troops vs Greenville Triumph (2026-05-30 05:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/24318_1gx54nvs4c1n.png" group-title="USL League One",Knoxville troops vs Greenville Triumph (2026-05-30 05:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd6CpxhEWpUYxenx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="464965921" tvg-name="Orlando Pride (W) vs Bay FC (W) (2026-05-30 06:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23906_1j3sptbqxw1t.png" group-title="USA WD1",Orlando Pride (W) vs Bay FC (W) (2026-05-30 06:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwcqRw1kzX1sgxE68/playlist.m3u8
+
+#EXTINF:-1 tvg-id="202255925" tvg-name="Forward Madison FC vs Corpus Christi FC (2026-05-30 06:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39256_1gxfc9gh58j.png" group-title="USL League One",Forward Madison FC vs Corpus Christi FC (2026-05-30 06:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd6CpxhCKLc58je4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="345348925" tvg-name="Cucuta vs Fortaleza F.C (2026-05-30 04:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3312_1gran870jt2f.png" group-title="COL Cup",Cucuta vs Fortaleza F.C (2026-05-30 04:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdLb4nj7FqW5s1qv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="207112922" tvg-name="Cobresal vs Nublense (2026-05-30 05:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1291_1gv1yk239p1p.png" group-title="CHI D1",Cobresal vs Nublense (2026-05-30 05:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYquUM7fd7HY8zWg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="355348926" tvg-name="Leones vs Dep.Independiente Medellin (2026-05-30 06:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6882_1grmn7p76r22.png" group-title="COL Cup",Leones vs Dep.Independiente Medellin (2026-05-30 06:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdLb4nj54Mdc36h2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="407598920" tvg-name="Toronto FC II vs Philadelphia Union II (2026-05-30 06:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/21813_20170523175647.jpg" group-title="MLS Next PL",Toronto FC II vs Philadelphia Union II (2026-05-30 06:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5WYUtrRWzBYiUC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="358509928" tvg-name="Cerro Largo vs Cerro Montevideo (2026-05-30 05:25)" tvg-logo="https://cdn-img.cdnokvip.com/logos/7566_1hrb7wwkee31.png" group-title="URU D1",Cerro Largo vs Cerro Montevideo (2026-05-30 05:25) | BLV VƯƠNG LUÂN
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
-#EXTINF:-1 tvg-id="589598920_flv" tvg-name="Lyon (W) vs Paris FC (W) (2026-05-30 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4549_1h8qpaa8861j.png" group-title="FRA WD1",Lyon (W) vs Paris FC (W) (2026-05-30 02:00) FLV | BLV VƯƠNG LUÂN
+#EXTINF:-1 tvg-id="358509928_flv" tvg-name="Cerro Largo vs Cerro Montevideo (2026-05-30 05:25)" tvg-logo="https://cdn-img.cdnokvip.com/logos/7566_1hrb7wwkee31.png" group-title="URU D1",Cerro Largo vs Cerro Montevideo (2026-05-30 05:25) FLV | BLV VƯƠNG LUÂN
 https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
-#EXTINF:-1 tvg-id="330688926" tvg-name="Nice vs Saint Etienne (2026-05-30 01:45)" tvg-logo="https://cdn-img.cdnokvip.com/logos/235_164871179882.png" group-title="FRA D2",Nice vs Saint Etienne (2026-05-30 01:45) | BLV LỮ BỐ
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-id="210584929" tvg-name="FC Minsk vs FK Isloch Minsk (2026-05-30 00:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4645_1h6z25dg6y2m.png" group-title="BLR D1",FC Minsk vs FK Isloch Minsk (2026-05-30 00:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd5hbBP7fqMNFatL/playlist.m3u8
 
-#EXTINF:-1 tvg-id="330688926_flv" tvg-name="Nice vs Saint Etienne (2026-05-30 01:45)" tvg-logo="https://cdn-img.cdnokvip.com/logos/235_164871179882.png" group-title="FRA D2",Nice vs Saint Etienne (2026-05-30 01:45) FLV | BLV LỮ BỐ
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-id="101004926" tvg-name="Juventude vs America MG (2026-05-30 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/336_1hwrwf8axx1r.png" group-title="BRA D2",Juventude vs America MG (2026-05-30 07:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvVNfPVzjsw42kszk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="474965922" tvg-name="Racing Louisville (W) vs Denver Summit W (2026-05-30 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/49539_1h2vp5r7nb1x.png" group-title="USA WD1",Racing Louisville (W) vs Denver Summit W (2026-05-30 07:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwcqNbbw3T85TqUvQ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="354461921" tvg-name="Racing de Cordoba vs Ferrol Carril Oeste (2026-05-30 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/7278_1gtzdbr0n32s.png" group-title="ARG D2",Racing de Cordoba vs Ferrol Carril Oeste (2026-05-30 07:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqjftEpWdWyqqbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="377192927" tvg-name="Atletico Grau vs UCV Moquegua (2026-05-30 03:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/15079_1jr9hz2gkyh.png" group-title="PER D1",Atletico Grau vs UCV Moquegua (2026-05-30 03:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvVczFhjoNXNd8BBa/playlist.m3u8
 
