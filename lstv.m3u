@@ -1,10 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="b3c2cfb2-3ff5-4c9e-afe2-d194f6f2c6eb" tvg-name="Western Springs AFC vs Bay Olympic (2026-05-29 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22489_1gwtq0fhmap.png" group-title="NOR NZL",Western Springs AFC vs Bay Olympic (2026-05-29 14:00) | BLV LƯU BỊ
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-id="231421922" tvg-name="West Torrens Birkalla vs Adelaide Comets FC (2026-05-29 17:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17049_1grwgk9v0d2v.png" group-title="AUS SASL",West Torrens Birkalla vs Adelaide Comets FC (2026-05-29 17:30) | BLV LÝ ỨNG
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 tvg-id="b3c2cfb2-3ff5-4c9e-afe2-d194f6f2c6eb_flv" tvg-name="Western Springs AFC vs Bay Olympic (2026-05-29 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22489_1gwtq0fhmap.png" group-title="NOR NZL",Western Springs AFC vs Bay Olympic (2026-05-29 14:00) FLV | BLV LƯU BỊ
-https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+#EXTINF:-1 tvg-id="231421922_flv" tvg-name="West Torrens Birkalla vs Adelaide Comets FC (2026-05-29 17:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17049_1grwgk9v0d2v.png" group-title="AUS SASL",West Torrens Birkalla vs Adelaide Comets FC (2026-05-29 17:30) FLV | BLV LÝ ỨNG
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+
+#EXTINF:-1 tvg-id="672fa2be-3ae5-48e7-901d-9271ffb8df7f" tvg-name="Montenegro U17 vs Italy U17 (2026-05-29 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5815_1h436hps1ka.png" group-title="UEFA U17",Montenegro U17 vs Italy U17 (2026-05-29 18:30) | BLV TÂY MÔN KHÁNH
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 tvg-id="672fa2be-3ae5-48e7-901d-9271ffb8df7f_flv" tvg-name="Montenegro U17 vs Italy U17 (2026-05-29 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5815_1h436hps1ka.png" group-title="UEFA U17",Montenegro U17 vs Italy U17 (2026-05-29 18:30) FLV | BLV TÂY MÔN KHÁNH
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+
+#EXTINF:-1 tvg-id="312835920" tvg-name="Adelaide Olympic vs Fulham United FC (2026-05-29 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/19057_1jyax2raah14.png" group-title="FFSA PL",Adelaide Olympic vs Fulham United FC (2026-05-29 17:00) | BLV TRIỆU TỬ LONG
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 tvg-id="312835920_flv" tvg-name="Adelaide Olympic vs Fulham United FC (2026-05-29 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/19057_1jyax2raah14.png" group-title="FFSA PL",Adelaide Olympic vs Fulham United FC (2026-05-29 17:00) FLV | BLV TRIỆU TỬ LONG
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
 #EXTINF:-1 tvg-id="391516923" tvg-name="El Mokawloon El Arab vs Future FC (2026-05-29 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2912_1gq6k69vfw14.png" group-title="EGY D1",El Mokawloon El Arab vs Future FC (2026-05-29 21:00) | BLV VÕ TÒNG
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -12,21 +24,33 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:-1 tvg-id="391516923_flv" tvg-name="El Mokawloon El Arab vs Future FC (2026-05-29 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2912_1gq6k69vfw14.png" group-title="EGY D1",El Mokawloon El Arab vs Future FC (2026-05-29 21:00) FLV | BLV VÕ TÒNG
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="5f1848a5-de7c-47f1-8b88-7b2c5d50bd27" tvg-name="Taranaki Airs vs Manawatu Jets (2026-05-29 14:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779990816.png" group-title="NBL",Taranaki Airs vs Manawatu Jets (2026-05-29 14:30) | BLV YẾN THANH
+#EXTINF:-1 tvg-id="468598927" tvg-name="Tensung FC vs Ugyen Academy (2026-05-29 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/43953_167193943613.png" group-title="BHU TL",Tensung FC vs Ugyen Academy (2026-05-29 17:00) | BLV LÃO HẠC
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 tvg-id="468598927_flv" tvg-name="Tensung FC vs Ugyen Academy (2026-05-29 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/43953_167193943613.png" group-title="BHU TL",Tensung FC vs Ugyen Academy (2026-05-29 17:00) FLV | BLV LÃO HẠC
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 tvg-id="5c2f50b5-a9d0-4ee3-b4f0-43bb89147020" tvg-name="Guangdong GZ-Power vs ShenZhen Juniors (2026-05-29 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61437_1jywmqcwe01r.png" group-title="CHA D1",Guangdong GZ-Power vs ShenZhen Juniors (2026-05-29 18:30) | BLV QUAN VŨ
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+
+#EXTINF:-1 tvg-id="5c2f50b5-a9d0-4ee3-b4f0-43bb89147020_flv" tvg-name="Guangdong GZ-Power vs ShenZhen Juniors (2026-05-29 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61437_1jywmqcwe01r.png" group-title="CHA D1",Guangdong GZ-Power vs ShenZhen Juniors (2026-05-29 18:30) FLV | BLV QUAN VŨ
+https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+
+#EXTINF:-1 tvg-id="383618927" tvg-name="Shire Endaselassie FC vs Hadiya Hossana (2026-05-29 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/38100_1j8gsy3mqn1r.png" group-title="ETH PR",Shire Endaselassie FC vs Hadiya Hossana (2026-05-29 19:00) | BLV MAYBACH
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+
+#EXTINF:-1 tvg-id="383618927_flv" tvg-name="Shire Endaselassie FC vs Hadiya Hossana (2026-05-29 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/38100_1j8gsy3mqn1r.png" group-title="ETH PR",Shire Endaselassie FC vs Hadiya Hossana (2026-05-29 19:00) FLV | BLV MAYBACH
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+
+#EXTINF:-1 tvg-id="fe7ffac2-78cc-4a3c-ac55-73d901ed3fbc" tvg-name="Liaoning Tieren vs Shanghai Port (2026-05-29 18:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23781_1hrgchqnbje.png" group-title="CHA CSL",Liaoning Tieren vs Shanghai Port (2026-05-29 18:35) | BLV DƯƠNG CHÍ
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
+#EXTINF:-1 tvg-id="fe7ffac2-78cc-4a3c-ac55-73d901ed3fbc_flv" tvg-name="Liaoning Tieren vs Shanghai Port (2026-05-29 18:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23781_1hrgchqnbje.png" group-title="CHA CSL",Liaoning Tieren vs Shanghai Port (2026-05-29 18:35) FLV | BLV DƯƠNG CHÍ
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
+#EXTINF:-1 tvg-id="0655fc53-0e80-4c48-b332-d5383188a393" tvg-name="Nhatrang Dolphins vs Saigon Heat (2026-05-29 19:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779990846.png" group-title="VBA",Nhatrang Dolphins vs Saigon Heat (2026-05-29 19:30) | BLV YẾN THANH
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 tvg-id="5f1848a5-de7c-47f1-8b88-7b2c5d50bd27_flv" tvg-name="Taranaki Airs vs Manawatu Jets (2026-05-29 14:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779990816.png" group-title="NBL",Taranaki Airs vs Manawatu Jets (2026-05-29 14:30) FLV | BLV YẾN THANH
+#EXTINF:-1 tvg-id="0655fc53-0e80-4c48-b332-d5383188a393_flv" tvg-name="Nhatrang Dolphins vs Saigon Heat (2026-05-29 19:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779990846.png" group-title="VBA",Nhatrang Dolphins vs Saigon Heat (2026-05-29 19:30) FLV | BLV YẾN THANH
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-
-#EXTINF:-1 tvg-id="224515928" tvg-name="ShanXi Union vs Nanjing City (2026-05-29 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/64649_1hwesavgb82t.png" group-title="CHA D1",ShanXi Union vs Nanjing City (2026-05-29 14:00) | BLV KAKA
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 tvg-id="224515928_flv" tvg-name="ShanXi Union vs Nanjing City (2026-05-29 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/64649_1hwesavgb82t.png" group-title="CHA D1",ShanXi Union vs Nanjing City (2026-05-29 14:00) FLV | BLV KAKA
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-
-#EXTINF:-1 tvg-id="b8ce9810-4978-49db-877f-6fd0be773ae1" tvg-name="Liaoning Shengjing Xinrui vs Benxi Qingfan Logistics Park FC (2026-05-29 15:00)" tvg-logo="" group-title="CHN CH",Liaoning Shengjing Xinrui vs Benxi Qingfan Logistics Park FC (2026-05-29 15:00) | BLV TÔN LẬP
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 tvg-id="b8ce9810-4978-49db-877f-6fd0be773ae1_flv" tvg-name="Liaoning Shengjing Xinrui vs Benxi Qingfan Logistics Park FC (2026-05-29 15:00)" tvg-logo="" group-title="CHN CH",Liaoning Shengjing Xinrui vs Benxi Qingfan Logistics Park FC (2026-05-29 15:00) FLV | BLV TÔN LẬP
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
