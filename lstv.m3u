@@ -1,53 +1,38 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="449576821" tvg-name="Al Oruba (UAE) vs Masfut (2026-05-29 21:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5592_1hcnxaxdt3c.png" group-title="UAE D1",Al Oruba (UAE) vs Masfut (2026-05-29 21:15) | BLV TÂY MÔN KHÁNH
+#EXTINF:-1 tvg-id="306198925" tvg-name="Monza vs Catanzaro (2026-05-30 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2230_1j37hkshsw2.png" group-title="ITA D2",Monza vs Catanzaro (2026-05-30 01:00) | BLV TÂY MÔN KHÁNH
 https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 tvg-id="449576821_flv" tvg-name="Al Oruba (UAE) vs Masfut (2026-05-29 21:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5592_1hcnxaxdt3c.png" group-title="UAE D1",Al Oruba (UAE) vs Masfut (2026-05-29 21:15) FLV | BLV TÂY MÔN KHÁNH
+#EXTINF:-1 tvg-id="306198925_flv" tvg-name="Monza vs Catanzaro (2026-05-30 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2230_1j37hkshsw2.png" group-title="ITA D2",Monza vs Catanzaro (2026-05-30 01:00) FLV | BLV TÂY MÔN KHÁNH
 https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 tvg-id="319576828" tvg-name="Al-Ittifaq(UAE) vs Gulf United FC (2026-05-29 21:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/47791_1jcsjb09672p.png" group-title="UAE D1",Al-Ittifaq(UAE) vs Gulf United FC (2026-05-29 21:15) | BLV LÃO HẠC
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 tvg-id="429598924" tvg-name="South Africa vs Nicaragua (2026-05-29 23:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="INT FRL",South Africa vs Nicaragua (2026-05-29 23:00) | BLV TRIỆU TỬ LONG
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 tvg-id="319576828_flv" tvg-name="Al-Ittifaq(UAE) vs Gulf United FC (2026-05-29 21:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/47791_1jcsjb09672p.png" group-title="UAE D1",Al-Ittifaq(UAE) vs Gulf United FC (2026-05-29 21:15) FLV | BLV LÃO HẠC
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+#EXTINF:-1 tvg-id="429598924_flv" tvg-name="South Africa vs Nicaragua (2026-05-29 23:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="INT FRL",South Africa vs Nicaragua (2026-05-29 23:00) FLV | BLV TRIỆU TỬ LONG
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
 
-#EXTINF:-1 tvg-id="320584920" tvg-name="Naftan Novopolock vs FC Torpedo Zhodino (2026-05-29 22:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2036_1k00ny2bb815.png" group-title="BLR D1",Naftan Novopolock vs FC Torpedo Zhodino (2026-05-29 22:00) | BLV YẾN THANH
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-id="439598925" tvg-name="Mamelodi Sundowns vs RB Leipzig (2026-05-30 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2190_1grmn6hqh31z.png" group-title="INT CF",Mamelodi Sundowns vs RB Leipzig (2026-05-30 01:00) | BLV LÝ ỨNG
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 tvg-id="320584920_flv" tvg-name="Naftan Novopolock vs FC Torpedo Zhodino (2026-05-29 22:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2036_1k00ny2bb815.png" group-title="BLR D1",Naftan Novopolock vs FC Torpedo Zhodino (2026-05-29 22:00) FLV | BLV YẾN THANH
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-id="439598925_flv" tvg-name="Mamelodi Sundowns vs RB Leipzig (2026-05-30 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2190_1grmn6hqh31z.png" group-title="INT CF",Mamelodi Sundowns vs RB Leipzig (2026-05-30 01:00) FLV | BLV LÝ ỨNG
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 tvg-id="381516922" tvg-name="ZED FC vs Kahraba Ismailia (2026-05-29 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/47685_1gq1ermv622d.png" group-title="EGY D1",ZED FC vs Kahraba Ismailia (2026-05-29 21:00) | BLV SHIN
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-
-#EXTINF:-1 tvg-id="381516922_flv" tvg-name="ZED FC vs Kahraba Ismailia (2026-05-29 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/47685_1gq1ermv622d.png" group-title="EGY D1",ZED FC vs Kahraba Ismailia (2026-05-29 21:00) FLV | BLV SHIN
-https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-
-#EXTINF:-1 tvg-id="329576829" tvg-name="Al-Jazira Al-Hamra vs Ahli Al-Fujirah (2026-05-29 21:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5591_1gqbr1a2n029.png" group-title="UAE D1",Al-Jazira Al-Hamra vs Ahli Al-Fujirah (2026-05-29 21:15) | BLV FERNANDO
+#EXTINF:-1 tvg-id="258121928" tvg-name="Orgryte vs Elfsborg (2026-05-30 00:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/373_1gtqm2wp9p5.png" group-title="SWE D1",Orgryte vs Elfsborg (2026-05-30 00:00) | BLV FERNANDO
 https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 tvg-id="329576829_flv" tvg-name="Al-Jazira Al-Hamra vs Ahli Al-Fujirah (2026-05-29 21:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5591_1gqbr1a2n029.png" group-title="UAE D1",Al-Jazira Al-Hamra vs Ahli Al-Fujirah (2026-05-29 21:15) FLV | BLV FERNANDO
+#EXTINF:-1 tvg-id="258121928_flv" tvg-name="Orgryte vs Elfsborg (2026-05-30 00:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/373_1gtqm2wp9p5.png" group-title="SWE D1",Orgryte vs Elfsborg (2026-05-30 00:00) FLV | BLV FERNANDO
 https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 tvg-id="391516923" tvg-name="El Mokawloon El Arab vs Future FC (2026-05-29 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2912_1gq6k69vfw14.png" group-title="EGY D1",El Mokawloon El Arab vs Future FC (2026-05-29 21:00) | BLV VÕ TÒNG
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-id="371516921" tvg-name="NBE SC vs Al-Ittihad Alexandria (2026-05-30 00:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/47605_1gq6k69vzw31.png" group-title="EGY D1",NBE SC vs Al-Ittihad Alexandria (2026-05-30 00:00) | BLV LÃO HẠC
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 tvg-id="391516923_flv" tvg-name="El Mokawloon El Arab vs Future FC (2026-05-29 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2912_1gq6k69vfw14.png" group-title="EGY D1",El Mokawloon El Arab vs Future FC (2026-05-29 21:00) FLV | BLV VÕ TÒNG
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-id="371516921_flv" tvg-name="NBE SC vs Al-Ittihad Alexandria (2026-05-30 00:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/47605_1gq6k69vzw31.png" group-title="EGY D1",NBE SC vs Al-Ittihad Alexandria (2026-05-30 00:00) FLV | BLV LÃO HẠC
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 tvg-id="309576827" tvg-name="Al-Hamriyah vs Dubai United (2026-05-29 21:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3128_1gqrke6nnv22.png" group-title="UAE D1",Al-Hamriyah vs Dubai United (2026-05-29 21:15) | BLV TÔN LẬP
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+#EXTINF:-1 tvg-id="390791927" tvg-name="Al-Qadsia SC vs Al-Jahra (2026-05-29 23:20)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3087_1gqgp6phbs22.png" group-title="KUW D1",Al-Qadsia SC vs Al-Jahra (2026-05-29 23:20) | BLV VƯƠNG LUÂN
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
-#EXTINF:-1 tvg-id="309576827_flv" tvg-name="Al-Hamriyah vs Dubai United (2026-05-29 21:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3128_1gqrke6nnv22.png" group-title="UAE D1",Al-Hamriyah vs Dubai United (2026-05-29 21:15) FLV | BLV TÔN LẬP
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 tvg-id="bc41ed40-5919-4d3d-9d6d-2b2b5bbb997f" tvg-name="Don Bosco vs Simba (2026-05-29 20:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780059923.png" group-title="Illicocash Ligue 1",Don Bosco vs Simba (2026-05-29 20:00) | BLV NGƯỜI THÉP
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-
-#EXTINF:-1 tvg-id="439576820" tvg-name="Al-Thaid vs Emirates Club (2026-05-29 21:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5578_1hcnxaxdtwh.png" group-title="UAE D1",Al-Thaid vs Emirates Club (2026-05-29 21:15) | BLV MÃ SIÊU
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
-
-#EXTINF:-1 tvg-id="439576820_flv" tvg-name="Al-Thaid vs Emirates Club (2026-05-29 21:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5578_1hcnxaxdtwh.png" group-title="UAE D1",Al-Thaid vs Emirates Club (2026-05-29 21:15) FLV | BLV MÃ SIÊU
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="390791927_flv" tvg-name="Al-Qadsia SC vs Al-Jahra (2026-05-29 23:20)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3087_1gqgp6phbs22.png" group-title="KUW D1",Al-Qadsia SC vs Al-Jahra (2026-05-29 23:20) FLV | BLV VƯƠNG LUÂN
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 

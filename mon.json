@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-449576821-298",
-          "name": "⚽ Al Oruba (UAE) vs Masfut",
+          "id": "ch-306198925-298",
+          "name": "⚽ Monza vs Catanzaro",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/5592_1hcnxaxdt3c.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/2230_1j37hkshsw2.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,26 +47,26 @@
           ],
           "sources": [
             {
-              "id": "src-449576821",
+              "id": "src-306198925",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-449576821",
-                  "name": "Al Oruba (UAE) vs Masfut",
+                  "id": "cnt-306198925",
+                  "name": "Monza vs Catanzaro",
                   "streams": [
                     {
-                      "id": "str-449576821",
+                      "id": "str-306198925",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-449576821-m3u8",
+                          "id": "lnk-306198925-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
                           "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
                         },
                         {
-                          "id": "lnk-449576821-flv",
+                          "id": "lnk-306198925-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
@@ -81,8 +81,8 @@
           ]
         },
         {
-          "id": "ch-319576828-372",
-          "name": "⚽ Al-Ittifaq(UAE) vs Gulf United FC",
+          "id": "ch-429598924-81",
+          "name": "⚽ South Africa vs Nicaragua",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/47791_1jcsjb09672p.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/695_165018843635.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,30 +104,30 @@
           ],
           "sources": [
             {
-              "id": "src-319576828",
+              "id": "src-429598924",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-319576828",
-                  "name": "Al-Ittifaq(UAE) vs Gulf United FC",
+                  "id": "cnt-429598924",
+                  "name": "South Africa vs Nicaragua",
                   "streams": [
                     {
-                      "id": "str-319576828",
+                      "id": "str-429598924",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-319576828-m3u8",
+                          "id": "lnk-429598924-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
+                          "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
                         },
                         {
-                          "id": "lnk-319576828-flv",
+                          "id": "lnk-429598924-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
+                          "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
                         }
                       ]
                     }
@@ -138,8 +138,8 @@
           ]
         },
         {
-          "id": "ch-320584920-320",
-          "name": "⚽ Naftan Novopolock vs FC Torpedo Zhodino",
+          "id": "ch-439598925-292",
+          "name": "⚽ Mamelodi Sundowns vs RB Leipzig",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -147,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/2036_1k00ny2bb815.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/2190_1grmn6hqh31z.png",
             "width": 1600,
             "height": 1200
           },
@@ -161,30 +161,30 @@
           ],
           "sources": [
             {
-              "id": "src-320584920",
+              "id": "src-439598925",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-320584920",
-                  "name": "Naftan Novopolock vs FC Torpedo Zhodino",
+                  "id": "cnt-439598925",
+                  "name": "Mamelodi Sundowns vs RB Leipzig",
                   "streams": [
                     {
-                      "id": "str-320584920",
+                      "id": "str-439598925",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-320584920-m3u8",
+                          "id": "lnk-439598925-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
+                          "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
                         },
                         {
-                          "id": "lnk-320584920-flv",
+                          "id": "lnk-439598925-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
+                          "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
                         }
                       ]
                     }
@@ -195,8 +195,8 @@
           ]
         },
         {
-          "id": "ch-381516922-339",
-          "name": "⚽ ZED FC vs Kahraba Ismailia",
+          "id": "ch-258121928-368",
+          "name": "⚽ Orgryte vs Elfsborg",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -204,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/47685_1gq1ermv622d.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/373_1gtqm2wp9p5.png",
             "width": 1600,
             "height": 1200
           },
@@ -218,83 +218,26 @@
           ],
           "sources": [
             {
-              "id": "src-381516922",
+              "id": "src-258121928",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-381516922",
-                  "name": "ZED FC vs Kahraba Ismailia",
+                  "id": "cnt-258121928",
+                  "name": "Orgryte vs Elfsborg",
                   "streams": [
                     {
-                      "id": "str-381516922",
+                      "id": "str-258121928",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-381516922-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
-                        },
-                        {
-                          "id": "lnk-381516922-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-329576829-368",
-          "name": "⚽ Al-Jazira Al-Hamra vs Ahli Al-Fujirah",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/5591_1gqbr1a2n029.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-329576829",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-329576829",
-                  "name": "Al-Jazira Al-Hamra vs Ahli Al-Fujirah",
-                  "streams": [
-                    {
-                      "id": "str-329576829",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-329576829-m3u8",
+                          "id": "lnk-258121928-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
                           "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
                         },
                         {
-                          "id": "lnk-329576829-flv",
+                          "id": "lnk-258121928-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
@@ -309,8 +252,8 @@
           ]
         },
         {
-          "id": "ch-391516923-328",
-          "name": "⚽ El Mokawloon El Arab vs Future FC",
+          "id": "ch-371516921-372",
+          "name": "⚽ NBE SC vs Al-Ittihad Alexandria",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -318,7 +261,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/2912_1gq6k69vfw14.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/47605_1gq6k69vzw31.png",
             "width": 1600,
             "height": 1200
           },
@@ -332,30 +275,30 @@
           ],
           "sources": [
             {
-              "id": "src-391516923",
+              "id": "src-371516921",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-391516923",
-                  "name": "El Mokawloon El Arab vs Future FC",
+                  "id": "cnt-371516921",
+                  "name": "NBE SC vs Al-Ittihad Alexandria",
                   "streams": [
                     {
-                      "id": "str-391516923",
+                      "id": "str-371516921",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-391516923-m3u8",
+                          "id": "lnk-371516921-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+                          "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
                         },
                         {
-                          "id": "lnk-391516923-flv",
+                          "id": "lnk-371516921-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
+                          "url": "https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
                         }
                       ]
                     }
@@ -366,8 +309,8 @@
           ]
         },
         {
-          "id": "ch-309576827-300",
-          "name": "⚽ Al-Hamriyah vs Dubai United",
+          "id": "ch-390791927-315",
+          "name": "⚽ Al-Qadsia SC vs Al-Jahra",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -375,7 +318,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/3128_1gqrke6nnv22.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/3087_1gqgp6phbs22.png",
             "width": 1600,
             "height": 1200
           },
@@ -389,137 +332,30 @@
           ],
           "sources": [
             {
-              "id": "src-309576827",
+              "id": "src-390791927",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-309576827",
-                  "name": "Al-Hamriyah vs Dubai United",
+                  "id": "cnt-390791927",
+                  "name": "Al-Qadsia SC vs Al-Jahra",
                   "streams": [
                     {
-                      "id": "str-309576827",
+                      "id": "str-390791927",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-309576827-m3u8",
+                          "id": "lnk-390791927-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
+                          "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645"
                         },
                         {
-                          "id": "lnk-309576827-flv",
+                          "id": "lnk-390791927-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-bc41ed40-5919-4d3d-9d6d-2b2b5bbb997f-374",
-          "name": "⚽ Don Bosco vs Simba",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1780059923.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bc41ed40-5919-4d3d-9d6d-2b2b5bbb997f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-bc41ed40-5919-4d3d-9d6d-2b2b5bbb997f",
-                  "name": "Don Bosco vs Simba",
-                  "streams": [
-                    {
-                      "id": "str-bc41ed40-5919-4d3d-9d6d-2b2b5bbb997f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bc41ed40-5919-4d3d-9d6d-2b2b5bbb997f-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-439576820-269",
-          "name": "⚽ Al-Thaid vs Emirates Club",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/5578_1hcnxaxdtwh.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-439576820",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-439576820",
-                  "name": "Al-Thaid vs Emirates Club",
-                  "streams": [
-                    {
-                      "id": "str-439576820",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-439576820-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
-                        },
-                        {
-                          "id": "lnk-439576820-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
+                          "url": "https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645"
                         }
                       ]
                     }
