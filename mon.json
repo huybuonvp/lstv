@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-306198925-298",
-          "name": "⚽ Monza vs Catanzaro",
+          "id": "ch-589598920-315",
+          "name": "⚽ Lyon (W) vs Paris FC (W)",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/2230_1j37hkshsw2.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/4549_1h8qpaa8861j.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,315 +47,87 @@
           ],
           "sources": [
             {
-              "id": "src-306198925",
+              "id": "src-589598920",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-306198925",
-                  "name": "Monza vs Catanzaro",
+                  "id": "cnt-589598920",
+                  "name": "Lyon (W) vs Paris FC (W)",
                   "streams": [
                     {
-                      "id": "str-306198925",
+                      "id": "str-589598920",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-306198925-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
-                        },
-                        {
-                          "id": "lnk-306198925-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-429598924-81",
-          "name": "⚽ South Africa vs Nicaragua",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/695_165018843635.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-429598924",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-429598924",
-                  "name": "South Africa vs Nicaragua",
-                  "streams": [
-                    {
-                      "id": "str-429598924",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-429598924-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
-                        },
-                        {
-                          "id": "lnk-429598924-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-439598925-292",
-          "name": "⚽ Mamelodi Sundowns vs RB Leipzig",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/2190_1grmn6hqh31z.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-439598925",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-439598925",
-                  "name": "Mamelodi Sundowns vs RB Leipzig",
-                  "streams": [
-                    {
-                      "id": "str-439598925",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-439598925-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
-                        },
-                        {
-                          "id": "lnk-439598925-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-258121928-368",
-          "name": "⚽ Orgryte vs Elfsborg",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/373_1gtqm2wp9p5.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-258121928",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-258121928",
-                  "name": "Orgryte vs Elfsborg",
-                  "streams": [
-                    {
-                      "id": "str-258121928",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-258121928-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
-                        },
-                        {
-                          "id": "lnk-258121928-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-371516921-372",
-          "name": "⚽ NBE SC vs Al-Ittihad Alexandria",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/47605_1gq6k69vzw31.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-371516921",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-371516921",
-                  "name": "NBE SC vs Al-Ittihad Alexandria",
-                  "streams": [
-                    {
-                      "id": "str-371516921",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-371516921-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
-                        },
-                        {
-                          "id": "lnk-371516921-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-390791927-315",
-          "name": "⚽ Al-Qadsia SC vs Al-Jahra",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/3087_1gqgp6phbs22.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-390791927",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-390791927",
-                  "name": "Al-Qadsia SC vs Al-Jahra",
-                  "streams": [
-                    {
-                      "id": "str-390791927",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-390791927-m3u8",
+                          "id": "lnk-589598920-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
                           "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645"
                         },
                         {
-                          "id": "lnk-390791927-flv",
+                          "id": "lnk-589598920-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
                           "url": "https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-330688926-246",
+          "name": "⚽ Nice vs Saint Etienne",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/235_164871179882.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-330688926",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-330688926",
+                  "name": "Nice vs Saint Etienne",
+                  "streams": [
+                    {
+                      "id": "str-330688926",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-330688926-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1"
+                        },
+                        {
+                          "id": "lnk-330688926-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1"
                         }
                       ]
                     }

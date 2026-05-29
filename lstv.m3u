@@ -1,38 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="306198925" tvg-name="Monza vs Catanzaro (2026-05-30 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2230_1j37hkshsw2.png" group-title="ITA D2",Monza vs Catanzaro (2026-05-30 01:00) | BLV TÂY MÔN KHÁNH
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 tvg-id="306198925_flv" tvg-name="Monza vs Catanzaro (2026-05-30 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2230_1j37hkshsw2.png" group-title="ITA D2",Monza vs Catanzaro (2026-05-30 01:00) FLV | BLV TÂY MÔN KHÁNH
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
-
-#EXTINF:-1 tvg-id="429598924" tvg-name="South Africa vs Nicaragua (2026-05-29 23:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="INT FRL",South Africa vs Nicaragua (2026-05-29 23:00) | BLV TRIỆU TỬ LONG
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 tvg-id="429598924_flv" tvg-name="South Africa vs Nicaragua (2026-05-29 23:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/695_165018843635.png" group-title="INT FRL",South Africa vs Nicaragua (2026-05-29 23:00) FLV | BLV TRIỆU TỬ LONG
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 tvg-id="439598925" tvg-name="Mamelodi Sundowns vs RB Leipzig (2026-05-30 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2190_1grmn6hqh31z.png" group-title="INT CF",Mamelodi Sundowns vs RB Leipzig (2026-05-30 01:00) | BLV LÝ ỨNG
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 tvg-id="439598925_flv" tvg-name="Mamelodi Sundowns vs RB Leipzig (2026-05-30 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2190_1grmn6hqh31z.png" group-title="INT CF",Mamelodi Sundowns vs RB Leipzig (2026-05-30 01:00) FLV | BLV LÝ ỨNG
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 tvg-id="258121928" tvg-name="Orgryte vs Elfsborg (2026-05-30 00:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/373_1gtqm2wp9p5.png" group-title="SWE D1",Orgryte vs Elfsborg (2026-05-30 00:00) | BLV FERNANDO
-https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 tvg-id="258121928_flv" tvg-name="Orgryte vs Elfsborg (2026-05-30 00:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/373_1gtqm2wp9p5.png" group-title="SWE D1",Orgryte vs Elfsborg (2026-05-30 00:00) FLV | BLV FERNANDO
-https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
-
-#EXTINF:-1 tvg-id="371516921" tvg-name="NBE SC vs Al-Ittihad Alexandria (2026-05-30 00:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/47605_1gq6k69vzw31.png" group-title="EGY D1",NBE SC vs Al-Ittihad Alexandria (2026-05-30 00:00) | BLV LÃO HẠC
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 tvg-id="371516921_flv" tvg-name="NBE SC vs Al-Ittihad Alexandria (2026-05-30 00:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/47605_1gq6k69vzw31.png" group-title="EGY D1",NBE SC vs Al-Ittihad Alexandria (2026-05-30 00:00) FLV | BLV LÃO HẠC
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 tvg-id="390791927" tvg-name="Al-Qadsia SC vs Al-Jahra (2026-05-29 23:20)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3087_1gqgp6phbs22.png" group-title="KUW D1",Al-Qadsia SC vs Al-Jahra (2026-05-29 23:20) | BLV VƯƠNG LUÂN
+#EXTINF:-1 tvg-id="589598920" tvg-name="Lyon (W) vs Paris FC (W) (2026-05-30 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4549_1h8qpaa8861j.png" group-title="FRA WD1",Lyon (W) vs Paris FC (W) (2026-05-30 02:00) | BLV VƯƠNG LUÂN
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
-#EXTINF:-1 tvg-id="390791927_flv" tvg-name="Al-Qadsia SC vs Al-Jahra (2026-05-29 23:20)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3087_1gqgp6phbs22.png" group-title="KUW D1",Al-Qadsia SC vs Al-Jahra (2026-05-29 23:20) FLV | BLV VƯƠNG LUÂN
+#EXTINF:-1 tvg-id="589598920_flv" tvg-name="Lyon (W) vs Paris FC (W) (2026-05-30 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4549_1h8qpaa8861j.png" group-title="FRA WD1",Lyon (W) vs Paris FC (W) (2026-05-30 02:00) FLV | BLV VƯƠNG LUÂN
 https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+
+#EXTINF:-1 tvg-id="330688926" tvg-name="Nice vs Saint Etienne (2026-05-30 01:45)" tvg-logo="https://cdn-img.cdnokvip.com/logos/235_164871179882.png" group-title="FRA D2",Nice vs Saint Etienne (2026-05-30 01:45) | BLV LỮ BỐ
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 tvg-id="330688926_flv" tvg-name="Nice vs Saint Etienne (2026-05-30 01:45)" tvg-logo="https://cdn-img.cdnokvip.com/logos/235_164871179882.png" group-title="FRA D2",Nice vs Saint Etienne (2026-05-30 01:45) FLV | BLV LỮ BỐ
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
