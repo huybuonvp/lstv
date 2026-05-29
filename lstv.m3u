@@ -1,44 +1,32 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="319718927" tvg-name="Spring Hills FC (W) vs Melbourne City Youth(W) (2026-05-29 17:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61434_1gxt3eqjwry.png" group-title="AUS WPL",Spring Hills FC (W) vs Melbourne City Youth(W) (2026-05-29 17:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdLJpm72CYwKmdUQ/playlist.m3u8
+#EXTINF:-1 tvg-id="b3c2cfb2-3ff5-4c9e-afe2-d194f6f2c6eb" tvg-name="Western Springs AFC vs Bay Olympic (2026-05-29 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22489_1gwtq0fhmap.png" group-title="NOR NZL",Western Springs AFC vs Bay Olympic (2026-05-29 14:00) | BLV LƯU BỊ
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 tvg-id="866d3cd9-1adc-4d8e-8188-59b76e3d4964" tvg-name="Manukau United vs Fencibles United (2026-05-29 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/29939_1gwbdfbee6c.png" group-title="NOR NZL",Manukau United vs Fencibles United (2026-05-29 14:00) | BLV VÕ TÒNG
+#EXTINF:-1 tvg-id="b3c2cfb2-3ff5-4c9e-afe2-d194f6f2c6eb_flv" tvg-name="Western Springs AFC vs Bay Olympic (2026-05-29 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22489_1gwtq0fhmap.png" group-title="NOR NZL",Western Springs AFC vs Bay Olympic (2026-05-29 14:00) FLV | BLV LƯU BỊ
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 tvg-id="391516923" tvg-name="El Mokawloon El Arab vs Future FC (2026-05-29 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2912_1gq6k69vfw14.png" group-title="EGY D1",El Mokawloon El Arab vs Future FC (2026-05-29 21:00) | BLV VÕ TÒNG
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="866d3cd9-1adc-4d8e-8188-59b76e3d4964_flv" tvg-name="Manukau United vs Fencibles United (2026-05-29 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/29939_1gwbdfbee6c.png" group-title="NOR NZL",Manukau United vs Fencibles United (2026-05-29 14:00) FLV | BLV VÕ TÒNG
+#EXTINF:-1 tvg-id="391516923_flv" tvg-name="El Mokawloon El Arab vs Future FC (2026-05-29 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2912_1gq6k69vfw14.png" group-title="EGY D1",El Mokawloon El Arab vs Future FC (2026-05-29 21:00) FLV | BLV VÕ TÒNG
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="231421922" tvg-name="West Torrens Birkalla vs Adelaide Comets FC (2026-05-29 17:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17049_1grwgk9v0d2v.png" group-title="AUS SASL",West Torrens Birkalla vs Adelaide Comets FC (2026-05-29 17:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvZ6HjgdNZNEHfCnx/playlist.m3u8
+#EXTINF:-1 tvg-id="5f1848a5-de7c-47f1-8b88-7b2c5d50bd27" tvg-name="Taranaki Airs vs Manawatu Jets (2026-05-29 14:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779990816.png" group-title="NBL",Taranaki Airs vs Manawatu Jets (2026-05-29 14:30) | BLV YẾN THANH
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 tvg-id="362209920" tvg-name="Nasinu FC vs Labasa FC (2026-05-29 10:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/37466_1hz67h11pvg.png" group-title="FIJ NL",Nasinu FC vs Labasa FC (2026-05-29 10:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5Wdeo5u2iwTDhv/playlist.m3u8
+#EXTINF:-1 tvg-id="5f1848a5-de7c-47f1-8b88-7b2c5d50bd27_flv" tvg-name="Taranaki Airs vs Manawatu Jets (2026-05-29 14:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1779990816.png" group-title="NBL",Taranaki Airs vs Manawatu Jets (2026-05-29 14:30) FLV | BLV YẾN THANH
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 tvg-id="319703921" tvg-name="Sydney FC (Youth) vs Western Sydney Wanderers AM (2026-05-29 16:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/7897_1grcyn2cdw6.png" group-title="AUS NSW",Sydney FC (Youth) vs Western Sydney Wanderers AM (2026-05-29 16:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvYqdC8D15CAbLhrL/playlist.m3u8
+#EXTINF:-1 tvg-id="224515928" tvg-name="ShanXi Union vs Nanjing City (2026-05-29 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/64649_1hwesavgb82t.png" group-title="CHA D1",ShanXi Union vs Nanjing City (2026-05-29 14:00) | BLV KAKA
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 tvg-id="337809928" tvg-name="Adelaide University (W) vs Adelaide Comets (W) (2026-05-29 17:45)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23967_1hzvcyfmf1x.png" group-title="FFSA WPL",Adelaide University (W) vs Adelaide Comets (W) (2026-05-29 17:45) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5TJEdot54316Jx/playlist.m3u8
+#EXTINF:-1 tvg-id="224515928_flv" tvg-name="ShanXi Union vs Nanjing City (2026-05-29 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/64649_1hwesavgb82t.png" group-title="CHA D1",ShanXi Union vs Nanjing City (2026-05-29 14:00) FLV | BLV KAKA
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
 
-#EXTINF:-1 tvg-id="306940920" tvg-name="North Star vs Brisbane Strikers (2026-05-29 17:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/8860_1hx0r83dgcw.png" group-title="QLD D1",North Star vs Brisbane Strikers (2026-05-29 17:15) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvYMUgmsZfMh8KY3v/playlist.m3u8
+#EXTINF:-1 tvg-id="b8ce9810-4978-49db-877f-6fd0be773ae1" tvg-name="Liaoning Shengjing Xinrui vs Benxi Qingfan Logistics Park FC (2026-05-29 15:00)" tvg-logo="" group-title="CHN CH",Liaoning Shengjing Xinrui vs Benxi Qingfan Logistics Park FC (2026-05-29 15:00) | BLV TÔN LẬP
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
-#EXTINF:-1 tvg-id="322778927" tvg-name="Western Springs AFC vs Bay Olympic (2026-05-29 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22489_1gwtq0fhmap.png" group-title="NOR NZL",Western Springs AFC vs Bay Olympic (2026-05-29 14:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WYWZyk6foxYc4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="382209922" tvg-name="Suva FC vs Lautoka (2026-05-29 10:40)" tvg-logo="https://cdn-img.cdnokvip.com/logos/21887_1gt0mbfxw8t.png" group-title="FIJ NL",Suva FC vs Lautoka (2026-05-29 10:40) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WdeoAHzTu741i/playlist.m3u8
-
-#EXTINF:-1 tvg-id="342519922" tvg-name="CISF vs Friends United (2026-05-29 10:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/57546_1hfqrsp7k6e.png" group-title="IND DSD",CISF vs Friends United (2026-05-29 10:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5TPRYYyWbYUaNx/playlist.m3u8
-
-#EXTINF:-1 tvg-id="486809922" tvg-name="Broadmeadow Magic (W) vs Maitland FC (W) (2026-05-29 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/49878_1gy95z64a3b.png" group-title="AUS NSW WPL",Broadmeadow Magic (W) vs Maitland FC (W) (2026-05-29 17:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5TJEoAmm2Y4TCQ/playlist.m3u8
-
-#EXTINF:-1 tvg-id="327809927" tvg-name="Campbelltown City (W) vs Salisbury Inter (W) (2026-05-29 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/24985_1jnq268vpb1z.png" group-title="FFSA WPL",Campbelltown City (W) vs Salisbury Inter (W) (2026-05-29 17:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5TJEojjy5jTCVr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="312835920" tvg-name="Adelaide Olympic vs Fulham United FC (2026-05-29 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/19057_1jyax2raah14.png" group-title="FFSA PL",Adelaide Olympic vs Fulham United FC (2026-05-29 17:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd5sNAT2imfTPDnL/playlist.m3u8
+#EXTINF:-1 tvg-id="b8ce9810-4978-49db-877f-6fd0be773ae1_flv" tvg-name="Liaoning Shengjing Xinrui vs Benxi Qingfan Logistics Park FC (2026-05-29 15:00)" tvg-logo="" group-title="CHN CH",Liaoning Shengjing Xinrui vs Benxi Qingfan Logistics Park FC (2026-05-29 15:00) FLV | BLV TÔN LẬP
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
 
