@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-342688929-370",
-          "name": "⚽ Al-Ittihad(BHR) vs Al-Budaiya",
+          "id": "ch-329509926-81",
+          "name": "⚽ Danubio FC vs Club Atletico Progreso",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/4583_1gqk9kddch1y.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/1656_1gtzd4kmqp30.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,30 +47,30 @@
           ],
           "sources": [
             {
-              "id": "src-342688929",
+              "id": "src-329509926",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-342688929",
-                  "name": "Al-Ittihad(BHR) vs Al-Budaiya",
+                  "id": "cnt-329509926",
+                  "name": "Danubio FC vs Club Atletico Progreso",
                   "streams": [
                     {
-                      "id": "str-342688929",
+                      "id": "str-329509926",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-342688929-m3u8",
+                          "id": "lnk-329509926-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
+                          "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
                         },
                         {
-                          "id": "lnk-342688929-flv",
+                          "id": "lnk-329509926-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
+                          "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
                         }
                       ]
                     }
@@ -138,120 +138,6 @@
           ]
         },
         {
-          "id": "ch-378541926-377",
-          "name": "⚽ Osters IF vs Norrby IF",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/1306_1h8fzp9sw81e.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-378541926",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-378541926",
-                  "name": "Osters IF vs Norrby IF",
-                  "streams": [
-                    {
-                      "id": "str-378541926",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-378541926-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
-                        },
-                        {
-                          "id": "lnk-378541926-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-346782928-368",
-          "name": "⚽ MB Rouissat vs USM Alger",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/11287_1k35698pa44.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-346782928",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-346782928",
-                  "name": "MB Rouissat vs USM Alger",
-                  "streams": [
-                    {
-                      "id": "str-346782928",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-346782928-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
-                        },
-                        {
-                          "id": "lnk-346782928-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "ch-345548927-290",
           "name": "⚽ Paris Saint Germain (PSG) vs Arsenal",
           "type": "single",
@@ -309,7 +195,7 @@
           ]
         },
         {
-          "id": "ch-3a081d68-6b25-47de-b1ca-c2ea68ae0273-359",
+          "id": "ch-0b0442d5-9ad4-4dd3-bca7-7a75ca5f246c-300",
           "name": "⚽ Paris Saint Germain (PSG) vs Arsenal",
           "type": "single",
           "display": "thumbnail-only",
@@ -332,30 +218,30 @@
           ],
           "sources": [
             {
-              "id": "src-3a081d68-6b25-47de-b1ca-c2ea68ae0273",
+              "id": "src-0b0442d5-9ad4-4dd3-bca7-7a75ca5f246c",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-3a081d68-6b25-47de-b1ca-c2ea68ae0273",
+                  "id": "cnt-0b0442d5-9ad4-4dd3-bca7-7a75ca5f246c",
                   "name": "Paris Saint Germain (PSG) vs Arsenal",
                   "streams": [
                     {
-                      "id": "str-3a081d68-6b25-47de-b1ca-c2ea68ae0273",
+                      "id": "str-0b0442d5-9ad4-4dd3-bca7-7a75ca5f246c",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3a081d68-6b25-47de-b1ca-c2ea68ae0273-m3u8",
+                          "id": "lnk-0b0442d5-9ad4-4dd3-bca7-7a75ca5f246c-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
+                          "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
                         },
                         {
-                          "id": "lnk-3a081d68-6b25-47de-b1ca-c2ea68ae0273-flv",
+                          "id": "lnk-0b0442d5-9ad4-4dd3-bca7-7a75ca5f246c-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
+                          "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
                         }
                       ]
                     }
