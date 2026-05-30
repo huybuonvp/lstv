@@ -1,22 +1,34 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="498665925" tvg-name="Quy Nhon United vs TDTT Bac Ninh (2026-05-30 16:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1843_1grahf6h7f1m.png" group-title="VIE D2",Quy Nhon United vs TDTT Bac Ninh (2026-05-30 16:00) | BLV MÃ SIÊU
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="c2728f66-f709-4eb9-ac37-76eb141e7e0d" tvg-name="Chengdu Rongcheng FC vs Shandong Taishan (2026-05-30 18:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/36861_1gy3vkgfwve.PNG" group-title="CHA CSL",Chengdu Rongcheng FC vs Shandong Taishan (2026-05-30 18:35) | BLV LƯU BỊ
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 tvg-id="498665925_flv" tvg-name="Quy Nhon United vs TDTT Bac Ninh (2026-05-30 16:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1843_1grahf6h7f1m.png" group-title="VIE D2",Quy Nhon United vs TDTT Bac Ninh (2026-05-30 16:00) FLV | BLV MÃ SIÊU
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="c2728f66-f709-4eb9-ac37-76eb141e7e0d_flv" tvg-name="Chengdu Rongcheng FC vs Shandong Taishan (2026-05-30 18:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/36861_1gy3vkgfwve.PNG" group-title="CHA CSL",Chengdu Rongcheng FC vs Shandong Taishan (2026-05-30 18:35) FLV | BLV LƯU BỊ
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 tvg-id="478665923" tvg-name="Khatoco Khanh Hoa vs Than Quang Ninh (2026-05-30 16:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/8679_1grahf6h7q1g.png" group-title="VIE D2",Khatoco Khanh Hoa vs Than Quang Ninh (2026-05-30 16:00) | BLV LỮ BỐ
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-id="c542a4e4-e70f-4fb9-b513-7bcaa3b48c66" tvg-name="Kyoto Sanga vs Kashiwa Reysol (2026-05-30 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2640_1hwerqcfbv2k.png" group-title="JPN D1",Kyoto Sanga vs Kashiwa Reysol (2026-05-30 17:00) | BLV TÂY MÔN KHÁNH
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 tvg-id="478665923_flv" tvg-name="Khatoco Khanh Hoa vs Than Quang Ninh (2026-05-30 16:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/8679_1grahf6h7q1g.png" group-title="VIE D2",Khatoco Khanh Hoa vs Than Quang Ninh (2026-05-30 16:00) FLV | BLV LỮ BỐ
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+#EXTINF:-1 tvg-id="c542a4e4-e70f-4fb9-b513-7bcaa3b48c66_flv" tvg-name="Kyoto Sanga vs Kashiwa Reysol (2026-05-30 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2640_1hwerqcfbv2k.png" group-title="JPN D1",Kyoto Sanga vs Kashiwa Reysol (2026-05-30 17:00) FLV | BLV TÂY MÔN KHÁNH
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 tvg-id="309665927" tvg-name="Truong Tuoi Dong Nai vs Dong Tam Long An (2026-05-30 16:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/21855_1jyt3vn5qjq.png" group-title="VIE D2",Truong Tuoi Dong Nai vs Dong Tam Long An (2026-05-30 16:00) | BLV GẤU KA
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 tvg-id="fd43ae4b-cc9f-4c83-892e-e86b03c22c2b" tvg-name="Chongqing Tonglianglong vs Beijing Guoan (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61524_1hysdzw5hv1f.png" group-title="CHA CSL",Chongqing Tonglianglong vs Beijing Guoan (2026-05-30 19:00) | BLV DƯƠNG CHÍ
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
-#EXTINF:-1 tvg-id="309665927_flv" tvg-name="Truong Tuoi Dong Nai vs Dong Tam Long An (2026-05-30 16:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/21855_1jyt3vn5qjq.png" group-title="VIE D2",Truong Tuoi Dong Nai vs Dong Tam Long An (2026-05-30 16:00) FLV | BLV GẤU KA
-https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 tvg-id="fd43ae4b-cc9f-4c83-892e-e86b03c22c2b_flv" tvg-name="Chongqing Tonglianglong vs Beijing Guoan (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61524_1hysdzw5hv1f.png" group-title="CHA CSL",Chongqing Tonglianglong vs Beijing Guoan (2026-05-30 19:00) FLV | BLV DƯƠNG CHÍ
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
+#EXTINF:-1 tvg-id="359109925" tvg-name="Scotland vs Curacao (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="INT FRL",Scotland vs Curacao (2026-05-30 19:00) | BLV FERNANDO
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+
+#EXTINF:-1 tvg-id="359109925_flv" tvg-name="Scotland vs Curacao (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="INT FRL",Scotland vs Curacao (2026-05-30 19:00) FLV | BLV FERNANDO
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
+
+#EXTINF:-1 tvg-id="489484924" tvg-name="Arsenal Dzyarzhynsk vs Dinamo Minsk (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/40198_1h71mwa4sd1b.png" group-title="BLR D1",Arsenal Dzyarzhynsk vs Dinamo Minsk (2026-05-30 18:00) | BLV PELE
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+
+#EXTINF:-1 tvg-id="489484924_flv" tvg-name="Arsenal Dzyarzhynsk vs Dinamo Minsk (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/40198_1h71mwa4sd1b.png" group-title="BLR D1",Arsenal Dzyarzhynsk vs Dinamo Minsk (2026-05-30 18:00) FLV | BLV PELE
+https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
 #EXTINF:-1 tvg-id="211096928" tvg-name="Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/220_1gtg0npad1m.png" group-title="DEN D1",Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00) | BLV VÕ TÒNG
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -24,11 +36,17 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:-1 tvg-id="211096928_flv" tvg-name="Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/220_1gtg0npad1m.png" group-title="DEN D1",Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00) FLV | BLV VÕ TÒNG
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="c542a4e4-e70f-4fb9-b513-7bcaa3b48c66" tvg-name="Kyoto Sanga vs Kashiwa Reysol (2026-05-30 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2640_1hwerqcfbv2k.png" group-title="JPN D1",Kyoto Sanga vs Kashiwa Reysol (2026-05-30 17:00) | BLV TÂY MÔN KHÁNH
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-id="407998924" tvg-name="FK MAS Taborsko vs Banik Ostrava (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17714_1gtqm9kx5j2a.png" group-title="CZE D1",FK MAS Taborsko vs Banik Ostrava (2026-05-30 18:00) | BLV MAYBACH
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 tvg-id="c542a4e4-e70f-4fb9-b513-7bcaa3b48c66_flv" tvg-name="Kyoto Sanga vs Kashiwa Reysol (2026-05-30 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2640_1hwerqcfbv2k.png" group-title="JPN D1",Kyoto Sanga vs Kashiwa Reysol (2026-05-30 17:00) FLV | BLV TÂY MÔN KHÁNH
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-id="407998924_flv" tvg-name="FK MAS Taborsko vs Banik Ostrava (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17714_1gtqm9kx5j2a.png" group-title="CZE D1",FK MAS Taborsko vs Banik Ostrava (2026-05-30 18:00) FLV | BLV MAYBACH
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+
+#EXTINF:-1 tvg-id="332744921" tvg-name="Shenzhen Xinpengcheng vs Qingdao Manatee (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/34003_1j0ytnk9yw25.png" group-title="CHA CSL",Shenzhen Xinpengcheng vs Qingdao Manatee (2026-05-30 19:00) | BLV PHI HỔ
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+
+#EXTINF:-1 tvg-id="332744921_flv" tvg-name="Shenzhen Xinpengcheng vs Qingdao Manatee (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/34003_1j0ytnk9yw25.png" group-title="CHA CSL",Shenzhen Xinpengcheng vs Qingdao Manatee (2026-05-30 19:00) FLV | BLV PHI HỔ
+https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
 #EXTINF:-1 tvg-id="322744920" tvg-name="Qingdao West Coast vs Shanghai Shenhua (2026-05-30 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/41556_1h1n1m7x0f8.png" group-title="CHA CSL",Qingdao West Coast vs Shanghai Shenhua (2026-05-30 17:00) | BLV KEVILL
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
@@ -41,4 +59,16 @@ https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=
 
 #EXTINF:-1 tvg-id="72bb2412-7e17-4b5e-ae24-862d57ffbd53_flv" tvg-name="Qingdao West Coast vs Shanghai Shenhua (2026-05-30 17:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/41556_1h1n1m7x0f8.png" group-title="CHA CSL",Qingdao West Coast vs Shanghai Shenhua (2026-05-30 17:00) FLV | BLV TRIỆU TỬ LONG
 https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 tvg-id="202744928" tvg-name="Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png" group-title="CHA CSL",Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00) | BLV LÝ ỨNG
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+
+#EXTINF:-1 tvg-id="202744928_flv" tvg-name="Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png" group-title="CHA CSL",Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00) FLV | BLV LÝ ỨNG
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+
+#EXTINF:-1 tvg-id="6f01050a-8b1d-4944-bf06-608c7cb9b2ff" tvg-name="Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png" group-title="CHA CSL",Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00) | BLV QUAN VŨ
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+
+#EXTINF:-1 tvg-id="6f01050a-8b1d-4944-bf06-608c7cb9b2ff_flv" tvg-name="Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png" group-title="CHA CSL",Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00) FLV | BLV QUAN VŨ
+https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 
