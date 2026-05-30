@@ -24,7 +24,7 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-acd66090-7abb-49d6-9fc1-83d5661f3bab-298",
+          "id": "ch-342688929-370",
           "name": "⚽ Al-Ittihad(BHR) vs Al-Budaiya",
           "type": "single",
           "display": "thumbnail-only",
@@ -47,30 +47,30 @@
           ],
           "sources": [
             {
-              "id": "src-acd66090-7abb-49d6-9fc1-83d5661f3bab",
+              "id": "src-342688929",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-acd66090-7abb-49d6-9fc1-83d5661f3bab",
+                  "id": "cnt-342688929",
                   "name": "Al-Ittihad(BHR) vs Al-Budaiya",
                   "streams": [
                     {
-                      "id": "str-acd66090-7abb-49d6-9fc1-83d5661f3bab",
+                      "id": "str-342688929",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-acd66090-7abb-49d6-9fc1-83d5661f3bab-m3u8",
+                          "id": "lnk-342688929-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
+                          "url": "https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
                         },
                         {
-                          "id": "lnk-acd66090-7abb-49d6-9fc1-83d5661f3bab-flv",
+                          "id": "lnk-342688929-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
+                          "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
                         }
                       ]
                     }
@@ -81,8 +81,8 @@
           ]
         },
         {
-          "id": "ch-346782928-368",
-          "name": "⚽ MB Rouissat vs USM Alger",
+          "id": "ch-452688920-269",
+          "name": "⚽ Najma Manama vs Manama Club",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/11287_1k35698pa44.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/3063_1hg20ce24121.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,144 +104,30 @@
           ],
           "sources": [
             {
-              "id": "src-346782928",
+              "id": "src-452688920",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-346782928",
-                  "name": "MB Rouissat vs USM Alger",
+                  "id": "cnt-452688920",
+                  "name": "Najma Manama vs Manama Club",
                   "streams": [
                     {
-                      "id": "str-346782928",
+                      "id": "str-452688920",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-346782928-m3u8",
+                          "id": "lnk-452688920-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
+                          "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
                         },
                         {
-                          "id": "lnk-346782928-flv",
+                          "id": "lnk-452688920-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-625c06da-0f1e-47db-bb8a-a1651aa34e87-81",
-          "name": "⚽ TPS Turku vs Vaasa VPS",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/351_1j0q19x9y11n.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-625c06da-0f1e-47db-bb8a-a1651aa34e87",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-625c06da-0f1e-47db-bb8a-a1651aa34e87",
-                  "name": "TPS Turku vs Vaasa VPS",
-                  "streams": [
-                    {
-                      "id": "str-625c06da-0f1e-47db-bb8a-a1651aa34e87",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-625c06da-0f1e-47db-bb8a-a1651aa34e87-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
-                        },
-                        {
-                          "id": "lnk-625c06da-0f1e-47db-bb8a-a1651aa34e87-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-336804922-101",
-          "name": "⚽ FC Telavi vs FC Gori",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/33062_1h746p4whx7.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-336804922",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-336804922",
-                  "name": "FC Telavi vs FC Gori",
-                  "streams": [
-                    {
-                      "id": "str-336804922",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-336804922-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7"
-                        },
-                        {
-                          "id": "lnk-336804922-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7"
+                          "url": "https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
                         }
                       ]
                     }
@@ -309,6 +195,63 @@
           ]
         },
         {
+          "id": "ch-346782928-368",
+          "name": "⚽ MB Rouissat vs USM Alger",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/11287_1k35698pa44.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-346782928",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-346782928",
+                  "name": "MB Rouissat vs USM Alger",
+                  "streams": [
+                    {
+                      "id": "str-346782928",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-346782928-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
+                        },
+                        {
+                          "id": "lnk-346782928-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "ch-345548927-290",
           "name": "⚽ Paris Saint Germain (PSG) vs Arsenal",
           "type": "single",
@@ -366,7 +309,7 @@
           ]
         },
         {
-          "id": "ch-0b0442d5-9ad4-4dd3-bca7-7a75ca5f246c-300",
+          "id": "ch-3a081d68-6b25-47de-b1ca-c2ea68ae0273-359",
           "name": "⚽ Paris Saint Germain (PSG) vs Arsenal",
           "type": "single",
           "display": "thumbnail-only",
@@ -389,258 +332,30 @@
           ],
           "sources": [
             {
-              "id": "src-0b0442d5-9ad4-4dd3-bca7-7a75ca5f246c",
+              "id": "src-3a081d68-6b25-47de-b1ca-c2ea68ae0273",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-0b0442d5-9ad4-4dd3-bca7-7a75ca5f246c",
+                  "id": "cnt-3a081d68-6b25-47de-b1ca-c2ea68ae0273",
                   "name": "Paris Saint Germain (PSG) vs Arsenal",
                   "streams": [
                     {
-                      "id": "str-0b0442d5-9ad4-4dd3-bca7-7a75ca5f246c",
+                      "id": "str-3a081d68-6b25-47de-b1ca-c2ea68ae0273",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0b0442d5-9ad4-4dd3-bca7-7a75ca5f246c-m3u8",
+                          "id": "lnk-3a081d68-6b25-47de-b1ca-c2ea68ae0273-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
+                          "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
                         },
                         {
-                          "id": "lnk-0b0442d5-9ad4-4dd3-bca7-7a75ca5f246c-flv",
+                          "id": "lnk-3a081d68-6b25-47de-b1ca-c2ea68ae0273-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-242631927-253",
-          "name": "⚽ KuPs vs Inter Turku",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1770466639.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-242631927",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-242631927",
-                  "name": "KuPs vs Inter Turku",
-                  "streams": [
-                    {
-                      "id": "str-242631927",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-242631927-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
-                        },
-                        {
-                          "id": "lnk-242631927-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-2fcf0f1c-f237-45b7-a291-e261fbad6f09-292",
-          "name": "⚽ KuPs vs Inter Turku",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1770466639.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2fcf0f1c-f237-45b7-a291-e261fbad6f09",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-2fcf0f1c-f237-45b7-a291-e261fbad6f09",
-                  "name": "KuPs vs Inter Turku",
-                  "streams": [
-                    {
-                      "id": "str-2fcf0f1c-f237-45b7-a291-e261fbad6f09",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2fcf0f1c-f237-45b7-a291-e261fbad6f09-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
-                        },
-                        {
-                          "id": "lnk-2fcf0f1c-f237-45b7-a291-e261fbad6f09-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-e4b0588e-47cb-4463-9a69-4696a45e88e8-337",
-          "name": "⚽ Lahti vs Ilves Tampere",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/356_165724428576.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-e4b0588e-47cb-4463-9a69-4696a45e88e8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-e4b0588e-47cb-4463-9a69-4696a45e88e8",
-                  "name": "Lahti vs Ilves Tampere",
-                  "streams": [
-                    {
-                      "id": "str-e4b0588e-47cb-4463-9a69-4696a45e88e8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e4b0588e-47cb-4463-9a69-4696a45e88e8-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33"
-                        },
-                        {
-                          "id": "lnk-e4b0588e-47cb-4463-9a69-4696a45e88e8-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-452688920-269",
-          "name": "⚽ Najma Manama vs Manama Club",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/3063_1hg20ce24121.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-452688920",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-452688920",
-                  "name": "Najma Manama vs Manama Club",
-                  "streams": [
-                    {
-                      "id": "str-452688920",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-452688920-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
-                        },
-                        {
-                          "id": "lnk-452688920-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
+                          "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
                         }
                       ]
                     }
