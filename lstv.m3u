@@ -1,34 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="332609921" tvg-name="Nagoya Grampus vs Machida Zelvia (2026-05-30 12:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png" group-title="JPN D1",Nagoya Grampus vs Machida Zelvia (2026-05-30 12:00) | BLV PHI HỔ
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 tvg-id="393504922" tvg-name="Western Knights vs Perth SC (2026-05-30 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5068_1grg4me92bs.png" group-title="WAUS D1",Western Knights vs Perth SC (2026-05-30 14:00) | BLV FERNANDO
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 tvg-id="332609921_flv" tvg-name="Nagoya Grampus vs Machida Zelvia (2026-05-30 12:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png" group-title="JPN D1",Nagoya Grampus vs Machida Zelvia (2026-05-30 12:00) FLV | BLV PHI HỔ
-https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 tvg-id="393504922_flv" tvg-name="Western Knights vs Perth SC (2026-05-30 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5068_1grg4me92bs.png" group-title="WAUS D1",Western Knights vs Perth SC (2026-05-30 14:00) FLV | BLV FERNANDO
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 tvg-id="24599029-20a8-4bcb-a893-dbf86ca29c93" tvg-name="Tauranga Whai vs Bay Hawks (2026-05-30 11:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780075645.png" group-title="NBL",Tauranga Whai vs Bay Hawks (2026-05-30 11:00) | BLV SHIN
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-id="211096928" tvg-name="Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/220_1gtg0npad1m.png" group-title="DEN D1",Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00) | BLV VÕ TÒNG
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="24599029-20a8-4bcb-a893-dbf86ca29c93_flv" tvg-name="Tauranga Whai vs Bay Hawks (2026-05-30 11:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780075645.png" group-title="NBL",Tauranga Whai vs Bay Hawks (2026-05-30 11:00) FLV | BLV SHIN
-https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-id="211096928_flv" tvg-name="Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/220_1gtg0npad1m.png" group-title="DEN D1",Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00) FLV | BLV VÕ TÒNG
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="394519929" tvg-name="Brindabella Blues FC U23 vs Canberra Olympic U23 (2026-05-30 10:45)" tvg-logo="" group-title="AUS CTL U23",Brindabella Blues FC U23 vs Canberra Olympic U23 (2026-05-30 10:45) | BLV PELE
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-id="210609927" tvg-name="Ehime FC vs Roasso Kumamoto (2026-05-30 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3396_1gtqpz7wvt2m.png" group-title="JPN D2",Ehime FC vs Roasso Kumamoto (2026-05-30 14:00) | BLV LÃO HẠC
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 tvg-id="394519929_flv" tvg-name="Brindabella Blues FC U23 vs Canberra Olympic U23 (2026-05-30 10:45)" tvg-logo="" group-title="AUS CTL U23",Brindabella Blues FC U23 vs Canberra Olympic U23 (2026-05-30 10:45) FLV | BLV PELE
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-id="210609927_flv" tvg-name="Ehime FC vs Roasso Kumamoto (2026-05-30 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3396_1gtqpz7wvt2m.png" group-title="JPN D2",Ehime FC vs Roasso Kumamoto (2026-05-30 14:00) FLV | BLV LÃO HẠC
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 tvg-id="371609924" tvg-name="Cerezo Osaka vs FC Tokyo (2026-05-30 13:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/180_1gtzcts26h14.png" group-title="JPN D1",Cerezo Osaka vs FC Tokyo (2026-05-30 13:00) | BLV GẤU KA
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 tvg-id="344515920" tvg-name="Yanbian Longding vs Changchun Yatai (2026-05-30 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/49712_1hzxvn9f1m2e.png" group-title="CHA D1",Yanbian Longding vs Changchun Yatai (2026-05-30 14:00) | BLV LÝ ỨNG
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 tvg-id="371609924_flv" tvg-name="Cerezo Osaka vs FC Tokyo (2026-05-30 13:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/180_1gtzcts26h14.png" group-title="JPN D1",Cerezo Osaka vs FC Tokyo (2026-05-30 13:00) FLV | BLV GẤU KA
- https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+#EXTINF:-1 tvg-id="344515920_flv" tvg-name="Yanbian Longding vs Changchun Yatai (2026-05-30 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/49712_1hzxvn9f1m2e.png" group-title="CHA D1",Yanbian Longding vs Changchun Yatai (2026-05-30 14:00) FLV | BLV LÝ ỨNG
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 tvg-id="139815f3-4ca2-4f47-a213-a6c355c12960" tvg-name="Hiroshima Sanfrecce vs Kawasaki Frontale (2026-05-30 12:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/193_1gtzcts1qj1h.png" group-title="JPN D1",Hiroshima Sanfrecce vs Kawasaki Frontale (2026-05-30 12:00) | BLV MÃ SIÊU
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="351609922" tvg-name="V-Varen Nagasaki vs Mito Hollyhock (2026-05-30 15:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/8876_1hr8p728mx2e.png" group-title="JPN D1",V-Varen Nagasaki vs Mito Hollyhock (2026-05-30 15:00) | BLV MAYBACH
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 tvg-id="139815f3-4ca2-4f47-a213-a6c355c12960_flv" tvg-name="Hiroshima Sanfrecce vs Kawasaki Frontale (2026-05-30 12:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/193_1gtzcts1qj1h.png" group-title="JPN D1",Hiroshima Sanfrecce vs Kawasaki Frontale (2026-05-30 12:00) FLV | BLV MÃ SIÊU
-https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+#EXTINF:-1 tvg-id="351609922_flv" tvg-name="V-Varen Nagasaki vs Mito Hollyhock (2026-05-30 15:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/8876_1hr8p728mx2e.png" group-title="JPN D1",V-Varen Nagasaki vs Mito Hollyhock (2026-05-30 15:00) FLV | BLV MAYBACH
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+
+#EXTINF:-1 tvg-id="c6ac6ae2-4c60-403a-b3f2-fb13226620e8" tvg-name="Canterbury Rams vs Nelson Giants (2026-05-30 14:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780075684.png" group-title="NBL",Canterbury Rams vs Nelson Giants (2026-05-30 14:30) | BLV YẾN THANH
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-id="c6ac6ae2-4c60-403a-b3f2-fb13226620e8_flv" tvg-name="Canterbury Rams vs Nelson Giants (2026-05-30 14:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780075684.png" group-title="NBL",Canterbury Rams vs Nelson Giants (2026-05-30 14:30) FLV | BLV YẾN THANH
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
 #EXTINF:-1 tvg-id="d87a91fd-f146-425d-ae77-d2f1b7024b27" tvg-name="Avispa Fukuoka vs JEF United Ichihara Chiba (2026-05-30 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1326_1gtzcts36911.png" group-title="JPN D1",Avispa Fukuoka vs JEF United Ichihara Chiba (2026-05-30 14:00) | BLV VÕ TÒNG
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -42,15 +48,15 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 #EXTINF:-1 tvg-id="357802923_flv" tvg-name="Hume City vs South Melbourne (2026-05-30 11:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/8542_1gq924y4x41f.png" group-title="AUS VPL",Hume City vs South Melbourne (2026-05-30 11:00) FLV | BLV LÃO HẠC
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 tvg-id="335309921" tvg-name="Vissel Kobe vs Kashima Antlers (2026-05-30 12:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/190_1gtzcts1qh1b.png" group-title="JPN D1",Vissel Kobe vs Kashima Antlers (2026-05-30 12:00) | BLV KEVILL
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 tvg-id="335309921_flv" tvg-name="Vissel Kobe vs Kashima Antlers (2026-05-30 12:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/190_1gtzcts1qh1b.png" group-title="JPN D1",Vissel Kobe vs Kashima Antlers (2026-05-30 12:00) FLV | BLV KEVILL
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
-
-#EXTINF:-1 tvg-id="41c7ac76-8bec-45da-b534-7a222ae913dc" tvg-name="Vissel Kobe vs Kashima Antlers (2026-05-30 12:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/190_1gtzcts1qh1b.png" group-title="JPN D1",Vissel Kobe vs Kashima Antlers (2026-05-30 12:00) | BLV LƯU BỊ
+#EXTINF:-1 tvg-id="397802927" tvg-name="Altona Magic vs Oakleigh Cannons (2026-05-30 15:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4474_1gzq8phtf42z.png" group-title="AUS VPL",Altona Magic vs Oakleigh Cannons (2026-05-30 15:15) | BLV LƯU BỊ
 https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
 
-#EXTINF:-1 tvg-id="41c7ac76-8bec-45da-b534-7a222ae913dc_flv" tvg-name="Vissel Kobe vs Kashima Antlers (2026-05-30 12:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/190_1gtzcts1qh1b.png" group-title="JPN D1",Vissel Kobe vs Kashima Antlers (2026-05-30 12:00) FLV | BLV LƯU BỊ
+#EXTINF:-1 tvg-id="397802927_flv" tvg-name="Altona Magic vs Oakleigh Cannons (2026-05-30 15:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4474_1gzq8phtf42z.png" group-title="AUS VPL",Altona Magic vs Oakleigh Cannons (2026-05-30 15:15) FLV | BLV LƯU BỊ
 https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 tvg-id="b316ab40-568c-43d2-b2c9-1a0f186d112b" tvg-name="Gamba Osaka vs Tokyo Verdy (2026-05-30 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png" group-title="JPN D1",Gamba Osaka vs Tokyo Verdy (2026-05-30 14:00) | BLV DƯƠNG CHÍ
+https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
+
+#EXTINF:-1 tvg-id="b316ab40-568c-43d2-b2c9-1a0f186d112b_flv" tvg-name="Gamba Osaka vs Tokyo Verdy (2026-05-30 14:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png" group-title="JPN D1",Gamba Osaka vs Tokyo Verdy (2026-05-30 14:00) FLV | BLV DƯƠNG CHÍ
+https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 

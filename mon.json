@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-332609921-377",
-          "name": "⚽ Nagoya Grampus vs Machida Zelvia",
+          "id": "ch-393504922-368",
+          "name": "⚽ Western Knights vs Perth SC",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/168_1jbn72rjkc0.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/5068_1grg4me92bs.png",
             "width": 1600,
             "height": 1200
           },
@@ -47,30 +47,30 @@
           ],
           "sources": [
             {
-              "id": "src-332609921",
+              "id": "src-393504922",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-332609921",
-                  "name": "Nagoya Grampus vs Machida Zelvia",
+                  "id": "cnt-393504922",
+                  "name": "Western Knights vs Perth SC",
                   "streams": [
                     {
-                      "id": "str-332609921",
+                      "id": "str-393504922",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-332609921-m3u8",
+                          "id": "lnk-393504922-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
+                          "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
                         },
                         {
-                          "id": "lnk-332609921-flv",
+                          "id": "lnk-393504922-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
+                          "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
                         }
                       ]
                     }
@@ -81,8 +81,8 @@
           ]
         },
         {
-          "id": "ch-24599029-20a8-4bcb-a893-dbf86ca29c93-339",
-          "name": "⚽ Tauranga Whai vs Bay Hawks",
+          "id": "ch-211096928-328",
+          "name": "⚽ Aalborg vs Herfolge Boldklub Koge",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1780075645.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/220_1gtg0npad1m.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,30 +104,30 @@
           ],
           "sources": [
             {
-              "id": "src-24599029-20a8-4bcb-a893-dbf86ca29c93",
+              "id": "src-211096928",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-24599029-20a8-4bcb-a893-dbf86ca29c93",
-                  "name": "Tauranga Whai vs Bay Hawks",
+                  "id": "cnt-211096928",
+                  "name": "Aalborg vs Herfolge Boldklub Koge",
                   "streams": [
                     {
-                      "id": "str-24599029-20a8-4bcb-a893-dbf86ca29c93",
+                      "id": "str-211096928",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-24599029-20a8-4bcb-a893-dbf86ca29c93-m3u8",
+                          "id": "lnk-211096928-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
+                          "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
                         },
                         {
-                          "id": "lnk-24599029-20a8-4bcb-a893-dbf86ca29c93-flv",
+                          "id": "lnk-211096928-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587"
+                          "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
                         }
                       ]
                     }
@@ -138,8 +138,8 @@
           ]
         },
         {
-          "id": "ch-394519929-253",
-          "name": "⚽ Brindabella Blues FC U23 vs Canberra Olympic U23",
+          "id": "ch-210609927-372",
+          "name": "⚽ Ehime FC vs Roasso Kumamoto",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -147,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "",
+            "url": "https://cdn-img.cdnokvip.com/logos/3396_1gtqpz7wvt2m.png",
             "width": 1600,
             "height": 1200
           },
@@ -161,30 +161,30 @@
           ],
           "sources": [
             {
-              "id": "src-394519929",
+              "id": "src-210609927",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-394519929",
-                  "name": "Brindabella Blues FC U23 vs Canberra Olympic U23",
+                  "id": "cnt-210609927",
+                  "name": "Ehime FC vs Roasso Kumamoto",
                   "streams": [
                     {
-                      "id": "str-394519929",
+                      "id": "str-210609927",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-394519929-m3u8",
+                          "id": "lnk-210609927-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
+                          "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
                         },
                         {
-                          "id": "lnk-394519929-flv",
+                          "id": "lnk-210609927-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
+                          "url": "https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
                         }
                       ]
                     }
@@ -195,8 +195,8 @@
           ]
         },
         {
-          "id": "ch-371609924-378",
-          "name": "⚽ Cerezo Osaka vs FC Tokyo",
+          "id": "ch-344515920-292",
+          "name": "⚽ Yanbian Longding vs Changchun Yatai",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -204,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/180_1gtzcts26h14.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/49712_1hzxvn9f1m2e.png",
             "width": 1600,
             "height": 1200
           },
@@ -218,30 +218,30 @@
           ],
           "sources": [
             {
-              "id": "src-371609924",
+              "id": "src-344515920",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-371609924",
-                  "name": "Cerezo Osaka vs FC Tokyo",
+                  "id": "cnt-344515920",
+                  "name": "Yanbian Longding vs Changchun Yatai",
                   "streams": [
                     {
-                      "id": "str-371609924",
+                      "id": "str-344515920",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-371609924-m3u8",
+                          "id": "lnk-344515920-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14"
+                          "url": "https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
                         },
                         {
-                          "id": "lnk-371609924-flv",
+                          "id": "lnk-344515920-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": " https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14"
+                          "url": "https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d"
                         }
                       ]
                     }
@@ -252,8 +252,8 @@
           ]
         },
         {
-          "id": "ch-139815f3-4ca2-4f47-a213-a6c355c12960-269",
-          "name": "⚽ Hiroshima Sanfrecce vs Kawasaki Frontale",
+          "id": "ch-351609922-358",
+          "name": "⚽ V-Varen Nagasaki vs Mito Hollyhock",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -261,7 +261,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/193_1gtzcts1qj1h.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/8876_1hr8p728mx2e.png",
             "width": 1600,
             "height": 1200
           },
@@ -275,30 +275,87 @@
           ],
           "sources": [
             {
-              "id": "src-139815f3-4ca2-4f47-a213-a6c355c12960",
+              "id": "src-351609922",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-139815f3-4ca2-4f47-a213-a6c355c12960",
-                  "name": "Hiroshima Sanfrecce vs Kawasaki Frontale",
+                  "id": "cnt-351609922",
+                  "name": "V-Varen Nagasaki vs Mito Hollyhock",
                   "streams": [
                     {
-                      "id": "str-139815f3-4ca2-4f47-a213-a6c355c12960",
+                      "id": "str-351609922",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-139815f3-4ca2-4f47-a213-a6c355c12960-m3u8",
+                          "id": "lnk-351609922-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
+                          "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
                         },
                         {
-                          "id": "lnk-139815f3-4ca2-4f47-a213-a6c355c12960-flv",
+                          "id": "lnk-351609922-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b"
+                          "url": "https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-c6ac6ae2-4c60-403a-b3f2-fb13226620e8-320",
+          "name": "⚽ Canterbury Rams vs Nelson Giants",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1780075684.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c6ac6ae2-4c60-403a-b3f2-fb13226620e8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-c6ac6ae2-4c60-403a-b3f2-fb13226620e8",
+                  "name": "Canterbury Rams vs Nelson Giants",
+                  "streams": [
+                    {
+                      "id": "str-c6ac6ae2-4c60-403a-b3f2-fb13226620e8",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-c6ac6ae2-4c60-403a-b3f2-fb13226620e8-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
+                        },
+                        {
+                          "id": "lnk-c6ac6ae2-4c60-403a-b3f2-fb13226620e8-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
                         }
                       ]
                     }
@@ -423,8 +480,8 @@
           ]
         },
         {
-          "id": "ch-335309921-290",
-          "name": "⚽ Vissel Kobe vs Kashima Antlers",
+          "id": "ch-397802927-135",
+          "name": "⚽ Altona Magic vs Oakleigh Cannons",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -432,7 +489,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/190_1gtzcts1qh1b.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/4474_1gzq8phtf42z.png",
             "width": 1600,
             "height": 1200
           },
@@ -446,30 +503,30 @@
           ],
           "sources": [
             {
-              "id": "src-335309921",
+              "id": "src-397802927",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-335309921",
-                  "name": "Vissel Kobe vs Kashima Antlers",
+                  "id": "cnt-397802927",
+                  "name": "Altona Magic vs Oakleigh Cannons",
                   "streams": [
                     {
-                      "id": "str-335309921",
+                      "id": "str-397802927",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-335309921-m3u8",
+                          "id": "lnk-397802927-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799"
+                          "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1"
                         },
                         {
-                          "id": "lnk-335309921-flv",
+                          "id": "lnk-397802927-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799"
+                          "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1"
                         }
                       ]
                     }
@@ -480,8 +537,8 @@
           ]
         },
         {
-          "id": "ch-41c7ac76-8bec-45da-b534-7a222ae913dc-135",
-          "name": "⚽ Vissel Kobe vs Kashima Antlers",
+          "id": "ch-b316ab40-568c-43d2-b2c9-1a0f186d112b-337",
+          "name": "⚽ Gamba Osaka vs Tokyo Verdy",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -489,7 +546,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/190_1gtzcts1qh1b.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/194_1gtzd3qtya20.png",
             "width": 1600,
             "height": 1200
           },
@@ -503,30 +560,30 @@
           ],
           "sources": [
             {
-              "id": "src-41c7ac76-8bec-45da-b534-7a222ae913dc",
+              "id": "src-b316ab40-568c-43d2-b2c9-1a0f186d112b",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-41c7ac76-8bec-45da-b534-7a222ae913dc",
-                  "name": "Vissel Kobe vs Kashima Antlers",
+                  "id": "cnt-b316ab40-568c-43d2-b2c9-1a0f186d112b",
+                  "name": "Gamba Osaka vs Tokyo Verdy",
                   "streams": [
                     {
-                      "id": "str-41c7ac76-8bec-45da-b534-7a222ae913dc",
+                      "id": "str-b316ab40-568c-43d2-b2c9-1a0f186d112b",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-41c7ac76-8bec-45da-b534-7a222ae913dc-m3u8",
+                          "id": "lnk-b316ab40-568c-43d2-b2c9-1a0f186d112b-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1"
+                          "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33"
                         },
                         {
-                          "id": "lnk-41c7ac76-8bec-45da-b534-7a222ae913dc-flv",
+                          "id": "lnk-b316ab40-568c-43d2-b2c9-1a0f186d112b-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1"
+                          "url": "https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33"
                         }
                       ]
                     }
