@@ -1,64 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="344619925" tvg-name="Lexington SC (W) vs Carolina Ascent (W) (2026-05-31 06:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61857_1h0pedffhm1e.png" group-title="USA WPSL",Lexington SC (W) vs Carolina Ascent (W) (2026-05-31 06:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5Q2WQPzRwxakwe/playlist.m3u8
-
-#EXTINF:-1 tvg-id="222255927" tvg-name="Chattanooga Red Wolves vs Charlotte Independence (2026-05-31 06:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39199_1gwbe2ma1q1e.png" group-title="USL League One",Chattanooga Red Wolves vs Charlotte Independence (2026-05-31 06:05) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd6CpxhGiJM2nZwr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="415788920" tvg-name="Tampico Madero vs Tepatitlan de Morelos (2026-05-31 08:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/8933_1gy18ff1qrn.png" group-title="MEX D2",Tampico Madero vs Tepatitlan de Morelos (2026-05-31 08:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WZxhkHaaAtKL8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="352255920" tvg-name="Fort Wayne FC vs AV Alta (2026-05-31 06:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/50636_1h09bxj72et.png" group-title="USL League One",Fort Wayne FC vs AV Alta (2026-05-31 06:35) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd6CpxXP3tBpANur/playlist.m3u8
-
-#EXTINF:-1 tvg-id="201394928" tvg-name="Caxias RS vs Ituano SP (2026-05-31 05:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/14589_1jh72kqaxr18.png" group-title="BRA D3",Caxias RS vs Ituano SP (2026-05-31 05:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd5eJhfLh6VumEoe/playlist.m3u8
-
-#EXTINF:-1 tvg-id="364424921" tvg-name="Indy Eleven vs Rhode Island (2026-05-31 06:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/20310_1jsqvnqx96g.png" group-title="USL CH",Indy Eleven vs Rhode Island (2026-05-31 06:05) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvYqd9ARtertbS4Pv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="377009924" tvg-name="Saint Louis City B vs North Texas SC (2026-05-31 04:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/57101_1gwdxst6at1n.png" group-title="MLS Next PL",Saint Louis City B vs North Texas SC (2026-05-31 04:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WcCfMZ2h4MN8k/playlist.m3u8
+#EXTINF:-1 tvg-id="308192921" tvg-name="Universitario De Deportes vs Sport Huancayo (2026-05-31 08:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2133_1gv1yk239915.png" group-title="PER D1",Universitario De Deportes vs Sport Huancayo (2026-05-31 08:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvVczFh4xUzGsKpxc/playlist.m3u8
 
 #EXTINF:-1 tvg-id="354424920" tvg-name="Hartford Athletic vs New Mexico United (2026-05-31 06:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/38932_1gytye1xp64.png" group-title="USL CH",Hartford Athletic vs New Mexico United (2026-05-31 06:05) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6MvYqd9B6f9SFPaaK6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="232209927" tvg-name="Huntsville City vs Connecticut United FC (2026-05-31 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61473_1gy95z64a120.png" group-title="MLS Next PL",Huntsville City vs Connecticut United FC (2026-05-31 07:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WdfdreTrPhg7n/playlist.m3u8
+#EXTINF:-1 tvg-id="a56d4719-a981-4df7-86c5-09ed5a6a01fe" tvg-name="Ecuador vs Saudi Arabia (2026-05-31 06:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="INT FRL",Ecuador vs Saudi Arabia (2026-05-31 06:30) | BLV SHIN
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 tvg-id="250004920" tvg-name="Athletic Club MG vs Fortaleza (2026-05-31 04:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/38678_1hptb8ckca1p.png" group-title="BRA D2",Athletic Club MG vs Fortaleza (2026-05-31 04:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvVNfPVVJ5ZoFqop8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="308192921" tvg-name="Universitario De Deportes vs Sport Huancayo (2026-05-31 08:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2133_1gv1yk239915.png" group-title="PER D1",Universitario De Deportes vs Sport Huancayo (2026-05-31 08:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvVczFh4xUzGsKpxc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="362255921" tvg-name="Sarasota Paradise vs New York Cosmos (2026-05-31 06:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61865_1h4shezbpn2n.png" group-title="USL League One",Sarasota Paradise vs New York Cosmos (2026-05-31 06:35) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd6CpxXLrQKLLTkx/playlist.m3u8
-
-#EXTINF:-1 tvg-id="397192929" tvg-name="Sport Boys vs Comerciantes Unidos (2026-05-31 05:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2128_1j23f66mzs2h.png" group-title="PER D1",Sport Boys vs Comerciantes Unidos (2026-05-31 05:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvVczFgukPDnHa8gk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="212255926" tvg-name="Portland Hearts of Pine vs Spokane Velocity (2026-05-31 05:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/68491_1jqt0d625h2t.png" group-title="USL League One",Portland Hearts of Pine vs Spokane Velocity (2026-05-31 05:35) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd6CpxhJunDWcV6k/playlist.m3u8
-
-#EXTINF:-1 tvg-id="384424923" tvg-name="Louisville City FC vs Tampa Bay Rowdies (2026-05-31 06:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/21816_1gz593hw9g1c.png" group-title="USL CH",Louisville City FC vs Tampa Bay Rowdies (2026-05-31 06:05) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvYqd9Am71V9qHhAU/playlist.m3u8
-
-#EXTINF:-1 tvg-id="363519925" tvg-name="Broadmeadow Magic Reserves vs Lambton Jaffas Reserves (2026-05-31 08:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/45166_1gw9fsjpr624.png" group-title="NSW-N RL",Broadmeadow Magic Reserves vs Lambton Jaffas Reserves (2026-05-31 08:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5TPQXrNBSPn1nC/playlist.m3u8
-
-#EXTINF:-1 tvg-id="205424926" tvg-name="Oakland Roots vs Colorado Springs Switchbacks FC (2026-05-31 07:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/42234_1jstdenyw52t.png" group-title="USL CH",Oakland Roots vs Colorado Springs Switchbacks FC (2026-05-31 07:05) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvYqd9AvRhhFrX8u2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="241004920" tvg-name="Sport Club do Recife vs Nautico (PE) (2026-05-31 06:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3524_1gxsf3fv7a21.png" group-title="BRA D2",Sport Club do Recife vs Nautico (PE) (2026-05-31 06:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvVNc9z47X1M416XN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="244424929" tvg-name="El Paso Locomotive FC vs Lexington (2026-05-31 08:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/38791_1jsqvnqx9y18.png" group-title="USL CH",El Paso Locomotive FC vs Lexington (2026-05-31 08:05) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvYqd9BbEPkV8VZy6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="305965926" tvg-name="Washington Spirit (W) vs Seattle Reign (W) (2026-05-31 05:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/18896_1h2y7rpxn7c.png" group-title="USA WD1",Washington Spirit (W) vs Seattle Reign (W) (2026-05-31 05:35) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwcqRvzvkYJvxGbpp/playlist.m3u8
+#EXTINF:-1 tvg-id="a56d4719-a981-4df7-86c5-09ed5a6a01fe_flv" tvg-name="Ecuador vs Saudi Arabia (2026-05-31 06:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/673_165018888622.png" group-title="INT FRL",Ecuador vs Saudi Arabia (2026-05-31 06:30) FLV | BLV SHIN
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
 #EXTINF:-1 tvg-id="225424928" tvg-name="Pittsburgh Riverhounds vs Miami FC (2026-05-31 06:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/7218_1gytye1xpk1h.png" group-title="USL CH",Pittsburgh Riverhounds vs Miami FC (2026-05-31 06:05) | BLV VƯƠNG LUÂN
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
@@ -66,30 +18,99 @@ https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60
 #EXTINF:-1 tvg-id="225424928_flv" tvg-name="Pittsburgh Riverhounds vs Miami FC (2026-05-31 06:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/7218_1gytye1xpk1h.png" group-title="USL CH",Pittsburgh Riverhounds vs Miami FC (2026-05-31 06:05) FLV | BLV VƯƠNG LUÂN
 https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
+#EXTINF:-1 tvg-id="212255926" tvg-name="Portland Hearts of Pine vs Spokane Velocity (2026-05-31 05:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/68491_1jqt0d625h2t.png" group-title="USL League One",Portland Hearts of Pine vs Spokane Velocity (2026-05-31 05:35) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd6CpxhJunDWcV6k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b037bf52-5296-42f0-aa70-c9a5e2fe7297" tvg-name="Oklahoma City Thunder vs San Antonio Spurs (2026-05-31 07:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165378.png" group-title="NBA",Oklahoma City Thunder vs San Antonio Spurs (2026-05-31 07:00) | BLV YẾN THANH
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-id="b037bf52-5296-42f0-aa70-c9a5e2fe7297_flv" tvg-name="Oklahoma City Thunder vs San Antonio Spurs (2026-05-31 07:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165378.png" group-title="NBA",Oklahoma City Thunder vs San Antonio Spurs (2026-05-31 07:00) FLV | BLV YẾN THANH
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-id="304619921" tvg-name="Portsmouth Bombers vs Point Michel FC (2026-05-31 05:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/31559_1h47eqaya0b.png" group-title="DOM D1",Portsmouth Bombers vs Point Michel FC (2026-05-31 05:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5Q2WZkt7vTe7q6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="415788920" tvg-name="Tampico Madero vs Tepatitlan de Morelos (2026-05-31 08:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/8933_1gy18ff1qrn.png" group-title="MEX D2",Tampico Madero vs Tepatitlan de Morelos (2026-05-31 08:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5WZxhkHaaAtKL8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="222255927" tvg-name="Chattanooga Red Wolves vs Charlotte Independence (2026-05-31 06:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39199_1gwbe2ma1q1e.png" group-title="USL League One",Chattanooga Red Wolves vs Charlotte Independence (2026-05-31 06:05) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd6CpxhGiJM2nZwr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="250801925" tvg-name="Santos vs Vitoria BA (2026-05-31 06:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/303_1gv1yhgq3n2e.png" group-title="BRA D1",Santos vs Vitoria BA (2026-05-31 06:00) | BLV LƯU BỊ
+https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 tvg-id="250801925_flv" tvg-name="Santos vs Vitoria BA (2026-05-31 06:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/303_1gv1yhgq3n2e.png" group-title="BRA D1",Santos vs Vitoria BA (2026-05-31 06:00) FLV | BLV LƯU BỊ
+https://flv.cdnfaster-a.live/live/LUUBI.flv?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1
+
+#EXTINF:-1 tvg-id="241004920" tvg-name="Sport Club do Recife vs Nautico (PE) (2026-05-31 06:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3524_1gxsf3fv7a21.png" group-title="BRA D2",Sport Club do Recife vs Nautico (PE) (2026-05-31 06:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvVNc9z47X1M416XN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="244424929" tvg-name="El Paso Locomotive FC vs Lexington (2026-05-31 08:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/38791_1jsqvnqx9y18.png" group-title="USL CH",El Paso Locomotive FC vs Lexington (2026-05-31 08:05) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqd9BbEPkV8VZy6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="232255928" tvg-name="Richmond Kickers vs AC Boise (2026-05-31 06:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5093_1hy4p5d2r12k.png" group-title="USL League One",Richmond Kickers vs AC Boise (2026-05-31 06:05) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd6Cpxgn942o3exC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="331873923" tvg-name="Deportivo Cuenca vs Delfin SC (2026-05-31 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1633_1grd5f04y01f.png" group-title="ECU D1",Deportivo Cuenca vs Delfin SC (2026-05-31 07:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvVNKqXrZzjbY4Mpg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="201394928" tvg-name="Caxias RS vs Ituano SP (2026-05-31 05:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/14589_1jh72kqaxr18.png" group-title="BRA D3",Caxias RS vs Ituano SP (2026-05-31 05:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd5eJhfLh6VumEoe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="344619925" tvg-name="Lexington SC (W) vs Carolina Ascent (W) (2026-05-31 06:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61857_1h0pedffhm1e.png" group-title="USA WPSL",Lexington SC (W) vs Carolina Ascent (W) (2026-05-31 06:15) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5Q2WQPzRwxakwe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="386319928" tvg-name="Magic United U23 vs Lions FC U23 (2026-05-31 09:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/50050_1jmnmdky9d2c.png" group-title="ANQ  U23",Magic United U23 vs Lions FC U23 (2026-05-31 09:30) | BLV VÕ TÒNG
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="386319928_flv" tvg-name="Magic United U23 vs Lions FC U23 (2026-05-31 09:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/50050_1jmnmdky9d2c.png" group-title="ANQ  U23",Magic United U23 vs Lions FC U23 (2026-05-31 09:30) FLV | BLV VÕ TÒNG
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="305965926" tvg-name="Washington Spirit (W) vs Seattle Reign (W) (2026-05-31 05:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/18896_1h2y7rpxn7c.png" group-title="USA WD1",Washington Spirit (W) vs Seattle Reign (W) (2026-05-31 05:35) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwcqRvzvkYJvxGbpp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="234424928" tvg-name="Charleston Battery vs Detroit City (2026-05-31 05:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4729_1h53w5y92t2x.png" group-title="USL CH",Charleston Battery vs Detroit City (2026-05-31 05:05) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqd9ARfTyfiUZUY/playlist.m3u8
+
+#EXTINF:-1 tvg-id="364424921" tvg-name="Indy Eleven vs Rhode Island (2026-05-31 06:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/20310_1jsqvnqx96g.png" group-title="USL CH",Indy Eleven vs Rhode Island (2026-05-31 06:05) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqd9ARtertbS4Pv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="464919920" tvg-name="SV Sporting vs SV La Fama (2026-05-31 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/40347_1jrrydzkxwx.png" group-title="ARU D1",SV Sporting vs SV La Fama (2026-05-31 07:00) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6Mwe5Q2W5DqHZCZ3Kz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="387009925" tvg-name="Carolina Core vs New York Red Bulls B (2026-05-31 05:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/64845_1hsfe494ka8.png" group-title="MLS Next PL",Carolina Core vs New York Red Bulls B (2026-05-31 05:00) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6Mwe5WcCfRwzS21CSY/playlist.m3u8
 
-#EXTINF:-1 tvg-id="330394920" tvg-name="Botafogo PB vs Maringa FC (2026-05-31 04:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3318_1hkgt1y0p82h.png" group-title="BRA D3",Botafogo PB vs Maringa FC (2026-05-31 04:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd5eJhf9hh9Wdf3A/playlist.m3u8
+#EXTINF:-1 tvg-id="384424923" tvg-name="Louisville City FC vs Tampa Bay Rowdies (2026-05-31 06:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/21816_1gz593hw9g1c.png" group-title="USL CH",Louisville City FC vs Tampa Bay Rowdies (2026-05-31 06:05) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqd9Am71V9qHhAU/playlist.m3u8
 
-#EXTINF:-1 tvg-id="232255928" tvg-name="Richmond Kickers vs AC Boise (2026-05-31 06:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5093_1hy4p5d2r12k.png" group-title="USL League One",Richmond Kickers vs AC Boise (2026-05-31 06:05) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd6Cpxgn942o3exC/playlist.m3u8
+#EXTINF:-1 tvg-id="397192929" tvg-name="Sport Boys vs Comerciantes Unidos (2026-05-31 05:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2128_1j23f66mzs2h.png" group-title="PER D1",Sport Boys vs Comerciantes Unidos (2026-05-31 05:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvVczFgukPDnHa8gk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="234424928" tvg-name="Charleston Battery vs Detroit City (2026-05-31 05:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4729_1h53w5y92t2x.png" group-title="USL CH",Charleston Battery vs Detroit City (2026-05-31 05:05) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvYqd9ARfTyfiUZUY/playlist.m3u8
-
-#EXTINF:-1 tvg-id="267112928" tvg-name="Universidad de Chile vs D. Concepcion (2026-05-31 04:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1238_1gy3vpt0ee2.png" group-title="CHI D1",Universidad de Chile vs D. Concepcion (2026-05-31 04:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvYquUM7HeJajspyi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="448467920" tvg-name="Instituto AC Cordoba vs Lanus (2026-05-31 04:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/627_1htgrhrqtd1s.png" group-title="ARG C",Instituto AC Cordoba vs Lanus (2026-05-31 04:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdayFforAs6zkwdW/playlist.m3u8
-
-#EXTINF:-1 tvg-id="304619921" tvg-name="Portsmouth Bombers vs Point Michel FC (2026-05-31 05:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/31559_1h47eqaya0b.png" group-title="DOM D1",Portsmouth Bombers vs Point Michel FC (2026-05-31 05:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5Q2WZkt7vTe7q6/playlist.m3u8
+#EXTINF:-1 tvg-id="363519925" tvg-name="Broadmeadow Magic Reserves vs Lambton Jaffas Reserves (2026-05-31 08:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/45166_1gw9fsjpr624.png" group-title="NSW-N RL",Broadmeadow Magic Reserves vs Lambton Jaffas Reserves (2026-05-31 08:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5TPQXrNBSPn1nC/playlist.m3u8
 
 #EXTINF:-1 tvg-id="372255922" tvg-name="Omaha vs FC Naples (2026-05-31 07:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/27994_1gytyddyyq1c.png" group-title="USL League One",Omaha vs FC Naples (2026-05-31 07:05) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6Mwd6CpxXTSqvmpDDe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="352255920" tvg-name="Fort Wayne FC vs AV Alta (2026-05-31 06:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/50636_1h09bxj72et.png" group-title="USL League One",Fort Wayne FC vs AV Alta (2026-05-31 06:35) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd6CpxXP3tBpANur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="362255921" tvg-name="Sarasota Paradise vs New York Cosmos (2026-05-31 06:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61865_1h4shezbpn2n.png" group-title="USL League One",Sarasota Paradise vs New York Cosmos (2026-05-31 06:35) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd6CpxXLrQKLLTkx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2c81a3b9-b7ee-4ed0-865e-0ad3b767dc6c" tvg-name="Portland Fire W vs Indiana Fever W (2026-05-31 07:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165361.png" group-title="WNBA",Portland Fire W vs Indiana Fever W (2026-05-31 07:00) | BLV VÕ TÒNG
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="2c81a3b9-b7ee-4ed0-865e-0ad3b767dc6c_flv" tvg-name="Portland Fire W vs Indiana Fever W (2026-05-31 07:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165361.png" group-title="WNBA",Portland Fire W vs Indiana Fever W (2026-05-31 07:00) FLV | BLV VÕ TÒNG
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="471948920" tvg-name="Toluca vs Tigres UANL (2026-05-31 07:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1h3670bc3a1h.png" group-title="CNCF CHL",Toluca vs Tigres UANL (2026-05-31 07:05) | BLV MÃ SIÊU
+https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 tvg-id="471948920_flv" tvg-name="Toluca vs Tigres UANL (2026-05-31 07:05)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1089_1h3670bc3a1h.png" group-title="CNCF CHL",Toluca vs Tigres UANL (2026-05-31 07:05) FLV | BLV MÃ SIÊU
+https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
+
+#EXTINF:-1 tvg-id="232209927" tvg-name="Huntsville City vs Connecticut United FC (2026-05-31 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61473_1gy95z64a120.png" group-title="MLS Next PL",Huntsville City vs Connecticut United FC (2026-05-31 07:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5WdfdreTrPhg7n/playlist.m3u8
 
