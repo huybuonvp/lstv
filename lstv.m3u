@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="218121924" tvg-name="GAIS vs Kalmar (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1310_1h8wtya6esp.png" group-title="SWE D1",GAIS vs Kalmar (2026-05-30 20:00) | BLV LEO
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-id="211096928" tvg-name="Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/220_1gtg0npad1m.png" group-title="DEN D1",Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00) | BLV VÕ TÒNG
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="218121924_flv" tvg-name="GAIS vs Kalmar (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1310_1h8wtya6esp.png" group-title="SWE D1",GAIS vs Kalmar (2026-05-30 20:00) FLV | BLV LEO
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
+#EXTINF:-1 tvg-id="211096928_flv" tvg-name="Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/220_1gtg0npad1m.png" group-title="DEN D1",Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00) FLV | BLV VÕ TÒNG
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
 #EXTINF:-1 tvg-id="306419921" tvg-name="Zimbabwe vs India (2026-05-30 20:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/13151_16501880583.png" group-title="INT FRL",Zimbabwe vs India (2026-05-30 20:30) | BLV LÃO HẠC
 https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
@@ -12,47 +12,17 @@ https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e00
 #EXTINF:-1 tvg-id="306419921_flv" tvg-name="Zimbabwe vs India (2026-05-30 20:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/13151_16501880583.png" group-title="INT FRL",Zimbabwe vs India (2026-05-30 20:30) FLV | BLV LÃO HẠC
 https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
 
-#EXTINF:-1 tvg-id="68168502-6796-448e-ac49-b1df6c1d4ff5" tvg-name="Scotland vs Curacao (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="INT FRL",Scotland vs Curacao (2026-05-30 19:00) | BLV SHIN
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-id="252631928" tvg-name="TPS Turku vs Vaasa VPS (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/351_1j0q19x9y11n.png" group-title="FIN D1",TPS Turku vs Vaasa VPS (2026-05-30 21:00) | BLV MAYBACH
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 tvg-id="68168502-6796-448e-ac49-b1df6c1d4ff5_flv" tvg-name="Scotland vs Curacao (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/552_164984175759.png" group-title="INT FRL",Scotland vs Curacao (2026-05-30 19:00) FLV | BLV SHIN
-https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 tvg-id="252631928_flv" tvg-name="TPS Turku vs Vaasa VPS (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/351_1j0q19x9y11n.png" group-title="FIN D1",TPS Turku vs Vaasa VPS (2026-05-30 21:00) FLV | BLV MAYBACH
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 tvg-id="489484924" tvg-name="Arsenal Dzyarzhynsk vs Dinamo Minsk (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/40198_1h71mwa4sd1b.png" group-title="BLR D1",Arsenal Dzyarzhynsk vs Dinamo Minsk (2026-05-30 18:00) | BLV PELE
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+#EXTINF:-1 tvg-id="218121924" tvg-name="GAIS vs Kalmar (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1310_1h8wtya6esp.png" group-title="SWE D1",GAIS vs Kalmar (2026-05-30 20:00) | BLV LEO
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 tvg-id="489484924_flv" tvg-name="Arsenal Dzyarzhynsk vs Dinamo Minsk (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/40198_1h71mwa4sd1b.png" group-title="BLR D1",Arsenal Dzyarzhynsk vs Dinamo Minsk (2026-05-30 18:00) FLV | BLV PELE
-https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-
-#EXTINF:-1 tvg-id="212744929" tvg-name="Chengdu Rongcheng FC vs Shandong Taishan (2026-05-30 18:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/36861_1gy3vkgfwve.PNG" group-title="CHA CSL",Chengdu Rongcheng FC vs Shandong Taishan (2026-05-30 18:35) | BLV GẤU KA
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
-#EXTINF:-1 tvg-id="212744929_flv" tvg-name="Chengdu Rongcheng FC vs Shandong Taishan (2026-05-30 18:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/36861_1gy3vkgfwve.PNG" group-title="CHA CSL",Chengdu Rongcheng FC vs Shandong Taishan (2026-05-30 18:35) FLV | BLV GẤU KA
-https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
-#EXTINF:-1 tvg-id="221096929" tvg-name="B93 Copenhagen vs Aarhus Fremad (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1115_1h51a55z7xr.png" group-title="DEN D1",B93 Copenhagen vs Aarhus Fremad (2026-05-30 20:00) | BLV TÔN LẬP
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 tvg-id="221096929_flv" tvg-name="B93 Copenhagen vs Aarhus Fremad (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1115_1h51a55z7xr.png" group-title="DEN D1",B93 Copenhagen vs Aarhus Fremad (2026-05-30 20:00) FLV | BLV TÔN LẬP
-https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
-
-#EXTINF:-1 tvg-id="a2a23e2e-c1e8-4f08-8005-d2bae35f9a30" tvg-name="Shenzhen Xinpengcheng vs Qingdao Manatee (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/34003_1j0ytnk9yw25.png" group-title="CHA CSL",Shenzhen Xinpengcheng vs Qingdao Manatee (2026-05-30 19:00) | BLV HÀN TÍN
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 tvg-id="a2a23e2e-c1e8-4f08-8005-d2bae35f9a30_flv" tvg-name="Shenzhen Xinpengcheng vs Qingdao Manatee (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/34003_1j0ytnk9yw25.png" group-title="CHA CSL",Shenzhen Xinpengcheng vs Qingdao Manatee (2026-05-30 19:00) FLV | BLV HÀN TÍN
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 tvg-id="447eea6f-0508-4bf2-9273-5c14d8084280" tvg-name="Chongqing Tonglianglong vs Beijing Guoan (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61524_1hysdzw5hv1f.png" group-title="CHA CSL",Chongqing Tonglianglong vs Beijing Guoan (2026-05-30 19:00) | BLV LỮ BỐ
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 tvg-id="447eea6f-0508-4bf2-9273-5c14d8084280_flv" tvg-name="Chongqing Tonglianglong vs Beijing Guoan (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/61524_1hysdzw5hv1f.png" group-title="CHA CSL",Chongqing Tonglianglong vs Beijing Guoan (2026-05-30 19:00) FLV | BLV LỮ BỐ
-https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
-
-#EXTINF:-1 tvg-id="211096928" tvg-name="Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/220_1gtg0npad1m.png" group-title="DEN D1",Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00) | BLV VÕ TÒNG
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 tvg-id="211096928_flv" tvg-name="Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/220_1gtg0npad1m.png" group-title="DEN D1",Aalborg vs Herfolge Boldklub Koge (2026-05-30 20:00) FLV | BLV VÕ TÒNG
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 tvg-id="218121924_flv" tvg-name="GAIS vs Kalmar (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1310_1h8wtya6esp.png" group-title="SWE D1",GAIS vs Kalmar (2026-05-30 20:00) FLV | BLV LEO
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
 #EXTINF:-1 tvg-id="cb714d7c-1be2-438e-a871-652553d47fbd" tvg-name="Da Nang Dragons vs Ho Chi Minh City Wings (2026-05-30 19:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780075710.png" group-title="VBA",Da Nang Dragons vs Ho Chi Minh City Wings (2026-05-30 19:30) | BLV YẾN THANH
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
@@ -60,21 +30,39 @@ https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a7
 #EXTINF:-1 tvg-id="cb714d7c-1be2-438e-a871-652553d47fbd_flv" tvg-name="Da Nang Dragons vs Ho Chi Minh City Wings (2026-05-30 19:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780075710.png" group-title="VBA",Da Nang Dragons vs Ho Chi Minh City Wings (2026-05-30 19:30) FLV | BLV YẾN THANH
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
+#EXTINF:-1 tvg-id="221096929" tvg-name="B93 Copenhagen vs Aarhus Fremad (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1115_1h51a55z7xr.png" group-title="DEN D1",B93 Copenhagen vs Aarhus Fremad (2026-05-30 20:00) | BLV TÔN LẬP
+https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 tvg-id="221096929_flv" tvg-name="B93 Copenhagen vs Aarhus Fremad (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1115_1h51a55z7xr.png" group-title="DEN D1",B93 Copenhagen vs Aarhus Fremad (2026-05-30 20:00) FLV | BLV TÔN LẬP
+https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df
+
+#EXTINF:-1 tvg-id="262631929" tvg-name="Lahti vs Ilves Tampere (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/356_165724428576.png" group-title="FIN D1",Lahti vs Ilves Tampere (2026-05-30 21:00) | BLV GẤU KA
+ https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+
+#EXTINF:-1 tvg-id="262631929_flv" tvg-name="Lahti vs Ilves Tampere (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/356_165724428576.png" group-title="FIN D1",Lahti vs Ilves Tampere (2026-05-30 21:00) FLV | BLV GẤU KA
+https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+
+#EXTINF:-1 tvg-id="336804922" tvg-name="FC Telavi vs FC Gori (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/33062_1h746p4whx7.png" group-title="GEO D2",FC Telavi vs FC Gori (2026-05-30 21:00) | BLV QUAN VŨ
+https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+
+#EXTINF:-1 tvg-id="336804922_flv" tvg-name="FC Telavi vs FC Gori (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/33062_1h746p4whx7.png" group-title="GEO D2",FC Telavi vs FC Gori (2026-05-30 21:00) FLV | BLV QUAN VŨ
+https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
+
 #EXTINF:-1 tvg-id="238121926" tvg-name="Malmo FF vs Halmstads (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/372_1hptap45j3v.png" group-title="SWE D1",Malmo FF vs Halmstads (2026-05-30 20:00) | BLV KEVILL
 https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
 #EXTINF:-1 tvg-id="238121926_flv" tvg-name="Malmo FF vs Halmstads (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/372_1hptap45j3v.png" group-title="SWE D1",Malmo FF vs Halmstads (2026-05-30 20:00) FLV | BLV KEVILL
 https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
 
-#EXTINF:-1 tvg-id="202744928" tvg-name="Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png" group-title="CHA CSL",Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00) | BLV LÝ ỨNG
+#EXTINF:-1 tvg-id="242631927" tvg-name="KuPs vs Inter Turku (2026-05-30 21:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770466639.png" group-title="FIN D1",KuPs vs Inter Turku (2026-05-30 21:00) | BLV PELE
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+
+#EXTINF:-1 tvg-id="242631927_flv" tvg-name="KuPs vs Inter Turku (2026-05-30 21:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770466639.png" group-title="FIN D1",KuPs vs Inter Turku (2026-05-30 21:00) FLV | BLV PELE
+https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
+
+#EXTINF:-1 tvg-id="2fcf0f1c-f237-45b7-a291-e261fbad6f09" tvg-name="KuPs vs Inter Turku (2026-05-30 21:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770466639.png" group-title="FIN D1",KuPs vs Inter Turku (2026-05-30 21:00) | BLV LÝ ỨNG
 https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 tvg-id="202744928_flv" tvg-name="Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png" group-title="CHA CSL",Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00) FLV | BLV LÝ ỨNG
+#EXTINF:-1 tvg-id="2fcf0f1c-f237-45b7-a291-e261fbad6f09_flv" tvg-name="KuPs vs Inter Turku (2026-05-30 21:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1770466639.png" group-title="FIN D1",KuPs vs Inter Turku (2026-05-30 21:00) FLV | BLV LÝ ỨNG
 https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 tvg-id="6f01050a-8b1d-4944-bf06-608c7cb9b2ff" tvg-name="Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png" group-title="CHA CSL",Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00) | BLV QUAN VŨ
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
-
-#EXTINF:-1 tvg-id="6f01050a-8b1d-4944-bf06-608c7cb9b2ff_flv" tvg-name="Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/495_1j39p5ccv415.png" group-title="CHA CSL",Henan Football Club vs Zhejiang Professional FC (2026-05-30 18:00) FLV | BLV QUAN VŨ
-https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 
