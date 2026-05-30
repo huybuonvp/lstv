@@ -81,8 +81,8 @@
           ]
         },
         {
-          "id": "ch-472788923-315",
-          "name": "⚽ Union Touarga Sport Rabat vs FAR Forces Armee Royales",
+          "id": "ch-387080823-359",
+          "name": "⚽ Granada CF vs Sporting Gijon",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/3117_1h1jgsze5y1f.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/110_164871277443.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,30 +104,30 @@
           ],
           "sources": [
             {
-              "id": "src-472788923",
+              "id": "src-387080823",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-472788923",
-                  "name": "Union Touarga Sport Rabat vs FAR Forces Armee Royales",
+                  "id": "cnt-387080823",
+                  "name": "Granada CF vs Sporting Gijon",
                   "streams": [
                     {
-                      "id": "str-472788923",
+                      "id": "str-387080823",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-472788923-m3u8",
+                          "id": "lnk-387080823-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645"
+                          "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
                         },
                         {
-                          "id": "lnk-472788923-flv",
+                          "id": "lnk-387080823-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645"
+                          "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
                         }
                       ]
                     }
@@ -138,8 +138,8 @@
           ]
         },
         {
-          "id": "ch-b96341c7-58ac-4192-9aac-19de641dbabe-298",
-          "name": "⚽ Nigeria vs Jamaica",
+          "id": "ch-371488929-358",
+          "name": "⚽ CF Os Belenenses vs SC Farense",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -147,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/682_165018846810.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/52740_1hdajkkb2526.png",
             "width": 1600,
             "height": 1200
           },
@@ -161,30 +161,30 @@
           ],
           "sources": [
             {
-              "id": "src-b96341c7-58ac-4192-9aac-19de641dbabe",
+              "id": "src-371488929",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-b96341c7-58ac-4192-9aac-19de641dbabe",
-                  "name": "Nigeria vs Jamaica",
+                  "id": "cnt-371488929",
+                  "name": "CF Os Belenenses vs SC Farense",
                   "streams": [
                     {
-                      "id": "str-b96341c7-58ac-4192-9aac-19de641dbabe",
+                      "id": "str-371488929",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b96341c7-58ac-4192-9aac-19de641dbabe-m3u8",
+                          "id": "lnk-371488929-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
+                          "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
                         },
                         {
-                          "id": "lnk-b96341c7-58ac-4192-9aac-19de641dbabe-flv",
+                          "id": "lnk-371488929-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da"
+                          "url": "https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
                         }
                       ]
                     }
@@ -242,63 +242,6 @@
                           "type": "flv",
                           "default": false,
                           "url": "https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-387080823-359",
-          "name": "⚽ Granada CF vs Sporting Gijon",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/110_164871277443.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-387080823",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-387080823",
-                  "name": "Granada CF vs Sporting Gijon",
-                  "streams": [
-                    {
-                      "id": "str-387080823",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-387080823-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
-                        },
-                        {
-                          "id": "lnk-387080823-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6"
                         }
                       ]
                     }
@@ -480,8 +423,8 @@
           ]
         },
         {
-          "id": "ch-329509926-81",
-          "name": "⚽ Danubio FC vs Club Atletico Progreso",
+          "id": "ch-472788923-315",
+          "name": "⚽ Union Touarga Sport Rabat vs FAR Forces Armee Royales",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -489,7 +432,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/1656_1gtzd4kmqp30.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/3117_1h1jgsze5y1f.png",
             "width": 1600,
             "height": 1200
           },
@@ -503,87 +446,30 @@
           ],
           "sources": [
             {
-              "id": "src-329509926",
+              "id": "src-472788923",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-329509926",
-                  "name": "Danubio FC vs Club Atletico Progreso",
+                  "id": "cnt-472788923",
+                  "name": "Union Touarga Sport Rabat vs FAR Forces Armee Royales",
                   "streams": [
                     {
-                      "id": "str-329509926",
+                      "id": "str-472788923",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-329509926-m3u8",
+                          "id": "lnk-472788923-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
+                          "url": "https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645"
                         },
                         {
-                          "id": "lnk-329509926-flv",
+                          "id": "lnk-472788923-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-371488929-358",
-          "name": "⚽ CF Os Belenenses vs SC Farense",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/52740_1hdajkkb2526.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-371488929",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-371488929",
-                  "name": "CF Os Belenenses vs SC Farense",
-                  "streams": [
-                    {
-                      "id": "str-371488929",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-371488929-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
-                        },
-                        {
-                          "id": "lnk-371488929-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b"
+                          "url": "https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645"
                         }
                       ]
                     }

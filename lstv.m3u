@@ -6,29 +6,23 @@ https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab
 #EXTINF:-1 tvg-id="379701925_flv" tvg-name="Atletico Paranaense vs Mirassol (2026-05-31 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/313_1gxhxt30w91z.png" group-title="BRA D1",Atletico Paranaense vs Mirassol (2026-05-31 02:00) FLV | BLV FERNANDO
 https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 tvg-id="472788923" tvg-name="Union Touarga Sport Rabat vs FAR Forces Armee Royales (2026-05-31 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3117_1h1jgsze5y1f.png" group-title="MAR D1",Union Touarga Sport Rabat vs FAR Forces Armee Royales (2026-05-31 02:00) | BLV VƯƠNG LUÂN
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-id="387080823" tvg-name="Granada CF vs Sporting Gijon (2026-05-31 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/110_164871277443.png" group-title="SPA D2",Granada CF vs Sporting Gijon (2026-05-31 02:00) | BLV LEO
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 tvg-id="472788923_flv" tvg-name="Union Touarga Sport Rabat vs FAR Forces Armee Royales (2026-05-31 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3117_1h1jgsze5y1f.png" group-title="MAR D1",Union Touarga Sport Rabat vs FAR Forces Armee Royales (2026-05-31 02:00) FLV | BLV VƯƠNG LUÂN
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
+#EXTINF:-1 tvg-id="387080823_flv" tvg-name="Granada CF vs Sporting Gijon (2026-05-31 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/110_164871277443.png" group-title="SPA D2",Granada CF vs Sporting Gijon (2026-05-31 02:00) FLV | BLV LEO
+https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
-#EXTINF:-1 tvg-id="b96341c7-58ac-4192-9aac-19de641dbabe" tvg-name="Nigeria vs Jamaica (2026-05-31 01:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/682_165018846810.png" group-title="INT FRL",Nigeria vs Jamaica (2026-05-31 01:30) | BLV TÂY MÔN KHÁNH
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-id="371488929" tvg-name="CF Os Belenenses vs SC Farense (2026-05-31 02:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/52740_1hdajkkb2526.png" group-title="POR D2",CF Os Belenenses vs SC Farense (2026-05-31 02:30) | BLV MAYBACH
+https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 tvg-id="b96341c7-58ac-4192-9aac-19de641dbabe_flv" tvg-name="Nigeria vs Jamaica (2026-05-31 01:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/682_165018846810.png" group-title="INT FRL",Nigeria vs Jamaica (2026-05-31 01:30) FLV | BLV TÂY MÔN KHÁNH
-https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
+#EXTINF:-1 tvg-id="371488929_flv" tvg-name="CF Os Belenenses vs SC Farense (2026-05-31 02:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/52740_1hdajkkb2526.png" group-title="POR D2",CF Os Belenenses vs SC Farense (2026-05-31 02:30) FLV | BLV MAYBACH
+https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
 #EXTINF:-1 tvg-id="227112924" tvg-name="Deportes La Serena vs Colo Colo (2026-05-31 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png" group-title="CHI D1",Deportes La Serena vs Colo Colo (2026-05-31 02:00) | BLV HÀN TÍN
 https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 
 #EXTINF:-1 tvg-id="227112924_flv" tvg-name="Deportes La Serena vs Colo Colo (2026-05-31 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/946_1gw8pexzs8s.png" group-title="CHI D1",Deportes La Serena vs Colo Colo (2026-05-31 02:00) FLV | BLV HÀN TÍN
 https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-
-#EXTINF:-1 tvg-id="387080823" tvg-name="Granada CF vs Sporting Gijon (2026-05-31 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/110_164871277443.png" group-title="SPA D2",Granada CF vs Sporting Gijon (2026-05-31 02:00) | BLV LEO
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-
-#EXTINF:-1 tvg-id="387080823_flv" tvg-name="Granada CF vs Sporting Gijon (2026-05-31 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/110_164871277443.png" group-title="SPA D2",Granada CF vs Sporting Gijon (2026-05-31 02:00) FLV | BLV LEO
-https://flv.cdnfaster-a.live/live/LEO.flv?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 
 #EXTINF:-1 tvg-id="210801921" tvg-name="Flamengo vs Coritiba PR (2026-05-31 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/322_1j9d3cawp41r.png" group-title="BRA D1",Flamengo vs Coritiba PR (2026-05-31 02:00) | BLV DƯƠNG CHÍ
 https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
@@ -48,15 +42,9 @@ https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d0
 #EXTINF:-1 tvg-id="24b159bf-0451-4a36-95df-d5184391428a_flv" tvg-name="Gimnasia Jujuy vs Belgrano (2026-05-31 01:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2241_20130917084528.jpg" group-title="ARG C",Gimnasia Jujuy vs Belgrano (2026-05-31 01:30) FLV | BLV QUAN VŨ
 https://flv.cdnfaster-a.live/live/QUANVU.flv?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7
 
-#EXTINF:-1 tvg-id="329509926" tvg-name="Danubio FC vs Club Atletico Progreso (2026-05-31 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1656_1gtzd4kmqp30.png" group-title="URU D1",Danubio FC vs Club Atletico Progreso (2026-05-31 01:00) | BLV TRIỆU TỬ LONG
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-id="472788923" tvg-name="Union Touarga Sport Rabat vs FAR Forces Armee Royales (2026-05-31 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3117_1h1jgsze5y1f.png" group-title="MAR D1",Union Touarga Sport Rabat vs FAR Forces Armee Royales (2026-05-31 02:00) | BLV VƯƠNG LUÂN
+https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
-#EXTINF:-1 tvg-id="329509926_flv" tvg-name="Danubio FC vs Club Atletico Progreso (2026-05-31 01:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1656_1gtzd4kmqp30.png" group-title="URU D1",Danubio FC vs Club Atletico Progreso (2026-05-31 01:00) FLV | BLV TRIỆU TỬ LONG
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
-
-#EXTINF:-1 tvg-id="371488929" tvg-name="CF Os Belenenses vs SC Farense (2026-05-31 02:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/52740_1hdajkkb2526.png" group-title="POR D2",CF Os Belenenses vs SC Farense (2026-05-31 02:30) | BLV MAYBACH
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-
-#EXTINF:-1 tvg-id="371488929_flv" tvg-name="CF Os Belenenses vs SC Farense (2026-05-31 02:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/52740_1hdajkkb2526.png" group-title="POR D2",CF Os Belenenses vs SC Farense (2026-05-31 02:30) FLV | BLV MAYBACH
-https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
+#EXTINF:-1 tvg-id="472788923_flv" tvg-name="Union Touarga Sport Rabat vs FAR Forces Armee Royales (2026-05-31 02:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3117_1h1jgsze5y1f.png" group-title="MAR D1",Union Touarga Sport Rabat vs FAR Forces Armee Royales (2026-05-31 02:00) FLV | BLV VƯƠNG LUÂN
+https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
 
