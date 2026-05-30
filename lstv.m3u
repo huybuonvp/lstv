@@ -1,133 +1,151 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="374515923" tvg-name="Meizhou Hakka vs Dingnan Ganlian (2026-05-30 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/18788_1j0w7x44xa19.png" group-title="CHA D1",Meizhou Hakka vs Dingnan Ganlian (2026-05-30 18:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd5ypSAjgfPxbBQg/playlist.m3u8
+#EXTINF:-1 tvg-id="277112929" tvg-name="Universidad de Concepcion vs Union La Calera (2026-05-30 07:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1614_1h6mrdn89h29.png" group-title="CHI D1",Universidad de Concepcion vs Union La Calera (2026-05-30 07:30) | BLV SHIN
+https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
-#EXTINF:-1 tvg-id="492797925" tvg-name="Artilheiros vs Gala FC (2026-05-30 20:00)" tvg-logo="" group-title="MAC D1",Artilheiros vs Gala FC (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdLeG73XbDpMyBa4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="376231920" tvg-name="Bjarg vs Eik-Tonsberg (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12011_1gvs76tty00.png" group-title="NOR D2",Bjarg vs Eik-Tonsberg (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvZ6dCUY2DTwpwkex/playlist.m3u8
-
-#EXTINF:-1 tvg-id="357009922" tvg-name="ASU Politehnica Timisoara (W) vs Olimpia Cluj (W) (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/49781_1gtnnc22cxf.png" group-title="R WSL",ASU Politehnica Timisoara (W) vs Olimpia Cluj (W) (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WbU1Y2UrFaJur/playlist.m3u8
-
-#EXTINF:-1 tvg-id="350891924" tvg-name="Eskilsminne IF vs Trelleborgs FF (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17104_1hswawttzch.png" group-title="SWE D1 SN",Eskilsminne IF vs Trelleborgs FF (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvYqxicYhGccNnhrL/playlist.m3u8
-
-#EXTINF:-1 tvg-id="492756920" tvg-name="Shahter Taganrog vs FK Pobeda Junior (2026-05-30 20:00)" tvg-logo="" group-title="Russian Second League Division B",Shahter Taganrog vs FK Pobeda Junior (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaaRD7hXhiniNGL/playlist.m3u8
-
-#EXTINF:-1 tvg-id="358509928" tvg-name="Cerro Largo vs Cerro Montevideo (2026-05-30 05:25)" tvg-logo="https://cdn-img.cdnokvip.com/logos/7566_1hrb7wwkee31.png" group-title="URU D1",Cerro Largo vs Cerro Montevideo (2026-05-30 05:25) | BLV VƯƠNG LUÂN
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 tvg-id="358509928_flv" tvg-name="Cerro Largo vs Cerro Montevideo (2026-05-30 05:25)" tvg-logo="https://cdn-img.cdnokvip.com/logos/7566_1hrb7wwkee31.png" group-title="URU D1",Cerro Largo vs Cerro Montevideo (2026-05-30 05:25) FLV | BLV VƯƠNG LUÂN
-https://flv.cdnfaster-a.live/live/VUONGLUAN.flv?expire=1893165900&sign=60fcb5252d4dafeac0cb5da922c56645
-
-#EXTINF:-1 tvg-id="407598920" tvg-name="Toronto FC II vs Philadelphia Union II (2026-05-30 06:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/21813_20170523175647.jpg" group-title="MLS Next PL",Toronto FC II vs Philadelphia Union II (2026-05-30 06:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5WYUtrRWzBYiUC/playlist.m3u8
-
-#EXTINF:-1 tvg-id="342756925" tvg-name="Kyzyltash Bakhchysarai vs FK Angusht Nazran (2026-05-30 20:00)" tvg-logo="" group-title="Russian Second League Division B",Kyzyltash Bakhchysarai vs FK Angusht Nazran (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaaRDGudUDNU4YC/playlist.m3u8
-
-#EXTINF:-1 tvg-id="202255925" tvg-name="Forward Madison FC vs Corpus Christi FC (2026-05-30 06:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39256_1gxfc9gh58j.png" group-title="USL League One",Forward Madison FC vs Corpus Christi FC (2026-05-30 06:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd6CpxhCKLc58je4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="395750826" tvg-name="Swit Szczecin vs Olimpia Grudziadz (2026-05-30 19:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/51444_1gtn7gf6vtf.png" group-title="POL D2",Swit Szczecin vs Olimpia Grudziadz (2026-05-30 19:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MuSsVQJsR2g3TB7jz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="206750828" tvg-name="Warta Poznan vs Resovia Rzeszow (2026-05-30 19:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4353_1hbcqjz3ej1p.png" group-title="POL D2",Warta Poznan vs Resovia Rzeszow (2026-05-30 19:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MuSsVQJsNqCAyMCb6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="355348926" tvg-name="Leones vs Dep.Independiente Medellin (2026-05-30 06:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6882_1grmn7p76r22.png" group-title="COL Cup",Leones vs Dep.Independiente Medellin (2026-05-30 06:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdLb4nj54Mdc36h2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="344476926" tvg-name="Nordstrand vs KFUM Oslo II (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4838_1gryyjx9za1e.png" group-title="NOR D4",Nordstrand vs KFUM Oslo II (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaXDAp7ZuK4Vumn/playlist.m3u8
-
-#EXTINF:-1 tvg-id="201665929" tvg-name="FK Neptunas Klaipeda vs NFA Kaunas (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/44807_1grqbwq3dq2q.png" group-title="LIT D2",FK Neptunas Klaipeda vs NFA Kaunas (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwcqNa6dQW9HJT9xG/playlist.m3u8
-
-#EXTINF:-1 tvg-id="335274922" tvg-name="Dziugas Telsiai vs FK Panevezys (2026-05-30 18:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/21208_1grgfd4mpf24.png" group-title="LIT D1",Dziugas Telsiai vs FK Panevezys (2026-05-30 18:15) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd5koDBNRi7m2iex/playlist.m3u8
-
-#EXTINF:-1 tvg-id="474965922" tvg-name="Racing Louisville (W) vs Denver Summit W (2026-05-30 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/49539_1h2vp5r7nb1x.png" group-title="USA WD1",Racing Louisville (W) vs Denver Summit W (2026-05-30 07:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwcqNbbw3T85TqUvQ/playlist.m3u8
-
-#EXTINF:-1 tvg-id="397121921" tvg-name="AIK Solna vs IK Sirius FK (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/364_1h8asp945qp.png" group-title="SWE D1",AIK Solna vs IK Sirius FK (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvZ6EN2qWeBMLU5bS/playlist.m3u8
-
-#EXTINF:-1 tvg-id="357186928" tvg-name="Harstad vs Bossekop (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2214_1hxjpt9my41d.png" group-title="NOR D4",Harstad vs Bossekop (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaTvibcSorVd7wr/playlist.m3u8
-
-#EXTINF:-1 tvg-id="484476920" tvg-name="Gamle Oslo vs Frigg (2026-05-30 20:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/57383_1hv2rgdwamv.png" group-title="NOR D4",Gamle Oslo vs Frigg (2026-05-30 20:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaXDApGMpnyoaPN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="384515924" tvg-name="Guangxi Hengchen vs Foshan Nanshi (2026-05-30 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/63119_1hd8n6awev0.png" group-title="CHA D1",Guangxi Hengchen vs Foshan Nanshi (2026-05-30 18:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd5yqCW2K7kiDK9W/playlist.m3u8
-
-#EXTINF:-1 tvg-id="354515921" tvg-name="Dalian Kun City vs Shijiazhuang Kungfu (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/64776_1htrhy34n123.png" group-title="CHA D1",Dalian Kun City vs Shijiazhuang Kungfu (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd5ypSBC4RqiWBFS/playlist.m3u8
-
-#EXTINF:-1 tvg-id="207112922" tvg-name="Cobresal vs Nublense (2026-05-30 05:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1291_1gv1yk239p1p.png" group-title="CHI D1",Cobresal vs Nublense (2026-05-30 05:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvYquUM7fd7HY8zWg/playlist.m3u8
-
-#EXTINF:-1 tvg-id="311665920" tvg-name="FK Tauras Taurage vs Hegelmann Litauen II (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/9047_1hrgczjf1b1y.png" group-title="LIT D2",FK Tauras Taurage vs Hegelmann Litauen II (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwcqNa6dNJfQpdEoN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="387604926" tvg-name="FK Liepaja vs Tukums-2000 (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/534_1h5e49xmg9e.png" group-title="LAT D1",FK Liepaja vs Tukums-2000 (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvVNc5ZJjC88bhe1J/playlist.m3u8
-
-#EXTINF:-1 tvg-id="210584929" tvg-name="FC Minsk vs FK Isloch Minsk (2026-05-30 00:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4645_1h6z25dg6y2m.png" group-title="BLR D1",FC Minsk vs FK Isloch Minsk (2026-05-30 00:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd5hbBP7fqMNFatL/playlist.m3u8
-
-#EXTINF:-1 tvg-id="469775925" tvg-name="Krasnodar FK (W) vs CSKA Moscow  (W) (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12507_1h72ejfy7n2m.png" group-title="RUS WPL",Krasnodar FK (W) vs CSKA Moscow  (W) (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwcqNfHhF6uhxCaqS/playlist.m3u8
-
-#EXTINF:-1 tvg-id="439976925" tvg-name="Haugesund 2 vs Flekkeroy IL (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/24156_1htxvp63f624.png" group-title="NOR D4",Haugesund 2 vs Flekkeroy IL (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaTuFTNUt1rxHYQ/playlist.m3u8
-
-#EXTINF:-1 tvg-id="384431921" tvg-name="Follo vs Ullensaker/Kisa IL (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1891_1gs1ke9fmf2y.png" group-title="NOR D2",Follo vs Ullensaker/Kisa IL (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvZ6dDyAn5RmkhpFE/playlist.m3u8
-
-#EXTINF:-1 tvg-id="383764929" tvg-name="FC Vsetin vs Zlin B (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22561_1grmn5fb6s1g.png" group-title="CZE CFL",FC Vsetin vs Zlin B (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd5p6QtGqPCBoSMA/playlist.m3u8
-
-#EXTINF:-1 tvg-id="492676921" tvg-name="Ranheim 2 vs SK Herd (2026-05-30 20:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22373_1jsdjvg4fy2k.png" group-title="NOR D4",Ranheim 2 vs SK Herd (2026-05-30 20:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaXEfTUbZ4fUdpQ/playlist.m3u8
-
-#EXTINF:-1 tvg-id="332778928" tvg-name="Eastern Suburbs AFC vs Auckland City (2026-05-30 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/24658_1j4rb33n0m6.png" group-title="NOR NZL",Eastern Suburbs AFC vs Auckland City (2026-05-30 07:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwe5Waj21a4RyChvk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="321665921" tvg-name="Atomsfera Mazeikiai vs FK Zalgiris Vilnius B (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/29576_1h06r5frys1p.png" group-title="LIT D2",Atomsfera Mazeikiai vs FK Zalgiris Vilnius B (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwcqNa6dUu72G6zG4/playlist.m3u8
+#EXTINF:-1 tvg-id="277112929_flv" tvg-name="Universidad de Concepcion vs Union La Calera (2026-05-30 07:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1614_1h6mrdn89h29.png" group-title="CHI D1",Universidad de Concepcion vs Union La Calera (2026-05-30 07:30) FLV | BLV SHIN
+https://flv.cdnfaster-a.live/live/SHIN.flv?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 
 #EXTINF:-1 tvg-id="354476927" tvg-name="Ready vs Asker (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22202_1hy9zj8k5v2y.png" group-title="NOR D4",Ready vs Asker (2026-05-30 18:00) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6MwdaXDAp5NRSafzct/playlist.m3u8
 
-#EXTINF:-1 tvg-id="372676929" tvg-name="Melhus vs Molde B (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6984_1h15kyv4n31t.png" group-title="NOR D4",Melhus vs Molde B (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaXEfTQCbKhpoWc/playlist.m3u8
+#EXTINF:-1 tvg-id="353705921" tvg-name="Stavropolye-2009 vs Dinamo Moscow B (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12150_1gwy33hasw2b.png" group-title="Russian Second League Division A",Stavropolye-2009 vs Dinamo Moscow B (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd637eYpmCQTbVhv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="254031924" tvg-name="Moss vs Stabaek (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1104_1gqv25h09111.png" group-title="NOR AL",Moss vs Stabaek (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvZ6ETCQ5PJP6bxDr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="492797925" tvg-name="Artilheiros vs Gala FC (2026-05-30 20:00)" tvg-logo="" group-title="MAC D1",Artilheiros vs Gala FC (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdLeG73XbDpMyBa4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="397109927" tvg-name="Manila Digger FC vs Taguig (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/62819_1h7kry0k3cg.png" group-title="PH UFL",Manila Digger FC vs Taguig (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdLb2ZbnAaCQuWTW/playlist.m3u8
+
+#EXTINF:-1 tvg-id="492676921" tvg-name="Ranheim 2 vs SK Herd (2026-05-30 20:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22373_1jsdjvg4fy2k.png" group-title="NOR D4",Ranheim 2 vs SK Herd (2026-05-30 20:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaXEfTUbZ4fUdpQ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="335573924" tvg-name="Supra Du Quebec vs York United FC (2026-05-30 06:10)" tvg-logo="" group-title="Can PL",Supra Du Quebec vs York United FC (2026-05-30 06:10) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdadhiAtu9gQ1zig/playlist.m3u8
+
+#EXTINF:-1 tvg-id="315696928" tvg-name="FK Orsha vs Energetik-BGU Minsk (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/9546_1j3vex6f3e12.png" group-title="BLR D2",FK Orsha vs Energetik-BGU Minsk (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaQienypFGkkc7v/playlist.m3u8
+
+#EXTINF:-1 tvg-id="439976925" tvg-name="Haugesund 2 vs Flekkeroy IL (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/24156_1htxvp63f624.png" group-title="NOR D4",Haugesund 2 vs Flekkeroy IL (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaTuFTNUt1rxHYQ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="264002923" tvg-name="Hammarby TFF vs AFC Eskilstuna (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2325_1h6mrcfpfp1q.png" group-title="SWE D1 SN",Hammarby TFF vs AFC Eskilstuna (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqxk5WtnCosXgcC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="384431921" tvg-name="Follo vs Ullensaker/Kisa IL (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1891_1gs1ke9fmf2y.png" group-title="NOR D2",Follo vs Ullensaker/Kisa IL (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvZ6dDyAn5RmkhpFE/playlist.m3u8
+
+#EXTINF:-1 tvg-id="484476920" tvg-name="Gamle Oslo vs Frigg (2026-05-30 20:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/57383_1hv2rgdwamv.png" group-title="NOR D4",Gamle Oslo vs Frigg (2026-05-30 20:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaXDApGMpnyoaPN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="301876923" tvg-name="Fana vs Forde (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1872_1gyk7hm1zx2x.png" group-title="NOR D4",Fana vs Forde (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaTskp83fshTJxU/playlist.m3u8
+
+#EXTINF:-1 tvg-id="284002925" tvg-name="IF Karlstad Fotboll vs Sollentuna United (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12190_1h8fzp9tvf2.png" group-title="SWE D1 SN",IF Karlstad Fotboll vs Sollentuna United (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqxk5WN1Ud9xrTe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="397604927" tvg-name="FK Auda Riga vs Ogre United (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12865_1h5e49xmge1b.png" group-title="LAT D1",FK Auda Riga vs Ogre United (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvVNc5ZJgzeG7sirQ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="474965922" tvg-name="Racing Louisville (W) vs Denver Summit W (2026-05-30 07:10)" tvg-logo="https://cdn-img.cdnokvip.com/logos/49539_1h2vp5r7nb1x.png" group-title="USA WD1",Racing Louisville (W) vs Denver Summit W (2026-05-30 07:10) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwcqNbbw3T85TqUvQ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="335274922" tvg-name="Dziugas Telsiai vs FK Panevezys (2026-05-30 18:15)" tvg-logo="https://cdn-img.cdnokvip.com/logos/21208_1grgfd4mpf24.png" group-title="LIT D1",Dziugas Telsiai vs FK Panevezys (2026-05-30 18:15) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd5koDBNRi7m2iex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="364515922" tvg-name="Suzhou Dongwu vs Wuxi Wugou (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/18792_1hy7xtfwac24.png" group-title="CHA D1",Suzhou Dongwu vs Wuxi Wugou (2026-05-30 18:00) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6Mwd5ypSB9rwyEgG6Y/playlist.m3u8
 
-#EXTINF:-1 tvg-id="482797924" tvg-name="Benfica de Macau vs Cheng Fung (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/21637_1gtn878e752m.png" group-title="MAC D1",Benfica de Macau vs Cheng Fung (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdLeG73QznCvVS7N/playlist.m3u8
+#EXTINF:-1 tvg-id="341665923" tvg-name="FK Transinvest II vs FK Kauno Zalgiris II (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/65608_1hz8rn82zm2x.png" group-title="LIT D2",FK Transinvest II vs FK Kauno Zalgiris II (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwcqNbamAwWJDD9Cg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="480876920" tvg-name="Djerv 1919 vs Varegg (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4831_1gxmbj851t9.png" group-title="NOR D4",Djerv 1919 vs Varegg (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaTskpepQ4R2972/playlist.m3u8
+
+#EXTINF:-1 tvg-id="334476925" tvg-name="Heming vs Union Carl Berner (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6937_1hv2rgdvt2q.png" group-title="NOR D4",Heming vs Union Carl Berner (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaXDAozyThd2AK6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="395750826" tvg-name="Swit Szczecin vs Olimpia Grudziadz (2026-05-30 19:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/51444_1gtn7gf6vtf.png" group-title="POL D2",Swit Szczecin vs Olimpia Grudziadz (2026-05-30 19:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MuSsVQJsR2g3TB7jz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="342756925" tvg-name="Kyzyltash Bakhchysarai vs FK Angusht Nazran (2026-05-30 20:00)" tvg-logo="" group-title="Russian Second League Division B",Kyzyltash Bakhchysarai vs FK Angusht Nazran (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaaRDGudUDNU4YC/playlist.m3u8
+
+#EXTINF:-1 tvg-id="206750828" tvg-name="Warta Poznan vs Resovia Rzeszow (2026-05-30 19:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4353_1hbcqjz3ej1p.png" group-title="POL D2",Warta Poznan vs Resovia Rzeszow (2026-05-30 19:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MuSsVQJsNqCAyMCb6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="316386925" tvg-name="Sparta Sarpsborg B vs Oppsal (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22767_1gxqkmek7b1c.png" group-title="NOR D4",Sparta Sarpsborg B vs Oppsal (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaTwS5kT9GSuRDW/playlist.m3u8
+
+#EXTINF:-1 tvg-id="387604926" tvg-name="FK Liepaja vs Tukums-2000 (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/534_1h5e49xmg9e.png" group-title="LAT D1",FK Liepaja vs Tukums-2000 (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvVNc5ZJjC88bhe1J/playlist.m3u8
+
+#EXTINF:-1 tvg-id="336166923" tvg-name="Dinamo Saint Petersburg vs FK Yenisey-2 Krasnoyarsk (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/39505_1jqfscbbhy12.png" group-title="Russian Second League Division B",Dinamo Saint Petersburg vs FK Yenisey-2 Krasnoyarsk (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaaTSQGvDPXFV5W/playlist.m3u8
+
+#EXTINF:-1 tvg-id="225750829" tvg-name="Chojniczanka Chojnice vs Rekord Bielsko-Biala (2026-05-30 19:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12861_1hbcqjz2zc5.png" group-title="POL D2",Chojniczanka Chojnice vs Rekord Bielsko-Biala (2026-05-30 19:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MuSsVQJNMD7VUXD6L/playlist.m3u8
+
+#EXTINF:-1 tvg-id="357186928" tvg-name="Harstad vs Bossekop (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2214_1hxjpt9my41d.png" group-title="NOR D4",Harstad vs Bossekop (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaTvibcSorVd7wr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="347186927" tvg-name="IF Floya vs Skedsmo (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6993_1gy16zvrz52d.png" group-title="NOR D4",IF Floya vs Skedsmo (2026-05-30 20:00) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6MwdaTvikyLVpzgUqJ/playlist.m3u8
 
-#EXTINF:-1 tvg-id="383705924" tvg-name="Amkar Perm vs PFK Kuban (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/269_1gx0nnphdv0.png" group-title="Russian Second League Division A",Amkar Perm vs PFK Kuban (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd637eYFnzMGCkQU/playlist.m3u8
+#EXTINF:-1 tvg-id="385750825" tvg-name="Sandecja Nowy Sacz vs Zaglebie Sosnowiec (2026-05-30 19:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5613_1grwfmbpvb6.png" group-title="POL D2",Sandecja Nowy Sacz vs Zaglebie Sosnowiec (2026-05-30 19:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MuSsVQJMyEJngG3ZN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="362676928" tvg-name="Kvik Trondheim vs Orkla (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22139_1gvy984wgh2d.png" group-title="NOR D4",Kvik Trondheim vs Orkla (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaXEfTSQ5CBeifW/playlist.m3u8
 
 #EXTINF:-1 tvg-id="215431925" tvg-name="Kjelsas vs Eidsvold Turn (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1893_1gxmbzxa93d.png" group-title="NOR D2",Kjelsas vs Eidsvold Turn (2026-05-30 19:00) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6MvZ6dDy1Lnn4Hzd3z/playlist.m3u8
 
-#EXTINF:-1 tvg-id="355274924" tvg-name="FK Banga Gargzdai vs Siauliai (2026-05-30 19:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/9046_1gtqm7c5w61m.png" group-title="LIT D1",FK Banga Gargzdai vs Siauliai (2026-05-30 19:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd5koDBSpfrigYxk/playlist.m3u8
+#EXTINF:-1 tvg-id="311665920" tvg-name="FK Tauras Taurage vs Hegelmann Litauen II (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/9047_1hrgczjf1b1y.png" group-title="LIT D2",FK Tauras Taurage vs Hegelmann Litauen II (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwcqNa6dNJfQpdEoN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="385750825" tvg-name="Sandecja Nowy Sacz vs Zaglebie Sosnowiec (2026-05-30 19:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/5613_1grwfmbpvb6.png" group-title="POL D2",Sandecja Nowy Sacz vs Zaglebie Sosnowiec (2026-05-30 19:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MuSsVQJMyEJngG3ZN/playlist.m3u8
+#EXTINF:-1 tvg-id="344476926" tvg-name="Nordstrand vs KFUM Oslo II (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4838_1gryyjx9za1e.png" group-title="NOR D4",Nordstrand vs KFUM Oslo II (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaXDAp7ZuK4Vumn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="200584928" tvg-name="FC Gomel vs Dinamo Brest (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2040_1grd5f04ec10.png" group-title="BLR D1",FC Gomel vs Dinamo Brest (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd5hbBP15PjvmqRe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="482797924" tvg-name="Benfica de Macau vs Cheng Fung (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/21637_1gtn878e752m.png" group-title="MAC D1",Benfica de Macau vs Cheng Fung (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdLeG73QznCvVS7N/playlist.m3u8
+
+#EXTINF:-1 tvg-id="384515924" tvg-name="Guangxi Hengchen vs Foshan Nanshi (2026-05-30 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/63119_1hd8n6awev0.png" group-title="CHA D1",Guangxi Hengchen vs Foshan Nanshi (2026-05-30 18:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd5yqCW2K7kiDK9W/playlist.m3u8
+
+#EXTINF:-1 tvg-id="332756924" tvg-name="FK Chayka 2 vs FK Astrakhan (2026-05-30 21:00)" tvg-logo="" group-title="Russian Second League Division B",FK Chayka 2 vs FK Astrakhan (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaaRDGwpx5rHyh6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="464965921" tvg-name="Orlando Pride (W) vs Bay FC (W) (2026-05-30 07:10)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23906_1j3sptbqxw1t.png" group-title="USA WD1",Orlando Pride (W) vs Bay FC (W) (2026-05-30 07:10) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwcqRw1kzX1sgxE68/playlist.m3u8
+
+#EXTINF:-1 tvg-id="354515921" tvg-name="Dalian Kun City vs Shijiazhuang Kungfu (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/64776_1htrhy34n123.png" group-title="CHA D1",Dalian Kun City vs Shijiazhuang Kungfu (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd5ypSBC4RqiWBFS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="373705923" tvg-name="Dynamo Kirov vs Alania Vladikavkaz (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3677_1h6tsntb2c1q.png" group-title="Russian Second League Division A",Dynamo Kirov vs Alania Vladikavkaz (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd637eYHzUDk2fZN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="374515923" tvg-name="Meizhou Hakka vs Dingnan Ganlian (2026-05-30 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/18788_1j0w7x44xa19.png" group-title="CHA D1",Meizhou Hakka vs Dingnan Ganlian (2026-05-30 18:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd5ypSAjgfPxbBQg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="357313920" tvg-name="Harju JK Laagri vs Trans Narva (2026-05-30 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/48058_167368512786.png" group-title="EST D1",Harju JK Laagri vs Trans Narva (2026-05-30 18:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvVcw4QGGP1oEkDKz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="331665922" tvg-name="Vilniaus Baltijos Futbolo Akademija vs Lietava Jonava (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/34374_1h8assbrcpr.png" group-title="LIT D2",Vilniaus Baltijos Futbolo Akademija vs Lietava Jonava (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwcqNa6dShd9nH57A/playlist.m3u8
+
+#EXTINF:-1 tvg-id="340891923" tvg-name="Ariana vs Laholms FK (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/56990_1gwxajpf4xv.png" group-title="SWE D1 SN",Ariana vs Laholms FK (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqxicYagAzwJxPe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="374476929" tvg-name="Baerum SK vs Grei (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1862_1gxpyh0ajw2y.png" group-title="NOR D4",Baerum SK vs Grei (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaXDAp9mPBYKpvg/playlist.m3u8
 
 #EXTINF:-1 tvg-id="354461921" tvg-name="Racing de Cordoba vs Ferrol Carril Oeste (2026-05-30 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/7278_1gtzdbr0n32s.png" group-title="ARG D2",Racing de Cordoba vs Ferrol Carril Oeste (2026-05-30 07:00) | BLV VÕ TÒNG
 https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
@@ -135,53 +153,41 @@ https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47
 #EXTINF:-1 tvg-id="354461921_flv" tvg-name="Racing de Cordoba vs Ferrol Carril Oeste (2026-05-30 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/7278_1gtzdbr0n32s.png" group-title="ARG D2",Racing de Cordoba vs Ferrol Carril Oeste (2026-05-30 07:00) FLV | BLV VÕ TÒNG
 https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="315696928" tvg-name="FK Orsha vs Energetik-BGU Minsk (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/9546_1j3vex6f3e12.png" group-title="BLR D2",FK Orsha vs Energetik-BGU Minsk (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaQienypFGkkc7v/playlist.m3u8
-
 #EXTINF:-1 tvg-id="482676920" tvg-name="Nardo FK vs Rosenborg B (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3634_1gxn4was85j.png" group-title="NOR D4",Nardo FK vs Rosenborg B (2026-05-30 19:00) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6MwdaXEfTWo2w9JYyJ/playlist.m3u8
 
-#EXTINF:-1 tvg-id="335573924" tvg-name="Supra Du Quebec vs York United FC (2026-05-30 06:10)" tvg-logo="" group-title="Can PL",Supra Du Quebec vs York United FC (2026-05-30 06:10) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdadhiAtu9gQ1zig/playlist.m3u8
+#EXTINF:-1 tvg-id="362756927" tvg-name="PSK Dinskoy Rayon vs Nart Cherkessk (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/69742_1k1ygscb222s.png" group-title="Russian Second League Division B",PSK Dinskoy Rayon vs Nart Cherkessk (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaaRD7WYJNPanVr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f8ad3fc-5e2c-4b96-9b8f-9bbbc976f282" tvg-name="New York Liberty W vs Phoenix Mercury W (2026-05-30 06:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780075597.webp" group-title="WNBA",New York Liberty W vs Phoenix Mercury W (2026-05-30 06:30) | BLV YẾN THANH
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-id="264031925" tvg-name="Odds Ballklubb vs Lyn Oslo (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/435_1jjx4n5qy3b.png" group-title="NOR AL",Odds Ballklubb vs Lyn Oslo (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvZ6ETBa4bUfEspsv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5f8ad3fc-5e2c-4b96-9b8f-9bbbc976f282_flv" tvg-name="New York Liberty W vs Phoenix Mercury W (2026-05-30 06:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780075597.webp" group-title="WNBA",New York Liberty W vs Phoenix Mercury W (2026-05-30 06:30) FLV | BLV YẾN THANH
-https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 tvg-id="232631926" tvg-name="Gnistan Helsinki vs SJK Seinajoen (2026-05-30 21:00)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1762188564.png" group-title="FIN D1",Gnistan Helsinki vs SJK Seinajoen (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvZ6dBkPEJznWzgvp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="353705921" tvg-name="Stavropolye-2009 vs Dinamo Moscow B (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12150_1gwy33hasw2b.png" group-title="Russian Second League Division A",Stavropolye-2009 vs Dinamo Moscow B (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd637eYpmCQTbVhv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="480876920" tvg-name="Djerv 1919 vs Varegg (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4831_1gxmbj851t9.png" group-title="NOR D4",Djerv 1919 vs Varegg (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaTskpepQ4R2972/playlist.m3u8
-
-#EXTINF:-1 tvg-id="364476928" tvg-name="Ullern FC vs Konnerud (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6953_1gxmc09rn813.png" group-title="NOR D4",Ullern FC vs Konnerud (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaXDApBxs429k5a/playlist.m3u8
-
-#EXTINF:-1 tvg-id="490876921" tvg-name="Stord IL vs Fyllingsdalen (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/20327_1gxmbj84h72q.png" group-title="NOR D4",Stord IL vs Fyllingsdalen (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaTskpccvBwCDx8/playlist.m3u8
+#EXTINF:-1 tvg-id="397121921" tvg-name="AIK Solna vs IK Sirius FK (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/364_1h8asp945qp.png" group-title="SWE D1",AIK Solna vs IK Sirius FK (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvZ6EN2qWeBMLU5bS/playlist.m3u8
 
 #EXTINF:-1 tvg-id="303676923" tvg-name="Spjelkavik vs Byasen Toppfot (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6923_1gxw4k8t0s1m.png" group-title="NOR D4",Spjelkavik vs Byasen Toppfot (2026-05-30 20:00) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6MwdaXEfSz2JkRjipk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="352756926" tvg-name="Luhansk vs Izberbash (2026-05-30 20:00)" tvg-logo="" group-title="Russian Second League Division B",Luhansk vs Izberbash (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaaRD7YjnEsQhek/playlist.m3u8
+#EXTINF:-1 tvg-id="301891920" tvg-name="FC Trollhattan vs Atvidabergs (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1798_1h2s4fxt7y0.png" group-title="SWE D1 SN",FC Trollhattan vs Atvidabergs (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqxid3XuHwUV7ac/playlist.m3u8
 
-#EXTINF:-1 tvg-id="375750824" tvg-name="Podbeskidzie Bielsko-Biala vs Podhale Nowy Targ (2026-05-30 19:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1246_1hcnx1smzcm.png" group-title="POL D2",Podbeskidzie Bielsko-Biala vs Podhale Nowy Targ (2026-05-30 19:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MuSsVQJN1RnfA5xiG/playlist.m3u8
+#EXTINF:-1 tvg-id="357009922" tvg-name="ASU Politehnica Timisoara (W) vs Olimpia Cluj (W) (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/49781_1gtnnc22cxf.png" group-title="R WSL",ASU Politehnica Timisoara (W) vs Olimpia Cluj (W) (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5WbU1Y2UrFaJur/playlist.m3u8
 
-#EXTINF:-1 tvg-id="272022924" tvg-name="HB Torshavn vs Vikingur Gota (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2191_1gtqmft1ab19.png" group-title="FAR D1",HB Torshavn vs Vikingur Gota (2026-05-30 21:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvYqrErgRiGatUWkk/playlist.m3u8
+#EXTINF:-1 tvg-id="305519921" tvg-name="Canberra Juventus U23 vs Tuggeranong United U23 (2026-05-30 09:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/66594_1j57gknxp514.png" group-title="AUS CTL U23",Canberra Juventus U23 vs Tuggeranong United U23 (2026-05-30 09:30) | BLV VÕ TÒNG
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="362676928" tvg-name="Kvik Trondheim vs Orkla (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22139_1gvy984wgh2d.png" group-title="NOR D4",Kvik Trondheim vs Orkla (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaXEfTSQ5CBeifW/playlist.m3u8
+#EXTINF:-1 tvg-id="305519921_flv" tvg-name="Canberra Juventus U23 vs Tuggeranong United U23 (2026-05-30 09:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/66594_1j57gknxp514.png" group-title="AUS CTL U23",Canberra Juventus U23 vs Tuggeranong United U23 (2026-05-30 09:30) FLV | BLV VÕ TÒNG
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
 
-#EXTINF:-1 tvg-id="477186920" tvg-name="Skjervoy vs Ulfstind (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6992_1gy95z62ba2m.png" group-title="NOR D4",Skjervoy vs Ulfstind (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaTvibgqmbTGxFe/playlist.m3u8
+#EXTINF:-1 tvg-id="338564927" tvg-name="Ceske Budejovice B vs Aritma Praha (2026-05-30 20:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/7543_1gtn27b7gr15.png" group-title="CZE CFL",Ceske Budejovice B vs Aritma Praha (2026-05-30 20:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd5p4CvhfJ4KzXDn/playlist.m3u8
 
-#EXTINF:-1 tvg-id="459976927" tvg-name="Vindbjart vs Madla IL (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1904_1gxpyft5k426.png" group-title="NOR D4",Vindbjart vs Madla IL (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaTuFHyPiAt51W4/playlist.m3u8
+#EXTINF:-1 tvg-id="313676924" tvg-name="Volda vs Ntnui (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/4851_1gxpyq1gq32w.png" group-title="NOR D4",Volda vs Ntnui (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaXEfSwppswuofr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="101004926" tvg-name="Juventude vs America MG (2026-05-30 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/336_1hwrwf8axx1r.png" group-title="BRA D2",Juventude vs America MG (2026-05-30 07:00) | BLV PELE
 https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
@@ -189,51 +195,99 @@ https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c9
 #EXTINF:-1 tvg-id="101004926_flv" tvg-name="Juventude vs America MG (2026-05-30 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/336_1hwrwf8axx1r.png" group-title="BRA D2",Juventude vs America MG (2026-05-30 07:00) FLV | BLV PELE
 https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 
-#EXTINF:-1 tvg-id="331096920" tvg-name="Hobro vs Middelfart G og (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2375_1gryyr0yd2m.png" group-title="DEN D1",Hobro vs Middelfart G og (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaQdV4BdPFTZJ5S/playlist.m3u8
-
-#EXTINF:-1 tvg-id="357313920" tvg-name="Harju JK Laagri vs Trans Narva (2026-05-30 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/48058_167368512786.png" group-title="EST D1",Harju JK Laagri vs Trans Narva (2026-05-30 18:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MvVcw4QGGP1oEkDKz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="338564927" tvg-name="Ceske Budejovice B vs Aritma Praha (2026-05-30 20:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/7543_1gtn27b7gr15.png" group-title="CZE CFL",Ceske Budejovice B vs Aritma Praha (2026-05-30 20:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd5p4CvhfJ4KzXDn/playlist.m3u8
-
-#EXTINF:-1 tvg-id="341665923" tvg-name="FK Transinvest II vs FK Kauno Zalgiris II (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/65608_1hz8rn82zm2x.png" group-title="LIT D2",FK Transinvest II vs FK Kauno Zalgiris II (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwcqNbamAwWJDD9Cg/playlist.m3u8
-
-#EXTINF:-1 tvg-id="200584928" tvg-name="FC Gomel vs Dinamo Brest (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2040_1grd5f04ec10.png" group-title="BLR D1",FC Gomel vs Dinamo Brest (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd5hbBP15PjvmqRe/playlist.m3u8
-
-#EXTINF:-1 tvg-id="475386920" tvg-name="FF Lillehammer vs Rade (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1943_1jsazdnnttw.png" group-title="NOR D4",FF Lillehammer vs Rade (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaTwS5bfDnXbkbv/playlist.m3u8
+#EXTINF:-1 tvg-id="201665929" tvg-name="FK Neptunas Klaipeda vs NFA Kaunas (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/44807_1grqbwq3dq2q.png" group-title="LIT D2",FK Neptunas Klaipeda vs NFA Kaunas (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwcqNa6dQW9HJT9xG/playlist.m3u8
 
 #EXTINF:-1 tvg-id="222631925" tvg-name="HJK Helsinki vs IFK Mariehamn (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/347_1gtzct7tvc22.png" group-title="FIN D1",HJK Helsinki vs IFK Mariehamn (2026-05-30 19:00) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6MvZ6dBkPGWUezpc5i/playlist.m3u8
 
+#EXTINF:-1 tvg-id="459976927" tvg-name="Vindbjart vs Madla IL (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1904_1gxpyft5k426.png" group-title="NOR D4",Vindbjart vs Madla IL (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaTuFHyPiAt51W4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="469775925" tvg-name="Krasnodar FK (W) vs CSKA Moscow  (W) (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12507_1h72ejfy7n2m.png" group-title="RUS WPL",Krasnodar FK (W) vs CSKA Moscow  (W) (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwcqNfHhF6uhxCaqS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="331096920" tvg-name="Hobro vs Middelfart G og (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2375_1gryyr0yd2m.png" group-title="DEN D1",Hobro vs Middelfart G og (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaQdV4BdPFTZJ5S/playlist.m3u8
+
 #EXTINF:-1 tvg-id="489775927" tvg-name="Spartak Moscow (W) vs Krylya Sovetov Samara (W) (2026-05-30 20:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/64829_1hs2g1mnz42w.png" group-title="RUS WPL",Spartak Moscow (W) vs Krylya Sovetov Samara (W) (2026-05-30 20:30) | NHÀ ÐÀI
 https://auto.cdnfaster.live/live/sd-6MwcqNfHXr1jryKJo6/playlist.m3u8
 
-#EXTINF:-1 tvg-id="334476925" tvg-name="Heming vs Union Carl Berner (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6937_1hv2rgdvt2q.png" group-title="NOR D4",Heming vs Union Carl Berner (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaXDAozyThd2AK6/playlist.m3u8
+#EXTINF:-1 tvg-id="350891924" tvg-name="Eskilsminne IF vs Trelleborgs FF (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17104_1hswawttzch.png" group-title="SWE D1 SN",Eskilsminne IF vs Trelleborgs FF (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqxicYhGccNnhrL/playlist.m3u8
 
-#EXTINF:-1 tvg-id="374476929" tvg-name="Baerum SK vs Grei (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1862_1gxpyh0ajw2y.png" group-title="NOR D4",Baerum SK vs Grei (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaXDAp9mPBYKpvg/playlist.m3u8
+#EXTINF:-1 tvg-id="383764929" tvg-name="FC Vsetin vs Zlin B (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/22561_1grmn5fb6s1g.png" group-title="CZE CFL",FC Vsetin vs Zlin B (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd5p6QtGqPCBoSMA/playlist.m3u8
 
-#EXTINF:-1 tvg-id="391255923" tvg-name="Knoxville troops vs Greenville Triumph (2026-05-30 05:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/24318_1gx54nvs4c1n.png" group-title="USL League One",Knoxville troops vs Greenville Triumph (2026-05-30 05:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd6CpxhEWpUYxenx/playlist.m3u8
+#EXTINF:-1 tvg-id="355274924" tvg-name="FK Banga Gargzdai vs Siauliai (2026-05-30 19:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/9046_1gtqm7c5w61m.png" group-title="LIT D1",FK Banga Gargzdai vs Siauliai (2026-05-30 19:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd5koDBSpfrigYxk/playlist.m3u8
 
-#EXTINF:-1 tvg-id="397109927" tvg-name="Manila Digger FC vs Taguig (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/62819_1h7kry0k3cg.png" group-title="PH UFL",Manila Digger FC vs Taguig (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdLb2ZbnAaCQuWTW/playlist.m3u8
+#EXTINF:-1 tvg-id="360891925" tvg-name="Hassleholms IF vs Utsiktens BK (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/18884_1h8qppc63s2b.png" group-title="SWE D1 SN",Hassleholms IF vs Utsiktens BK (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqxicYf58jtxnhS/playlist.m3u8
 
-#EXTINF:-1 tvg-id="225750829" tvg-name="Chojniczanka Chojnice vs Rekord Bielsko-Biala (2026-05-30 19:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12861_1hbcqjz2zc5.png" group-title="POL D2",Chojniczanka Chojnice vs Rekord Bielsko-Biala (2026-05-30 19:30) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MuSsVQJNMD7VUXD6L/playlist.m3u8
+#EXTINF:-1 tvg-id="376231920" tvg-name="Bjarg vs Eik-Tonsberg (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/12011_1gvs76tty00.png" group-title="NOR D2",Bjarg vs Eik-Tonsberg (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvZ6dCUY2DTwpwkex/playlist.m3u8
 
-#EXTINF:-1 tvg-id="301876923" tvg-name="Fana vs Forde (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1872_1gyk7hm1zx2x.png" group-title="NOR D4",Fana vs Forde (2026-05-30 20:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwdaTskp83fshTJxU/playlist.m3u8
+#EXTINF:-1 tvg-id="375750824" tvg-name="Podbeskidzie Bielsko-Biala vs Podhale Nowy Targ (2026-05-30 19:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1246_1hcnx1smzcm.png" group-title="POL D2",Podbeskidzie Bielsko-Biala vs Podhale Nowy Targ (2026-05-30 19:30) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MuSsVQJN1RnfA5xiG/playlist.m3u8
 
-#EXTINF:-1 tvg-id="373705923" tvg-name="Dynamo Kirov vs Alania Vladikavkaz (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/3677_1h6tsntb2c1q.png" group-title="Russian Second League Division A",Dynamo Kirov vs Alania Vladikavkaz (2026-05-30 18:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6Mwd637eYHzUDk2fZN/playlist.m3u8
+#EXTINF:-1 tvg-id="364476928" tvg-name="Ullern FC vs Konnerud (2026-05-30 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6953_1gxmc09rn813.png" group-title="NOR D4",Ullern FC vs Konnerud (2026-05-30 18:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaXDApBxs429k5a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="331665922" tvg-name="Vilniaus Baltijos Futbolo Akademija vs Lietava Jonava (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/34374_1h8assbrcpr.png" group-title="LIT D2",Vilniaus Baltijos Futbolo Akademija vs Lietava Jonava (2026-05-30 19:00) | NHÀ ÐÀI
-https://auto.cdnfaster.live/live/sd-6MwcqNa6dShd9nH57A/playlist.m3u8
+#EXTINF:-1 tvg-id="352756926" tvg-name="Luhansk vs Izberbash (2026-05-30 20:00)" tvg-logo="" group-title="Russian Second League Division B",Luhansk vs Izberbash (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaaRD7YjnEsQhek/playlist.m3u8
+
+#EXTINF:-1 tvg-id="477186920" tvg-name="Skjervoy vs Ulfstind (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6992_1gy95z62ba2m.png" group-title="NOR D4",Skjervoy vs Ulfstind (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaTvibgqmbTGxFe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="272022924" tvg-name="HB Torshavn vs Vikingur Gota (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/2191_1gtqmft1ab19.png" group-title="FAR D1",HB Torshavn vs Vikingur Gota (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqrErgRiGatUWkk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="382756929" tvg-name="Rubin Yalta vs Spartak Nalchik (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/48777_1h5gnvs4w92m.png" group-title="Russian Second League Division B",Rubin Yalta vs Spartak Nalchik (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaaRD7awG7MEcoe/playlist.m3u8
+
+#EXTINF:-1 tvg-id="311891921" tvg-name="Tvaakers IF vs Kristianstads FF (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/14202_1h8fzp9tbs2r.png" group-title="SWE D1 SN",Tvaakers IF vs Kristianstads FF (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvYqxid3eVjYuxs3J/playlist.m3u8
+
+#EXTINF:-1 tvg-id="372756928" tvg-name="FK Rostov-2 vs Dinamo Makhachkala B (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/64430_1hsq2mfjkpd.png" group-title="Russian Second League Division B",FK Rostov-2 vs Dinamo Makhachkala B (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaaRD7d8jyq4XxY/playlist.m3u8
+
+#EXTINF:-1 tvg-id="251821928" tvg-name="Molde vs Sandefjord (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/460_1gxmbm1nc618.png" group-title="NOR D1",Molde vs Sandefjord (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MvZ6ERjc2vVSBGaaG/playlist.m3u8
+
+#EXTINF:-1 tvg-id="344348924" tvg-name="Atletico FC vs Millonarios (2026-05-30 08:10)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6885_1grd73j8km9.png" group-title="COL Cup",Atletico FC vs Millonarios (2026-05-30 08:10) | BLV KAKA
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 tvg-id="344348924_flv" tvg-name="Atletico FC vs Millonarios (2026-05-30 08:10)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6885_1grd73j8km9.png" group-title="COL Cup",Atletico FC vs Millonarios (2026-05-30 08:10) FLV | BLV KAKA
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 tvg-id="490876921" tvg-name="Stord IL vs Fyllingsdalen (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/20327_1gxmbj84h72q.png" group-title="NOR D4",Stord IL vs Fyllingsdalen (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaTskpccvBwCDx8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5f8ad3fc-5e2c-4b96-9b8f-9bbbc976f282" tvg-name="New York Liberty W vs Phoenix Mercury W (2026-05-30 06:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780075597.webp" group-title="WNBA",New York Liberty W vs Phoenix Mercury W (2026-05-30 06:30) | BLV YẾN THANH
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-id="5f8ad3fc-5e2c-4b96-9b8f-9bbbc976f282_flv" tvg-name="New York Liberty W vs Phoenix Mercury W (2026-05-30 06:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780075597.webp" group-title="WNBA",New York Liberty W vs Phoenix Mercury W (2026-05-30 06:30) FLV | BLV YẾN THANH
+https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-id="492756920" tvg-name="Shahter Taganrog vs FK Pobeda Junior (2026-05-30 20:00)" tvg-logo="" group-title="Russian Second League Division B",Shahter Taganrog vs FK Pobeda Junior (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaaRD7hXhiniNGL/playlist.m3u8
+
+#EXTINF:-1 tvg-id="475386920" tvg-name="FF Lillehammer vs Rade (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1943_1jsazdnnttw.png" group-title="NOR D4",FF Lillehammer vs Rade (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaTwS5bfDnXbkbv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="321665921" tvg-name="Atomsfera Mazeikiai vs FK Zalgiris Vilnius B (2026-05-30 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/29576_1h06r5frys1p.png" group-title="LIT D2",Atomsfera Mazeikiai vs FK Zalgiris Vilnius B (2026-05-30 19:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwcqNa6dUu72G6zG4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="322756923" tvg-name="FC Sevastopol vs Druzhba Maykop (2026-05-30 21:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/62334_1h62rwmh6y3.png" group-title="Russian Second League Division B",FC Sevastopol vs Druzhba Maykop (2026-05-30 21:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaaRDHSQCQ62tgk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="332778928" tvg-name="Eastern Suburbs AFC vs Auckland City (2026-05-30 07:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/24658_1j4rb33n0m6.png" group-title="NOR NZL",Eastern Suburbs AFC vs Auckland City (2026-05-30 07:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwe5Waj21a4RyChvk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="372676929" tvg-name="Melhus vs Molde B (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6984_1h15kyv4n31t.png" group-title="NOR D4",Melhus vs Molde B (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6MwdaXEfTQCbKhpoWc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="383705924" tvg-name="Amkar Perm vs PFK Kuban (2026-05-30 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/269_1gx0nnphdv0.png" group-title="Russian Second League Division A",Amkar Perm vs PFK Kuban (2026-05-30 20:00) | NHÀ ÐÀI
+https://auto.cdnfaster.live/live/sd-6Mwd637eYFnzMGCkQU/playlist.m3u8
 
