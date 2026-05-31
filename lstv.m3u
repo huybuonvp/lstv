@@ -1,29 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="468784924" tvg-name="Hoang Anh Gia Lai vs Hanoi FC (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1689_1jqjeqygbn1b.png" group-title="VIE D1",Hoang Anh Gia Lai vs Hanoi FC (2026-05-31 18:00) | BLV LÝ ỨNG
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 tvg-id="468784924_flv" tvg-name="Hoang Anh Gia Lai vs Hanoi FC (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1689_1jqjeqygbn1b.png" group-title="VIE D1",Hoang Anh Gia Lai vs Hanoi FC (2026-05-31 18:00) FLV | BLV LÝ ỨNG
-https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-
-#EXTINF:-1 tvg-id="309784929" tvg-name="Thanh Hoa vs Ninh Binh FC (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/8676_1h5e4e370y1r.png" group-title="VIE D1",Thanh Hoa vs Ninh Binh FC (2026-05-31 18:00) | BLV GẤU KA
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
-#EXTINF:-1 tvg-id="309784929_flv" tvg-name="Thanh Hoa vs Ninh Binh FC (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/8676_1h5e4e370y1r.png" group-title="VIE D1",Thanh Hoa vs Ninh Binh FC (2026-05-31 18:00) FLV | BLV GẤU KA
-https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
-
-#EXTINF:-1 tvg-id="488784926" tvg-name="Hong Linh Ha Tinh vs Da Nang (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23896_1h5e4e370r1y.png" group-title="VIE D1",Hong Linh Ha Tinh vs Da Nang (2026-05-31 18:00) | BLV LÃO HẠC
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 tvg-id="488784926_flv" tvg-name="Hong Linh Ha Tinh vs Da Nang (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23896_1h5e4e370r1y.png" group-title="VIE D1",Hong Linh Ha Tinh vs Da Nang (2026-05-31 18:00) FLV | BLV LÃO HẠC
-https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-
-#EXTINF:-1 tvg-id="352744923" tvg-name="Tianjin Tigers vs Dalian Zhixing (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/81_1gy3vkgfwn2t.png" group-title="CHA CSL",Tianjin Tigers vs Dalian Zhixing (2026-05-31 18:00) | BLV VÕ TÒNG
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
-#EXTINF:-1 tvg-id="352744923_flv" tvg-name="Tianjin Tigers vs Dalian Zhixing (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/81_1gy3vkgfwn2t.png" group-title="CHA CSL",Tianjin Tigers vs Dalian Zhixing (2026-05-31 18:00) FLV | BLV VÕ TÒNG
-https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-
 #EXTINF:-1 tvg-id="478784925" tvg-name="Cong An Ha Noi vs Becamex TP Ho Chi Minh (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/21854_1hgvtfy5jt15.png" group-title="VIE D1",Cong An Ha Noi vs Becamex TP Ho Chi Minh (2026-05-31 18:00) | BLV PHI HỔ
 https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
 
@@ -36,17 +12,29 @@ https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d
 #EXTINF:-1 tvg-id="498784927_flv" tvg-name="Nam Dinh FC vs Song Lam Nghe An (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/6306_1k26fvjzjsh.png" group-title="VIE D1",Nam Dinh FC vs Song Lam Nghe An (2026-05-31 18:00) FLV | BLV MAYBACH
 https://flv.cdnfaster-a.live/live/MAYBACH.flv?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
 
-#EXTINF:-1 tvg-id="429784921" tvg-name="PVF-CAND vs Hai Phong (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/34477_1hrr4bsqf92k.png" group-title="VIE D1",PVF-CAND vs Hai Phong (2026-05-31 18:00) | BLV TRIỆU TỬ LONG
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-id="419784920" tvg-name="Cong An TP Ho Chi Minh vs Viettel FC (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17315_1k3q3st99rc.png" group-title="VIE D1",Cong An TP Ho Chi Minh vs Viettel FC (2026-05-31 18:00) | BLV LÝ QUỲ
+https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
-#EXTINF:-1 tvg-id="429784921_flv" tvg-name="PVF-CAND vs Hai Phong (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/34477_1hrr4bsqf92k.png" group-title="VIE D1",PVF-CAND vs Hai Phong (2026-05-31 18:00) FLV | BLV TRIỆU TỬ LONG
-https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+#EXTINF:-1 tvg-id="419784920_flv" tvg-name="Cong An TP Ho Chi Minh vs Viettel FC (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17315_1k3q3st99rc.png" group-title="VIE D1",Cong An TP Ho Chi Minh vs Viettel FC (2026-05-31 18:00) FLV | BLV LÝ QUỲ
+https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 
-#EXTINF:-1 tvg-id="362744924" tvg-name="Wuhan Three Towns vs Yunnan Yukun (2026-05-31 18:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/38904_1hd5at5b6g1y.png" group-title="CHA CSL",Wuhan Three Towns vs Yunnan Yukun (2026-05-31 18:35) | BLV HÀN TÍN
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-id="468784924" tvg-name="Hoang Anh Gia Lai vs Hanoi FC (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1689_1jqjeqygbn1b.png" group-title="VIE D1",Hoang Anh Gia Lai vs Hanoi FC (2026-05-31 18:00) | BLV LÝ ỨNG
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
 
-#EXTINF:-1 tvg-id="362744924_flv" tvg-name="Wuhan Three Towns vs Yunnan Yukun (2026-05-31 18:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/38904_1hd5at5b6g1y.png" group-title="CHA CSL",Wuhan Three Towns vs Yunnan Yukun (2026-05-31 18:35) FLV | BLV HÀN TÍN
-https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 tvg-id="468784924_flv" tvg-name="Hoang Anh Gia Lai vs Hanoi FC (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1689_1jqjeqygbn1b.png" group-title="VIE D1",Hoang Anh Gia Lai vs Hanoi FC (2026-05-31 18:00) FLV | BLV LÝ ỨNG
+https://flv.cdnfaster-a.live/live/LYUNG1.flv?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+
+#EXTINF:-1 tvg-id="309784929" tvg-name="Thanh Hoa vs Ninh Binh FC (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/8676_1h5e4e370y1r.png" group-title="VIE D1",Thanh Hoa vs Ninh Binh FC (2026-05-31 18:00) | BLV GẤU KA
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+
+#EXTINF:-1 tvg-id="309784929_flv" tvg-name="Thanh Hoa vs Ninh Binh FC (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/8676_1h5e4e370y1r.png" group-title="VIE D1",Thanh Hoa vs Ninh Binh FC (2026-05-31 18:00) FLV | BLV GẤU KA
+https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14
+
+#EXTINF:-1 tvg-id="208121923" tvg-name="Degerfors IF vs Brommapojkarna (2026-05-31 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1738_1h8fzpmyv32k.png" group-title="SWE D1",Degerfors IF vs Brommapojkarna (2026-05-31 19:00) | BLV NGƯỜI THÉP
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+
+#EXTINF:-1 tvg-id="208121923_flv" tvg-name="Degerfors IF vs Brommapojkarna (2026-05-31 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1738_1h8fzpmyv32k.png" group-title="SWE D1",Degerfors IF vs Brommapojkarna (2026-05-31 19:00) FLV | BLV NGƯỜI THÉP
+https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
 
 #EXTINF:-1 tvg-id="313709921" tvg-name="Singapore vs Mongolia (2026-05-31 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/777_165018987224.png" group-title="INT FRL",Singapore vs Mongolia (2026-05-31 18:30) | BLV MÃ SIÊU
 https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
@@ -54,27 +42,63 @@ https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fc
 #EXTINF:-1 tvg-id="313709921_flv" tvg-name="Singapore vs Mongolia (2026-05-31 18:30)" tvg-logo="https://cdn-img.cdnokvip.com/logos/777_165018987224.png" group-title="INT FRL",Singapore vs Mongolia (2026-05-31 18:30) FLV | BLV MÃ SIÊU
 https://flv.cdnfaster-a.live/live/MASIEU.flv?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b
 
-#EXTINF:-1 tvg-id="419784920" tvg-name="Cong An TP Ho Chi Minh vs Viettel FC (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17315_1k3q3st99rc.png" group-title="VIE D1",Cong An TP Ho Chi Minh vs Viettel FC (2026-05-31 18:00) | BLV LÝ QUỲ
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-id="319509925" tvg-name="Albion FC vs Montevideo City Torque (2026-05-31 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/34393_1hce5639dd28.png" group-title="URU D1",Albion FC vs Montevideo City Torque (2026-05-31 20:00) | BLV TÂY MÔN KHÁNH
+https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 tvg-id="419784920_flv" tvg-name="Cong An TP Ho Chi Minh vs Viettel FC (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/17315_1k3q3st99rc.png" group-title="VIE D1",Cong An TP Ho Chi Minh vs Viettel FC (2026-05-31 18:00) FLV | BLV LÝ QUỲ
-https://flv.cdnfaster-a.live/live/LYQUY.flv?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
+#EXTINF:-1 tvg-id="319509925_flv" tvg-name="Albion FC vs Montevideo City Torque (2026-05-31 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/34393_1hce5639dd28.png" group-title="URU D1",Albion FC vs Montevideo City Torque (2026-05-31 20:00) FLV | BLV TÂY MÔN KHÁNH
+https://flv.cdnfaster-a.live/live/TAYMONKHANH.flv?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da
 
-#EXTINF:-1 tvg-id="483298921" tvg-name="Japan vs Iceland (2026-05-31 17:25)" tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="INT FRL",Japan vs Iceland (2026-05-31 17:25) | BLV KAKA
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-id="268121929" tvg-name="Vasteras SK FK vs IFK Goteborg (2026-05-31 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1313_1h8qpbfht1z.png" group-title="SWE D1",Vasteras SK FK vs IFK Goteborg (2026-05-31 19:00) | BLV FERNANDO
+https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 tvg-id="483298921_flv" tvg-name="Japan vs Iceland (2026-05-31 17:25)" tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="INT FRL",Japan vs Iceland (2026-05-31 17:25) FLV | BLV KAKA
-https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+#EXTINF:-1 tvg-id="268121929_flv" tvg-name="Vasteras SK FK vs IFK Goteborg (2026-05-31 19:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1313_1h8qpbfht1z.png" group-title="SWE D1",Vasteras SK FK vs IFK Goteborg (2026-05-31 19:00) FLV | BLV FERNANDO
+https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb
 
-#EXTINF:-1 tvg-id="2d5963f1-4ace-4917-a57a-9d0d56c18d16" tvg-name="Japan vs Iceland (2026-05-31 17:25)" tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="INT FRL",Japan vs Iceland (2026-05-31 17:25) | BLV KEVILL
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-id="362744924" tvg-name="Wuhan Three Towns vs Yunnan Yukun (2026-05-31 18:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/38904_1hd5at5b6g1y.png" group-title="CHA CSL",Wuhan Three Towns vs Yunnan Yukun (2026-05-31 18:35) | BLV HÀN TÍN
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 
-#EXTINF:-1 tvg-id="2d5963f1-4ace-4917-a57a-9d0d56c18d16_flv" tvg-name="Japan vs Iceland (2026-05-31 17:25)" tvg-logo="https://cdn-img.cdnokvip.com/logos/788_166919982535.png" group-title="INT FRL",Japan vs Iceland (2026-05-31 17:25) FLV | BLV KEVILL
-https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+#EXTINF:-1 tvg-id="362744924_flv" tvg-name="Wuhan Three Towns vs Yunnan Yukun (2026-05-31 18:35)" tvg-logo="https://cdn-img.cdnokvip.com/logos/38904_1hd5at5b6g1y.png" group-title="CHA CSL",Wuhan Three Towns vs Yunnan Yukun (2026-05-31 18:35) FLV | BLV HÀN TÍN
+https://flv.cdnfaster-a.live/live/HANTIN.flv?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
 
-#EXTINF:-1 tvg-id="e4b08cf9-2270-4720-b3e9-090c27e06d2a" tvg-name="Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel (2026-05-31 16:15)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165453.png" group-title="PBA",Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel (2026-05-31 16:15) | BLV YẾN THANH
+#EXTINF:-1 tvg-id="352744923" tvg-name="Tianjin Tigers vs Dalian Zhixing (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/81_1gy3vkgfwn2t.png" group-title="CHA CSL",Tianjin Tigers vs Dalian Zhixing (2026-05-31 18:00) | BLV VÕ TÒNG
+https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="352744923_flv" tvg-name="Tianjin Tigers vs Dalian Zhixing (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/81_1gy3vkgfwn2t.png" group-title="CHA CSL",Tianjin Tigers vs Dalian Zhixing (2026-05-31 18:00) FLV | BLV VÕ TÒNG
+https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+
+#EXTINF:-1 tvg-id="429784921" tvg-name="PVF-CAND vs Hai Phong (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/34477_1hrr4bsqf92k.png" group-title="VIE D1",PVF-CAND vs Hai Phong (2026-05-31 18:00) | BLV TRIỆU TỬ LONG
+https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 tvg-id="429784921_flv" tvg-name="PVF-CAND vs Hai Phong (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/34477_1hrr4bsqf92k.png" group-title="VIE D1",PVF-CAND vs Hai Phong (2026-05-31 18:00) FLV | BLV TRIỆU TỬ LONG
+https://flv.cdnfaster-a.live/live/TRIEUTULONG.flv?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070
+
+#EXTINF:-1 tvg-id="ee246974-d00c-4ea2-8db7-64caf2e5a250" tvg-name="Nhatrang Dolphins vs Saigon Heat (2026-05-31 19:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165506.png" group-title="VBA",Nhatrang Dolphins vs Saigon Heat (2026-05-31 19:30) | BLV YẾN THANH
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 
-#EXTINF:-1 tvg-id="e4b08cf9-2270-4720-b3e9-090c27e06d2a_flv" tvg-name="Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel (2026-05-31 16:15)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165453.png" group-title="PBA",Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel (2026-05-31 16:15) FLV | BLV YẾN THANH
+#EXTINF:-1 tvg-id="ee246974-d00c-4ea2-8db7-64caf2e5a250_flv" tvg-name="Nhatrang Dolphins vs Saigon Heat (2026-05-31 19:30)" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1780165506.png" group-title="VBA",Nhatrang Dolphins vs Saigon Heat (2026-05-31 19:30) FLV | BLV YẾN THANH
 https://flv.cdnfaster-a.live/live/YENTHANH1.flv?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+
+#EXTINF:-1 tvg-id="488784926" tvg-name="Hong Linh Ha Tinh vs Da Nang (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23896_1h5e4e370r1y.png" group-title="VIE D1",Hong Linh Ha Tinh vs Da Nang (2026-05-31 18:00) | BLV LÃO HẠC
+https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 tvg-id="488784926_flv" tvg-name="Hong Linh Ha Tinh vs Da Nang (2026-05-31 18:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/23896_1h5e4e370r1y.png" group-title="VIE D1",Hong Linh Ha Tinh vs Da Nang (2026-05-31 18:00) FLV | BLV LÃO HẠC
+https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
+
+#EXTINF:-1 tvg-id="363609925" tvg-name="Switzerland vs Jordan (2026-05-31 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="INT FRL",Switzerland vs Jordan (2026-05-31 20:00) | BLV KAKA
+https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 tvg-id="363609925_flv" tvg-name="Switzerland vs Jordan (2026-05-31 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/558_164983533378.png" group-title="INT FRL",Switzerland vs Jordan (2026-05-31 20:00) FLV | BLV KAKA
+https://flv.cdnfaster-a.live/live/KAKA.flv?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
+
+#EXTINF:-1 tvg-id="372631920" tvg-name="AC Oulu vs Jaro (2026-05-31 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1855_165724417951.png" group-title="FIN D1",AC Oulu vs Jaro (2026-05-31 20:00) | BLV KEVILL
+https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+
+#EXTINF:-1 tvg-id="372631920_flv" tvg-name="AC Oulu vs Jaro (2026-05-31 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1855_165724417951.png" group-title="FIN D1",AC Oulu vs Jaro (2026-05-31 20:00) FLV | BLV KEVILL
+https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799
+
+#EXTINF:-1 tvg-id="c9115547-3ddd-4979-9aab-c4eaa9727899" tvg-name="AC Oulu vs Jaro (2026-05-31 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1855_165724417951.png" group-title="FIN D1",AC Oulu vs Jaro (2026-05-31 20:00) | BLV LỮ BỐ
+https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
+
+#EXTINF:-1 tvg-id="c9115547-3ddd-4979-9aab-c4eaa9727899_flv" tvg-name="AC Oulu vs Jaro (2026-05-31 20:00)" tvg-logo="https://cdn-img.cdnokvip.com/logos/1855_165724417951.png" group-title="FIN D1",AC Oulu vs Jaro (2026-05-31 20:00) FLV | BLV LỮ BỐ
+https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1
 
