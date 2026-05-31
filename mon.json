@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "ch-392609927-378",
-          "name": "⚽ Fagiano Okayama vs Urawa Red Diamonds",
+          "id": "ch-326635923-368",
+          "name": "⚽ Haman FC vs Jinju Citizen",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/7943_1h53w49p622b.png",
+            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1780212425.webp",
             "width": 1600,
             "height": 1200
           },
@@ -47,30 +47,144 @@
           ],
           "sources": [
             {
-              "id": "src-392609927",
+              "id": "src-326635923",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-392609927",
-                  "name": "Fagiano Okayama vs Urawa Red Diamonds",
+                  "id": "cnt-326635923",
+                  "name": "Haman FC vs Jinju Citizen",
                   "streams": [
                     {
-                      "id": "str-392609927",
+                      "id": "str-326635923",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-392609927-m3u8",
+                          "id": "lnk-326635923-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/FERNANDO/index.m3u8?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
+                        },
+                        {
+                          "id": "lnk-326635923-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/FERNANDO.flv?expire=1924930980&sign=bab24fb93b0be5c98af9138659989bcb"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-d1dd13df-df90-4ca2-b15e-5eb28e74187d-337",
+          "name": "⚽ Hwaseong FC vs Gyeongnam FC",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://cdn-img.cdnokvip.com/logos/18801_1jkpmbbms12b.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-d1dd13df-df90-4ca2-b15e-5eb28e74187d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-d1dd13df-df90-4ca2-b15e-5eb28e74187d",
+                  "name": "Hwaseong FC vs Gyeongnam FC",
+                  "streams": [
+                    {
+                      "id": "str-d1dd13df-df90-4ca2-b15e-5eb28e74187d",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d1dd13df-df90-4ca2-b15e-5eb28e74187d-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33"
+                        },
+                        {
+                          "id": "lnk-d1dd13df-df90-4ca2-b15e-5eb28e74187d-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
+                          "url": "https://flv.cdnfaster-a.live/live/VANCONAN.flv?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ch-307706921-378",
+          "name": "⚽ Hills United (W) vs UNSW FC (W)",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1780218378.png",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-307706921",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "cnt-307706921",
+                  "name": "Hills United (W) vs UNSW FC (W)",
+                  "streams": [
+                    {
+                      "id": "str-307706921",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-307706921-m3u8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": " https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14"
+                        },
+                        {
+                          "id": "lnk-307706921-flv",
+                          "name": "Link 2",
+                          "type": "flv",
+                          "default": false,
                           "url": "https://hls.cdnfaster-a.live/live/GAUKA/index.m3u8?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14"
-                        },
-                        {
-                          "id": "lnk-392609927-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/GAUKA.flv?expire=2530553700&sign=778587d85b2551e2baa61a02917ace14"
                         }
                       ]
                     }
@@ -81,8 +195,8 @@
           ]
         },
         {
-          "id": "ch-204309927-253",
-          "name": "⚽ Sunshine Coast Wanderers FC vs Virginia United",
+          "id": "ch-339430920-246",
+          "name": "⚽ Brisbane Olympic United FC vs Brisbane City",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/33654_1gt31y56wf25.png",
+            "url": "https://cdn-img.cdnokvip.com/logos/9337_1gryyqvhk2m.png",
             "width": 1600,
             "height": 1200
           },
@@ -104,30 +218,30 @@
           ],
           "sources": [
             {
-              "id": "src-204309927",
+              "id": "src-339430920",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-204309927",
-                  "name": "Sunshine Coast Wanderers FC vs Virginia United",
+                  "id": "cnt-339430920",
+                  "name": "Brisbane Olympic United FC vs Brisbane City",
                   "streams": [
                     {
-                      "id": "str-204309927",
+                      "id": "str-339430920",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-204309927-m3u8",
+                          "id": "lnk-339430920-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
+                          "url": "https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1"
                         },
                         {
-                          "id": "lnk-204309927-flv",
+                          "id": "lnk-339430920-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/NGUCA.flv?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526"
+                          "url": "https://flv.cdnfaster-a.live/live/LUBO.flv?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1"
                         }
                       ]
                     }
@@ -138,8 +252,8 @@
           ]
         },
         {
-          "id": "ch-389703928-372",
-          "name": "⚽ Sydney United vs Sutherland Sharks",
+          "id": "ch-e4b08cf9-2270-4720-b3e9-090c27e06d2a-320",
+          "name": "⚽ Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -147,7 +261,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/6665_1gxw2287pxx.png",
+            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1780165453.png",
             "width": 1600,
             "height": 1200
           },
@@ -161,368 +275,26 @@
           ],
           "sources": [
             {
-              "id": "src-389703928",
+              "id": "src-e4b08cf9-2270-4720-b3e9-090c27e06d2a",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "cnt-389703928",
-                  "name": "Sydney United vs Sutherland Sharks",
+                  "id": "cnt-e4b08cf9-2270-4720-b3e9-090c27e06d2a",
+                  "name": "Rain or Shine Elasto Painters vs Barangay Ginebra San Miguel",
                   "streams": [
                     {
-                      "id": "str-389703928",
+                      "id": "str-e4b08cf9-2270-4720-b3e9-090c27e06d2a",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-389703928-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
-                        },
-                        {
-                          "id": "lnk-389703928-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/LAOHAC.flv?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-229430929-374",
-          "name": "⚽ Magic United TFA vs Queensland Lions SC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/23124_1gtn1ev8fg2t.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-229430929",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-229430929",
-                  "name": "Magic United TFA vs Queensland Lions SC",
-                  "streams": [
-                    {
-                      "id": "str-229430929",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-229430929-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
-                        },
-                        {
-                          "id": "lnk-229430929-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/NGUOITHEP.flv?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-491588922-377",
-          "name": "⚽ Logan Lightning vs St George Willawong FC",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/16882_1jry10yyb519.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-491588922",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-491588922",
-                  "name": "Logan Lightning vs St George Willawong FC",
-                  "streams": [
-                    {
-                      "id": "str-491588922",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-491588922-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
-                        },
-                        {
-                          "id": "lnk-491588922-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/PHIHO.flv?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-94317f45-a633-4a5b-a45f-21b4d3601418-328",
-          "name": "⚽ Otago Nuggets vs Southland Sharks",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1780165425.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-94317f45-a633-4a5b-a45f-21b4d3601418",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-94317f45-a633-4a5b-a45f-21b4d3601418",
-                  "name": "Otago Nuggets vs Southland Sharks",
-                  "streams": [
-                    {
-                      "id": "str-94317f45-a633-4a5b-a45f-21b4d3601418",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-94317f45-a633-4a5b-a45f-21b4d3601418-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
-                        },
-                        {
-                          "id": "lnk-94317f45-a633-4a5b-a45f-21b4d3601418-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/VOTONG.flv?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-313609920-290",
-          "name": "⚽ Shimizu S-Pulse vs Yokohama Marinos",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-313609920",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-313609920",
-                  "name": "Shimizu S-Pulse vs Yokohama Marinos",
-                  "streams": [
-                    {
-                      "id": "str-313609920",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-313609920-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799"
-                        },
-                        {
-                          "id": "lnk-313609920-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/KEVILL.flv?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a110799"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-5777a4b1-3a72-4587-9cd0-f7f4ca32e714-300",
-          "name": "⚽ Shimizu S-Pulse vs Yokohama Marinos",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://cdn-img.cdnokvip.com/logos/191_1gtzcts2p01p.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5777a4b1-3a72-4587-9cd0-f7f4ca32e714",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-5777a4b1-3a72-4587-9cd0-f7f4ca32e714",
-                  "name": "Shimizu S-Pulse vs Yokohama Marinos",
-                  "streams": [
-                    {
-                      "id": "str-5777a4b1-3a72-4587-9cd0-f7f4ca32e714",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5777a4b1-3a72-4587-9cd0-f7f4ca32e714-m3u8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
-                        },
-                        {
-                          "id": "lnk-5777a4b1-3a72-4587-9cd0-f7f4ca32e714-flv",
-                          "name": "Link 2",
-                          "type": "flv",
-                          "default": false,
-                          "url": "https://flv.cdnfaster-a.live/live/TONLAP.flv?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "ch-0be99373-1a85-4563-aaff-7fb026e9f703-320",
-          "name": "⚽ Franklin Bulls vs Auckland Tuatara",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://upload-img.cdnokvip.com/uploads/team_logo/1780165399.png",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0be99373-1a85-4563-aaff-7fb026e9f703",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "cnt-0be99373-1a85-4563-aaff-7fb026e9f703",
-                  "name": "Franklin Bulls vs Auckland Tuatara",
-                  "streams": [
-                    {
-                      "id": "str-0be99373-1a85-4563-aaff-7fb026e9f703",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0be99373-1a85-4563-aaff-7fb026e9f703-m3u8",
+                          "id": "lnk-e4b08cf9-2270-4720-b3e9-090c27e06d2a-m3u8",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
                           "url": "https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582"
                         },
                         {
-                          "id": "lnk-0be99373-1a85-4563-aaff-7fb026e9f703-flv",
+                          "id": "lnk-e4b08cf9-2270-4720-b3e9-090c27e06d2a-flv",
                           "name": "Link 2",
                           "type": "flv",
                           "default": false,
